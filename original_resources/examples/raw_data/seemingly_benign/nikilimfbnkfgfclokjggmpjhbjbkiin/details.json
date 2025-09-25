@@ -1,0 +1,861 @@
+{
+  "url": "https://chromewebstore.google.com/detail/vine-quotes-new-tab/nikilimfbnkfgfclokjggmpjhbjbkiin",
+  "paymentType": "free",
+  "logo": "https://lh3.googleusercontent.com/PdOYCeO8jYVxQMe3ojnaB5AdBXbB2Pm4iZAyIT9tqLGq4cVbr5VXJw5puSgTAkhvQb4QjfwZeLpRRWL7u14sSlvgdA",
+  "name": "Vine Quotes - New Tab",
+  "id": "nikilimfbnkfgfclokjggmpjhbjbkiin",
+  "version": "1.0",
+  "description": "Displays a new vine quote along with the user's top sites every time new tab is opened",
+  "fullSummary": "Upon opening a new tab, enjoy a fresh vine quote, along with links to your top sites.\n\nSimple and soothing.\n\nRIP Vine.",
+  "userCount": 8,
+  "lastUpdate": "2018-12-04",
+  "size": 7127,
+  "supportedLanguages": [
+    "en"
+  ],
+  "category": "lifestyle/fun",
+  "itemCategory": "extension",
+  "media": [
+    {
+      "screenshot": "https://lh3.googleusercontent.com/WilahjEmEmzC1rVRijhI4M0Q4NhnJljSfapmrlsvBc7dbt3qKLBzZXYpU3ctRqPofAtgbWKKKJaFV3U1x9JPVvUCOQ"
+    }
+  ],
+  "numScreenshots": 1,
+  "permissions": [
+    {
+      "key": "permission-topSites",
+      "risk": 5
+    },
+    {
+      "key": "permission-override-newtab",
+      "risk": 5
+    }
+  ],
+  "author": "nworthington16dev",
+  "related": [
+    "lblbdlideidphhfofbpocigbkkhingfg",
+    "fdehphjgknbbfmaopdnhciplgjfifjkc",
+    "cepkojdphimpnliceeffcknbnlekcifg",
+    "miagjfhahnjmnnmhdgelhmbpjgojfnok",
+    "gckjoaicbopdnkkkcmbhmamioeepjjkn",
+    "hebpbmepdiaagnenlpjclmncidmljlgl",
+    "hblgnkilfpgjgncgjjkdckoimlbfjlko",
+    "lmiddnkmmagpmjelndpfopggdlfcjfja",
+    "okfkcgdchhdlhekohmidnidgmonlpjed",
+    "iellnmonjokmoagdlggagdmfjgpiahmb",
+    "pkmjihonggeefhkldlbdnpnhecgfgojc",
+    "adbenckfpdnmlhleegopganmonbchdkb"
+  ],
+  "privacyCollections": [],
+  "riskScore": 1,
+  "riskImpact": 1,
+  "riskLikelihood": 1,
+  "creationDate": "2018-12-04",
+  "fetchId": "20240527",
+  "oneWeekDelta": {
+    "userCount": 0
+  },
+  "oneDayDelta": {
+    "userCount": 0
+  },
+  "ranking": [
+    {
+      "ts": "20240527",
+      "value": {
+        "overall-rank": 115083,
+        "extension-rank": 89512,
+        "cat-lifestyle/fun-rank": 9008,
+        "keyword-quote-rank": 257
+      }
+    }
+  ],
+  "reviews": [],
+  "metaTitle": "Vine Quotes - New Tab",
+  "metaDescription": "Enjoy a fresh vine quote and links to your top sites every time you open a new tab.",
+  "metaSummary": "Vine Quotes - New Tab is a Chrome extension that displays a new vine quote and links to your top sites every time you open a new tab. It provides a simple and soothing browsing experience, while paying homage to the now defunct Vine platform.",
+  "downloads": {
+    "enabled": true,
+    "zipUrl": "/api/download?id=nikilimfbnkfgfclokjggmpjhbjbkiin&type=ZIP&version=1.0",
+    "crxUrl": "/api/download?id=nikilimfbnkfgfclokjggmpjhbjbkiin&type=CRX&version=1.0"
+  },
+  "alternatives": [
+    {
+      "url": "https://chromewebstore.google.com/detail/googlifier/lblbdlideidphhfofbpocigbkkhingfg",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/eHXilyTv9JEBmaSF3QfwyKJ3OW3Lzwlbgzz86lOcPqYER_H-lL5ZLnqyE7ubiZrnQm6_53GO5VaUHL_4KGv1gspx5Q",
+      "name": "Googlifier",
+      "id": "lblbdlideidphhfofbpocigbkkhingfg",
+      "version": "1.1.0",
+      "description": "Add googly eyes to photos on sites you browse! Tweet your best with #googlifier! Created by @stephanwozniak with help from mtschirs.",
+      "fullSummary": "Googlifier will locate eyes in photos loaded in your current browser tab and stick a googly eye on 'em. Or try, anyway.\n\nPress contact: stephan.wozniak@gmail.com\n\nAs seen on ABC News, CNET, Yahoo, AV Club, and endorsed by Pee-Wee Herman (seriously!).\n\nYou can save photos that have been googlified just like any normal picture online. Tweet 'em with hashtag #googlifier!\n\nThanks to mtschirs (https://github.com/mtschirs) for both his contributions to Googlifer as well as his work overall on js-objectdetect, as this whole extension relies on accurate object detection.\n\nAll registered copyrights and trademarks in the examples are property of their respective owners.",
+      "userCount": 5000,
+      "lastUpdate": "2018-10-03",
+      "helpUrl": "https://twitter.com/stephanwozniak",
+      "size": 143360,
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/I1xZoluCYvbQVTcqeOGEmBuoiPjzlqCkpvGIp3bJMzM9QRvzH49Dehmpv1xpnfhRD7tbHssYHMB8t6rVn45wICB3"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/lGUK_uf9Uki56hjamU4Wl8A3y_0HhUhAG_0Do7_1aNuhT55klM5CREFqqk8b7GA1PMi-UJPVJj5BCmKuAtquEKCd"
+        }
+      ],
+      "numScreenshots": 2,
+      "smallBanner": "https://lh3.googleusercontent.com/Dd2uvudAaz1Tff7-GKhyK3aRI3cnFr8Szb6BncybWNIB6cj6HSj7GkfBPYDkpMU2czfuLHnc3TdBCk6Kua21RgDP",
+      "ratingValue": 4.211538461538462,
+      "ratingCount": 52,
+      "permissions": [
+        "<all_urls>"
+      ],
+      "author": "Steve Wozniak",
+      "related": [
+        "imkdafnalljikgogmjdccklndcdbfnng",
+        "ifbchccfedjkkhlnffjckaghjdpchhmo",
+        "kjjfieeekngphmcnclbgcaepogljinhi",
+        "iddmabhekhhonkmomaklnflhhgbfnioe",
+        "knbheoggdkhaaakmfgdlephniiicdmbd",
+        "gncmnedemogangodiljmfmlbndnchlnm",
+        "icdphajhndamimeleigndjlofmcpgjho",
+        "hgjfibdfedjcopejmhnhcimefdlfdpig",
+        "ihcnbadcckafkjidbccichfdjbahnfnn",
+        "afimbdjeknokdnhccecbkonhehohkbpa",
+        "ccoadkojhdgbdadpblcccejkehncebpg",
+        "kfieapkahkkhclonobinbonddbfkpbck"
+      ],
+      "privacyCollections": [],
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 2,
+      "riskLikelihood": 0,
+      "creationDate": "2018-10-02",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/yee-extension/fdehphjgknbbfmaopdnhciplgjfifjkc",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/4SYXsJAAmpMZgY3enUa0iIGC8k7enNjLCJt3qdF8eGcphyjif6CBZAvqmOfO0GtDFnTvLbmaKcDjztvR27xNgZs",
+      "name": "YEE Extension",
+      "id": "fdehphjgknbbfmaopdnhciplgjfifjkc",
+      "version": "1.1",
+      "description": "When you click the button it goes YEE!",
+      "fullSummary": "When installing this extension, it puts a button to the right of the omnibox which is used for fun. When clicked it plays \"YEE\" and shows a little picture of \"YEE\". Its really funny when played at the right time. ;)\n\nVersion 1.1: Removed controls and upped music volume.",
+      "userCount": 3000,
+      "lastUpdate": "2015-10-29",
+      "size": 418816,
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/vkNgseFId3TuyOaH3n4bA45m-1J41qfMxUcWUI54aKK_Pb_0XstTzYRnaPkZA2Ceac70Ect9Mllw069VbvieA0pDmg"
+        },
+        {
+          "video": "https://www.youtube.com/embed/M5QGriZq0YM?rel=0&wmode=opaque&enablejsapi=1"
+        }
+      ],
+      "numScreenshots": 1,
+      "numVideos": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/ntUxizpCrJ4dCLBOAVZnJ6FwBimPMwptaUHJ4X8kKAs_BjT0GsTDEVtWLFpWTFyg2wQAgFEKn84K00eHgqMx1ruQDw",
+      "ratingValue": 4.914893617021277,
+      "ratingCount": 47,
+      "permissions": [
+        "activeTab"
+      ],
+      "author": "MultiLagio",
+      "related": [
+        "llddhchjnhehgmmgepgblhigldicnjpc",
+        "gncmnedemogangodiljmfmlbndnchlnm",
+        "lfejkakhoegjknhpdadiojmblbfembib",
+        "ecofnlndicmgjgodcoiggbjlaipjmenb",
+        "ifbchccfedjkkhlnffjckaghjdpchhmo",
+        "kfieapkahkkhclonobinbonddbfkpbck",
+        "ilplnmjooojahcdghggbaaeddjmopccl",
+        "ndchmakhfaakbkhnkdgambadneloplnn",
+        "lihlkjckblhbcicemcbfeffgmijdclne",
+        "pjcdhkbaikmnoohihpjjfoablmnanjml",
+        "kincnocnlbhfhdfoknhiailjoickbfla",
+        "pefpfonanmllmikkgkcibbmijobflocb"
+      ],
+      "privacyCollections": [],
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 1,
+      "creationDate": "2015-10-29",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/piano-prime/cepkojdphimpnliceeffcknbnlekcifg",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/rEygkCEySokJvZ67NBeOZfykAP0zWBAy3bNnhG9qkLbMFzuL2CDFJO6RBtQloqpDHYCf5T9NAx_37wK8sBBsXlpxbQ",
+      "name": "Piano Prime",
+      "id": "cepkojdphimpnliceeffcknbnlekcifg",
+      "version": "0.1.6",
+      "description": "An easy-to-use and lite piano app for your browser!",
+      "fullSummary": "Piano Prime is a fun, and very simple piano extension for your browser.\n\nThis addon is a lite and very easy-to-use app for playing or learning Piano. You can play your favorite song with the built-in keyboard, or mouse. There is also an option to record desired song(s) and replay it at any time. In total, there are 52 keyboard keys but only 20 of them are visible when you install the App for the first time. This number can be changed from the options page. A setting is available to hide the built-in keyboard (top section). Moreover, the sustain-control option makes bits last a bit longer (for a more professional playing).\n\nFew features:\n1. The App and all the settings are auto-saved to the memory.\n2. You can play piano with the keyboard, mouse, or the built-in keyboard at the top.\n3. Number of visible keys is adjustable to your desired choice (default is 27).\n4. You can hide the keyboard from the options page.\n5. There is also a sustain control key to match sounds to your need (default is off).\n6. You can record or replay any song(s) from the sidebar settings panel.\n\nNote: to report bugs, please fill the bug report form on the addon's homepage (https://mybrowseraddon.com/piano.html).",
+      "userCount": 20000,
+      "lastUpdate": "2023-12-24",
+      "helpUrl": "https://mybrowseraddon.com/piano.html",
+      "size": 6406799,
+      "email": "jorvi.uuer@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/entertainment",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Cbwbwea874f9xw8h_v_Bw7jk40zNTgG94NrIlOwf-ogsT9oLyNkX1_SY_jrJMcQGVnCRh_8sdG_FiZ6bvwDICIP_EQ"
+        }
+      ],
+      "numScreenshots": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/84wl7IW3rpaQsvHPtqc694lIfVGt_wXkCLQ1sQhw5a6EsJ7qcXHiSUQfg7qDFB_0z0KgbQtxgUj_7T0Kxbc20mHDKg",
+      "ratingValue": 4.4,
+      "ratingCount": 10,
+      "permissions": [
+        "storage",
+        "contextMenus"
+      ],
+      "author": "Jorvi",
+      "related": [
+        "odmpelncojfblhlfpecmammbmhdoghco",
+        "pjafcgbpdclmdeiipolenjgkikeldljl",
+        "cdciibllmibdlannjhadoapbdpgeemga",
+        "mjankngableaneikajphfjdiblpfmldl",
+        "mhchghbhodjlkbkidohbkcelgdknhpdi",
+        "pkonnmkgoekhcpbkoklnhakhlekgjdgj",
+        "ghafgonoapifjmpfpcnkbjlihapolngi",
+        "noibhcdnkkakmlfeobnoojnanannagce",
+        "ffnollhbblfkkoionkipdjfepajlbeop",
+        "aelilchegodhfninjoolghfaoeikadni",
+        "ndmelloaocjpkhmajmkdbbhimohlclkd",
+        "oljoggdfjccjjdhmpneknggimlhdijji"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 0,
+      "creationDate": "2020-03-04",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/do-it-shia-labeouf-super/miagjfhahnjmnnmhdgelhmbpjgojfnok",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/4FEp1LNmsiIaOk943oe9py4j16b77uHoxvF8JWBUHgtL1kXCDdH8YcYoUvDOIL4uodhbQ1Jfa7kqAhKv2X2p552V",
+      "name": "Do It! Shia Labeouf (Super Pack)",
+      "id": "miagjfhahnjmnnmhdgelhmbpjgojfnok",
+      "version": "0.15",
+      "description": "Let Shia Labeouf motivate you with \"JUST DO IT!\" monolugue",
+      "fullSummary": "Inspired by eTaheri this is a better version of \"JUST DO IT\" by Shai Labeouf\n\n- 6 different video clips (SUPER PACK)\n- random clip each time\n- got tired of a video, no problem! just click the button to get another one.\n\n*** RUN OUTSIDE THE CHROME STORE ***\n\n\nRelease Notes : \n~~~~~~~~~~~~~~~~~~\n\n1.5\n----\n- restrain popup\n- add facebook support\n\n1.4\n----\nbetter appearance frequency for banner\n\n1.3\n----\nsmoother banner\n\n\n1.2\n----\n- popup alert if trying to run on chrome blank screen (blocking content scripts)\n- smoother banner\n\n1.1\n----\n- popup alert if trying to run inside chrome store.\n\n\n1.0 \n----\n- fixed the cutting on the original video \n- fixed title on chrome store\n- guys please rate me on the chrome store! this will really help\n- enjoy!",
+      "userCount": 10000,
+      "lastUpdate": "2015-11-03",
+      "size": 12813599,
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/social",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/_2NDMvODh9fTbW9Wd9D8iWkrKkPagS-InKTS87voOo7TDWCWP7tSM28F29gfAXWd_VTzmwGp-0sh67gu7JiZqGtDZWs"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/x6VYCqy7Gn1dp3jjZ31-cK1JpGiMDarez9vbnHvA5-4Vn3P-pVgFNbDd6kUWah9Y-1yH7dLJR-bF5IsfVcJRGQBRy3w"
+        }
+      ],
+      "numScreenshots": 2,
+      "smallBanner": "https://lh3.googleusercontent.com/Q78ZfyF0_d-e0nb_YB5be3YCQrfhteA7A9w_gQKenEVqkAph4d4aOw99WDIygnOI91H4MnHdwaKfbZdQt4TcDUdFCA",
+      "ratingValue": 4.790419161676646,
+      "ratingCount": 1002,
+      "permissions": [
+        "http://*/*",
+        "https://*/*",
+        "tabs",
+        "storage",
+        "activeTab"
+      ],
+      "author": "CasuaLoL",
+      "related": [
+        "ndchmakhfaakbkhnkdgambadneloplnn",
+        "pdnkdpkigplndkpnciommmacnplfjbal",
+        "ifbchccfedjkkhlnffjckaghjdpchhmo",
+        "ilplnmjooojahcdghggbaaeddjmopccl",
+        "fgjgoafidgcedcpggdmefoagkelfpenk",
+        "kincnocnlbhfhdfoknhiailjoickbfla",
+        "hhefngpodlchpliblcebihdlecfngeeg",
+        "fdehphjgknbbfmaopdnhciplgjfifjkc",
+        "ecofnlndicmgjgodcoiggbjlaipjmenb",
+        "pjcdhkbaikmnoohihpjjfoablmnanjml",
+        "cbdobfnjgnmlcajcamdfjeofmnecepdl",
+        "ddgcohekjighkfgkhcpdinbifogpaglg"
+      ],
+      "privacyCollections": [],
+      "riskScore": 3,
+      "riskImpact": 3,
+      "riskLikelihood": 0,
+      "creationDate": "2015-11-03",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/android-imessage-messages/gckjoaicbopdnkkkcmbhmamioeepjjkn",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/7k95WctkSzzGDR5llenfidTdEBDgmZ5MPPjdLP90-XqIErHwZlU7RSeCzPXrOxRWsk9cRPXgs2-n2jIdlLs0eY5R",
+      "name": "Android iMessage Messages Theme",
+      "id": "gckjoaicbopdnkkkcmbhmamioeepjjkn",
+      "version": "0.0.1",
+      "description": "A Chrome Extension that gives the Android Messages Web Client an iMessage Theme",
+      "fullSummary": "If you're a fan of the OSX iMessage UI and layout on desktop, this Chrome Extension gives the Android Messages Web Client an iMessage Theme. It's even compatible when adding Messages to your desktop as a Chrome App!\n\n(Leave Dark Mode off for the theme to work properly)\n\nRequired: \nMessages for Web https://messages.google.com/web/\n\nLeave any comments or suggestions you'd like to see in the next update.",
+      "userCount": 1000,
+      "lastUpdate": "2019-12-01",
+      "size": 41155,
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "make_chrome_yours/accessibility",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/DOuiQ_nGA2AQh7vnW6ULtHIwFnpahFJ3sVKk0Y3_dbtH3-yxkKYZzPXb50XrTSEM_OBmIl0JjUtlEvwcJ4ye8esz"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 1.5384615384615385,
+      "ratingCount": 13,
+      "permissions": [
+        "https://messages.google.com/web/*"
+      ],
+      "author": "johnuberbacher",
+      "related": [
+        "meknbncbeioaffkoibipojfjibmfbnld",
+        "mciklklnhemleglghlcjeigibjohmgac",
+        "himmciocmhnindiepdhcfhikjhpgabfa",
+        "pffcnjobiiecfnddjfojkdgdjbcocmon",
+        "dllplfhjknghhdneiblmkolbjappecbe",
+        "ehpomalhbdabpiijhpbcpfjiihnjhnmg",
+        "mgojgddhfhekopdpkocobommepgdeffb",
+        "hkhjfcfonfkhnpcpkhpbpmplnlcpcldh",
+        "jjbjdleccaiklfpcblgekgmjadjdclkp",
+        "dkfhfaphfkopdgpbfkebjfcblcafcmpi",
+        "ebpiggoccjgdoecccbcmenmbcnoldalf",
+        "ahiickjmnblnnhjcomiegpdikaboegda"
+      ],
+      "privacyCollections": [],
+      "riskScore": 2,
+      "riskImpact": 2,
+      "riskLikelihood": 1,
+      "creationDate": "2019-12-01",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/pong/hebpbmepdiaagnenlpjclmncidmljlgl",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/ZhF9AGbm5xI70hr6es8bX-eSgk4fRpRL9y98m4tS4ViwV2mCnjcDwNC32EEMUjZTPt3Er66c3MOAZ_ZjlDYnCr0J",
+      "name": "Pong",
+      "id": "hebpbmepdiaagnenlpjclmncidmljlgl",
+      "version": "1",
+      "description": "Single & Multiplayer Pong",
+      "fullSummary": "Pong for Chrome is the easiest way to play your favourite Arcade game.\n\nPong supports single & multi player gameplay!",
+      "userCount": 70000,
+      "lastUpdate": "2017-09-16",
+      "size": 100270,
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/jic24HMbdK0cWHZ51GRBzYv_QGUHRNIFH70ExSaeqtjjSomhKQLU0jAacCkz1z0y6sEqvRJknlJY3IeACEJ7V5_FBg"
+        }
+      ],
+      "numScreenshots": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/p7JxSaN_ox3FPTUcKJZMGJQoVEyW7O_Z1sdLjwiQQcEPArlVLnCBw4I5Va88h5zl5CJEEmIJhVZ2OfPR0Ek99wee",
+      "ratingValue": 4.371428571428571,
+      "ratingCount": 35,
+      "permissions": [
+        "https://www.google-analytics.com/*",
+        "http://arcadepong.io/*"
+      ],
+      "author": "thc",
+      "related": [
+        "kojjcgophkdegmmjdiccpmcnoglklamk",
+        "ommioalakfmjgimbjpbojbdhcgdipngh",
+        "pidkjcapccmhpdokcjnkngcflobhopdl",
+        "ffnollhbblfkkoionkipdjfepajlbeop",
+        "oppflpnigmhkldmdmmbnopidlhahanji",
+        "ijkmjnaahlnmdjjlbhbjbhlnmadmmlgg",
+        "lpjljcoihnoipcoialpjbnfbojnolkej",
+        "iginnfkhmmfhlkagcmpgofnjhanpmklb",
+        "ogbjfaoljhhadaijpjaojepohlnipmlp",
+        "iahlhdckoidjglhdpdlmeidmpicggdin",
+        "lnbeleladnlfoedlgpnlfmekoejohicg",
+        "bnchicpgbdgahiecgofdabidjihblaff"
+      ],
+      "privacyCollections": [],
+      "riskScore": 2,
+      "riskImpact": 2,
+      "riskLikelihood": 1,
+      "creationDate": "2017-09-15",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/fishtank/hblgnkilfpgjgncgjjkdckoimlbfjlko",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/KeHQ3fHH79gyequrtv6fsdR_NqXXvg-TpdM8UrF3o9e2MLpU6o4ftCzD3dxkfwrc8YjmkwWT30gkmNW-eTnrH-7W7w",
+      "name": "Fishtank",
+      "id": "hblgnkilfpgjgncgjjkdckoimlbfjlko",
+      "version": "1.0.7",
+      "description": "Fill your personal aquarium with beautiful digital fish.",
+      "fullSummary": "Fishtank lets you populate your own personal aquarium with spectacular digital fish. Earning fish eggs is simple - spend enough time on a popular site and you will eventually unlock a unique fish. Your fish will grow over time without needing food or care, happy to swim around the dynamic aquarium in your browser.\n\nI hope you enjoy using this browser extension - as an independent developer, I had a blast creating each fish from scratch based on the world's favorite websites, and I'm always coming up with new ones to add to the game. I hope you have fun watching your fish tank grow as you continue to browse the web!\n\nPrivacy notice: your browsing activity is occasionally sampled in order to generate unique fish for you - it is not collected by me or anyone else.",
+      "userCount": 10000,
+      "lastUpdate": "2024-04-05",
+      "size": 222208,
+      "email": "fishtank.extension@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/KM6MrccRu5a5GoxN92Bz2NSxPaYKnYCgtB5op8cwfImKK_KuQonb6ODY5UwrUhjvDhFzWdjLHg575BK7-DEt4_mCgw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Q74Q7AtIEIbRtQOmAAOTjFmQx0YefC3QzsZ82t9Bfd-eCTKfQXIXJKXYBaEbW0iUKm_m2neAemnJzdoWUDJfl2RGFA"
+        }
+      ],
+      "numScreenshots": 2,
+      "smallBanner": "https://lh3.googleusercontent.com/qzlomy6MLuU_MJqQPgkXIV_Lg2ZD9_oBCIuhZNyHFwQJm46ye_o5I9i4amt2XijWdy9gbuoxzVWC0q4n5hqzargX",
+      "ratingValue": 3.9523809523809526,
+      "ratingCount": 42,
+      "permissions": [
+        "tabs",
+        "storage",
+        "alarms"
+      ],
+      "author": "Fishtank",
+      "related": [
+        "jnpagnhcemblbjmaodhdeopdaoifdeag",
+        "aihjpkojknmkmmpeceojgaeccoeeaddo",
+        "ifaicffibnedodkbekogndkdfeojcofb",
+        "oekcldnibfbbhgkmadgjlabcdjefclkm",
+        "ibggmlahcckfbcghmbnbdmkmolmaejfc",
+        "pgkfdknjaidahdoiodilffcnafbfffjo",
+        "nedimkoolcnedillajmobdhlmeibokgp",
+        "afimbdjeknokdnhccecbkonhehohkbpa",
+        "lafedkjifefhamlgolmlecpaekehmbed",
+        "jmpdakdpppggedloepbcodjhlliooclp",
+        "ccnpdidcjgcdgaopacccfghmgdlipnoc",
+        "kflpnkjgjjgcgbomedddhlfiobfjnnch"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 2,
+      "riskLikelihood": 0,
+      "creationDate": "2020-05-26",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/one-true-check-twitter-le/lmiddnkmmagpmjelndpfopggdlfcjfja",
+      "paymentType": "in_app",
+      "logo": "https://lh3.googleusercontent.com/NaiwzLmO0d5D0Vz-tmgVtnDokVU5svdBrlSq-w0Jz1R5EwT2n__jHmylC13EeHGqzruReJKLdw2WbCmt6lEuwRzl",
+      "name": "One True Check: Twitter Legacy Verified Users",
+      "id": "lmiddnkmmagpmjelndpfopggdlfcjfja",
+      "version": "1.1.0",
+      "description": "An unopinionated tool that displays a checkmark next to the name of each user who was verified with Twitter's legacy system.",
+      "fullSummary": "THIS IS A FREE TRIAL, YOU CAN PURCHASE THE COMPLETE VERSION IN THE EXTENSION ITSELF.\n\nThe full version can be purchased for a one-time fee of $1.99 USD within the extension; the free version consists of a 7-day trial.",
+      "userCount": 16,
+      "lastUpdate": "2023-05-22",
+      "helpUrl": "https://onetruecheck.com",
+      "size": 5043651,
+      "email": "onetruecheck@proton.me",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/social",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://onetruecheck.com",
+      "media": [
+        {
+          "video": "https://www.youtube.com/embed/pZD4OS4suFE?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/6CK_qa8L5lDRNpU9nAss4dOXGHf5JlRicQJFEPxXJRmrQb0UuxOTfgkfixzwt0IdldEKUeJb-W7LxI9dj9FUdMfE"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/d21i-VpJmaaD7R5i5TiXBQ5FGvc58N1jxFoxsu-5svdFtkCaOXPiPunik5gAhSP-7TFeyRMQlyiiPVRJTOhTvAJK-ow"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/4ou14yTcCUaCHqLg7N2ZHCs1Eiih6ZExeSm9Ku4SFhJcarVgqt04rPeHRkDDqwFiNjd_9RDWdZTvt4Agv_3uXs9CWw"
+        }
+      ],
+      "numScreenshots": 3,
+      "numVideos": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/HEMZUPJe_0-YyiG0xlFmuAXgQ_kODixk_Egpvs3dQbm2EbKx-HRMKP5zKzp3xq228BQ5I5_j4FoRmivpRUIU1Zbuxw",
+      "ratingValue": 5,
+      "ratingCount": 2,
+      "permissions": [
+        "storage"
+      ],
+      "author": "https://onetruecheck.com",
+      "website": "https://onetruecheck.com",
+      "related": [
+        "dnkcehbggcflmgklilfkmpflpkbokmfo",
+        "hhocnbflnknkooipcgpeigageelgnlpe",
+        "eagjjbicnlghfjbpdiklhkbfhepaomip",
+        "nbnijmocgfgnjcliceahehmfggadfmfl",
+        "hibhidgmfehdhjdlpcjjcbningggpolk",
+        "lbljkplhmhfacdanpmjemiehaohpijib",
+        "nlllhkginoedacofgaifoiaencnpmpcl",
+        "fnedfcbbnheaaalbcomblggcjopblpki",
+        "keageehkkajaaplkobeamcbnojeaippl",
+        "hnmcgdfgngenmibkbbddgankhmdbgeee",
+        "pndjbadijenppgbgeoigdhaoiglepchg",
+        "cfmfcjflmheajmdmechcgnlonajnhhmd"
+      ],
+      "privacyCollections": [
+        1,
+        3
+      ],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 0,
+      "creationDate": "2023-04-26",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/twitter-blue-verified-rem/okfkcgdchhdlhekohmidnidgmonlpjed",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/EuTU4Blu-l4_kbULomr-XbHOUweFswASLuYeGbLEcnUaPnG3g-VrQcvuM7jjIrbnq-1fzuE266yosvKHYUXFpYRp8w",
+      "name": "Twitter Blue Verified Removal",
+      "id": "okfkcgdchhdlhekohmidnidgmonlpjed",
+      "version": "1.0",
+      "description": "Remove paid verified Twitter checkmarks.",
+      "fullSummary": "Only removes paid Twitter checkmarks.",
+      "userCount": 50,
+      "lastUpdate": "2022-11-15",
+      "size": 35574,
+      "email": "zeeuwed001@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/cb9bw_zgV59lSKJZ_GwfwxMqq052qR0Cp8oangpqWr2c4xbOmpV_fvgMkTWf-T0WKopTH5rrlAkcFIMgW2v3a9aP"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/1HtY_yKiJzLhL6ZKFEu2Ug1_P7Nt_QuIhNtF1lH5Lo5z6lr26v0v21tWFaNZqSl3qNUJknRuNnRFk0mpyf4lfVD2O3U"
+        }
+      ],
+      "numScreenshots": 2,
+      "ratingValue": 5,
+      "ratingCount": 1,
+      "author": "zeeuwed001",
+      "related": [
+        "jgpjphkbfjhlbajmmcoknjjppoamhpmm",
+        "jgpfnkhpecliocnopchaoogpmnejlghn",
+        "jhkoihkndkemdikaiafkiolgidghjfkl",
+        "ilodkaidiippiakjnjmeclaaodgeocli",
+        "nebfimpiljmmgfgaiaponfmcopndjkpg"
+      ],
+      "privacyCollections": [
+        9
+      ],
+      "disclosePrivacyCollection": true,
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2022-11-15",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/restore-old-google-icons/iellnmonjokmoagdlggagdmfjgpiahmb",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/Kh3RYvSoo_ZcvFHjcUocNpOEwThUHNFKvSKIpeopq3LgH_jlg6VH6LoH3YDeWm0oBixi8KmOOtI822k5jFZqqLKGig",
+      "name": "Restore old Google icons",
+      "id": "iellnmonjokmoagdlggagdmfjgpiahmb",
+      "version": "0.2",
+      "description": "Restore the old icon on Meet, Calendar, Gmail etc to make tabs more recognizable",
+      "fullSummary": "This extension restore the old icon on Meet, Calendar and Gmail to make tabs more recognizable. That increases accessibility.\n\nSuper simple :) nothing more.",
+      "userCount": 10000,
+      "lastUpdate": "2020-11-06",
+      "size": 54446,
+      "email": "claudiopostinghel@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "make_chrome_yours/accessibility",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/8-ZQghDH1LEAjoIqHpJhY59s0hWVG7GXSNTKdRKvxA7yDUP0hA6GygezHppPlJ3qir3POVYU7M23tEvnksOqEqG8"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 4.405940594059406,
+      "ratingCount": 101,
+      "permissions": [
+        "*://calendar.google.com/*",
+        "*://docs.google.com/*",
+        "*://drive.google.com/*",
+        "*://mail.google.com/*",
+        "*://meet.google.com/*"
+      ],
+      "author": "claudiopostinghel",
+      "related": [
+        "gdiohdhgkjainohnfhofjoebohnfknnm",
+        "ncbicbgeegipcfhebdekkdlekodpmone",
+        "iedffooliepgabiihipcbokboecnfcbe",
+        "kgeeboiogegjflbegfohadbddiiabhnb",
+        "fgofmpkkcmalkeloaihfljngbibciile",
+        "ncfmlogaelpnniflgipmnnglhfiifkke",
+        "mncmlbggmdcmddddanjcgabpajadljhm",
+        "klcijojgndghhnmkifealgnjgmclghio",
+        "dhifdlfedboijpanpblghhhakpnncadb",
+        "mdgdgieddpndgjlmeblhjgljejejkikf",
+        "ophglpgeanjkbpnljnokjlclhkgcnbdh",
+        "meigofcidjeckljcajpedlihfenjldbi"
+      ],
+      "privacyCollections": [],
+      "riskScore": 3,
+      "riskImpact": 4,
+      "riskLikelihood": 1,
+      "creationDate": "2020-11-02",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/8m6n_Jym5xFWF9Me0WWiUCbWeogCQT9ENPu58dHfQUMlkM8kPM8V4NQNtSV_fW7L5GZFyxN9fa5tdm2Sub2NZuwU",
+      "name": "twiks",
+      "id": "pkmjihonggeefhkldlbdnpnhecgfgojc",
+      "version": "1.2.0",
+      "description": "Power-up your productivity on Twitter with undo tweets button, pause live feed, and more magic!",
+      "fullSummary": "The 2023 Twitter Power Extension!\n\n- Power-up your productivity on Twitter with an undo tweets button, pause live feed, and more magic!\n\n- That one extension you'll always need!\n\n\n\n\ud83d\udd25  Features \n\n  - \ud83d\ude0d  Undo your tweets \n\n  - \u23f3 Count-down timer \n\n  - \ud83d\udd79 Double-click to tweet without waiting \n\n  - \ud83d\udc36  One-click button for a cute picture of a pup to keep you happy anytime!\n\n  - \u23f8 Pause Twitter's automatic live feed refresh\n\n  - \ud83c\udf0d Disable Twitter's URL shortening (https://t.co/) that obfuscates URLs\n\n  - Open-source (https://github.com/lirantal/twiks)\n\n  - Minimal set of permissions and full transparency!\n\n\n\n\ud83d\udc49  https://twiks.pro\n\nGet your license and kickstart a new Twitter experience!\n\n--- Changelog ---\n\ud83d\udcc6 2021/01/23 - v1.2.0\nFixed support for newer Chrome installs with manifest v2 to v3 migration\nFixed page observer glitch\n\n--- Changelog ---\n\ud83d\udcc6 2021/03/06 - v1.1.1\nFix CORS issue with extension\n\n--- Changelog ---\n\ud83d\udcc6 2020/10/07 - v1.1.0\nFix update buttons area to be all clickable\nFix blocking twitter feed to only be in the scope of new tweets and not conversations \n\n\ud83d\udcc6 2020/10/06 - v1.0.10\nFix for block all timeline/* updates to account for home.json and home_latest URLs\n\n\ud83d\udcc6 2020/09/19 - v1.0.9\nFix  Undo button to add a little bit more spacing on the right so it looks perfecto!\n\n\ud83d\udcc6 2020/09/16 - v1.0.8\nAdd new feature for disabling Twitter's URL shortening which replaces URLs with a https://t.co/ tiny URL.\nFix \"Pause\" live feed button to have better text and icon that are friendlier\nFix typo in search links\n\n\ud83d\udcc6  2020/09/06 - v1.0.7\nFix for extension starting up with live feed paused by default\n\n\ud83d\udcc6  2020/09/04 - v1.0.6\nAdd support for license key validation and loading indicator when checking the license\n\n\ud83d\udcc6  2020/09/02 - v1.0.5\nFix for Twitter's both GET and POST requests to load new tweets on the timeline. Now the extension intercepts both methods to stop Twitter from refreshing the feed.\n\n\ud83d\udcc6  2020/08/30 - v1.0.4\nAdd random happy dog picture button\nFix visual horizontal line from the sidebar for a clean look\n\n\ud83d\udcc6  2020/08/29 - v1.0.3\nAdd feature of search links into the sidebar for quick-searches\nAdd licensing capabilities\n\n\ud83d\udcc6  2020/08/21- v1.0.2\nUpdate styling of extension's popup \n\n\n--- Feature review ---\n\n\n\u2705    Undo tweets\n\nCustomize the time to count-down and as soon as you hit the Tweet button on the main page, a countdown timer begins, giving you a safety time window to review the text again and make fixes as necessary. You can at any time undo the tweet, to cancel the countdown, make changes, and hit the Tweet button again for a new countdown.\n\nHow many times have you had spelling errors?\nYou hate tweeting too fast and then regretting that offending message?\n\nNo more! have a safety tweet button that guards you from making these mistakes.\n\nAre you 100% sure of yourself? double-click the Tweet button to bypass the Undo functionality.\n\n\n\n\u2705    Pause the live feed\n\nDo you find it annoying that Twitter auto-refreshes the timeline and updates the feed with new tweets while you are scrolling? Me too. That's essentially why I started building this extension. It made it really hard for me to find conversations while scrolling.\n\nThis feature allows you to pause/resume the live feed updates with a click of a button. Like, literally!\n\n\n\n\u2705    Random happy dogs pictures\n\nIt is sometimes very lonely at Twitter. I feel that too.\n\nDo you feel like you need a cute picture or gif of a dog to turn up your happiness level? Say no more. I got your back. One click button to show you a random cute pup in action.\n\n\n\n\u2705   Minimalistic permissions\n\nI'm very conscious of the security and privacy of you as an individual.\n\nThis extension only requires the set of permissions that it absolutely needs in order to function properly:\n   * storage - to save your customized settings\n\n   * webRequest & webRequestBlocking - to monitor twitter's HTTP requests to load timeline tweets in your timeline so it can block them, thus disabling the automatic live feed refresh.\n\n   * only operates on the limited set of URL addresses conforming to this pattern ://*.twitter.com/* and so it avoids injecting itself to all other URLs and websites.\n\n\n\n\u2705   Open Source\n\nThe open-source and public-facing part of this extension is managed in the open on GitHub https://github.com/lirantal/twiks and it only includes the code related to the Undo button, which is part of the freemium offering of this extension. If you wish to receive the full source code for the extension for educational purposes (or security scrutiny) I'm happy to make it available for you. Just contact me and I'll send you a copy.",
+      "userCount": 27,
+      "lastUpdate": "2023-01-23",
+      "helpUrl": "https://github.com/lirantal/twiks",
+      "size": 56371,
+      "email": "liran.tal@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "video": "https://www.youtube.com/embed/zupmU8_p5cU?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/kip80lkcskjf9Q1uBrX3Hf8R-72IZALqhYtSYvqETwbg7C1Rga0DGnI2ekjqhatdMG_syQURnhAkO8mkpn9qsI4uxw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/fYnInXNU0aoU0BvogAwQ10ZEZZJi0YBRkRLZ7t8NcyW7WmjazQK8G5-J4WaSfqfAdGG39tCRngqdKB5BJ8pAsb03OQ"
+        }
+      ],
+      "numScreenshots": 2,
+      "numVideos": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/iRMU6nhsI80n-qjdpYPV2lXp-8gyyZ9LYmwgopwM0Lq6qiW6uev0AG5U9X8psy466hCEWlHuHF13-Xqz1WdnrFxE_A",
+      "ratingValue": 5,
+      "ratingCount": 1,
+      "author": "liran.tal.dev",
+      "related": [
+        "lmocojeaajhekebcnifbejlggachgmim",
+        "gmdhfohiimofdkgfibdamlamdbehooba",
+        "igolfhjmmmclfcjjfmafbghjeelmafij",
+        "noppjecknmnihknoebobfkfhkpcndook",
+        "hhockakmlacjbpmkahbefapdechlogbd",
+        "kofnnmoilpjbdcpgpfldmonmcmemkbip",
+        "ipldmffgjegnflofelcomladejjllfli",
+        "aflpfginfpjhanhkmdpohpggpolfopmb",
+        "cllpkmbebfmadmkkpplnaaffnhjjpgbi",
+        "nkdicobabedjmonjeejijjekbgakknea",
+        "bemifmkccpafkhlknbckkapaipplfgel",
+        "npjpenabklghongijldkcpieocgailoc"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 2,
+      "riskLikelihood": 0,
+      "creationDate": "2020-08-12",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/cursor-sparkles/adbenckfpdnmlhleegopganmonbchdkb",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/kEnCNgqaydahDuYwY8_tv_gCf6sgE_zdOTnbDcZmQnqt2FnGm4t6J9uOTp5DMtr0FLLvsR6IQMEJw65UZS9qKZk9",
+      "name": "Cursor Sparkles",
+      "id": "adbenckfpdnmlhleegopganmonbchdkb",
+      "version": "1.5",
+      "description": "Adds sparkles to your cursor",
+      "fullSummary": "Sparkle-ify your cursor.\n\nVersion 1.4 Update\n==============\n\n* Adds animation selector (new animations coming soon!)\n* General bug fixes and performance improvements\n\nVersion 1.2 Update\n==============\n\n* Fixes bug where sparkles would get very large\n* Adds new Trailing mode. Sparkles leave trails instead of following cursor\n* Adds new Icon/Popup to chrome to change settings\n  - Change back to old mode (Follow)\n  - Change number of sparkles\n  - Toggle whether or not the sparkles are enabled",
+      "userCount": 20000,
+      "lastUpdate": "2017-12-20",
+      "size": 11520,
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Q-AW_Kk-Iz-9ttwyn4stvhNNJNnZxJ9bYqapN7TZod0t52R2-Sf0Hv1iePI9hZjwply2Qckb0S4Ru1lJL3IYrz5bMA"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/XdNQUqE72ftqEdZcd2Z---URiNHZrJcK8cxqNH4Zf1fbSu5y79bAz7sm1iK-uD1zLivqEv2Emode3Bo6oqz7xBeHNQ"
+        },
+        {
+          "video": "https://www.youtube.com/embed/0cyjrI7JhxM?rel=0&wmode=opaque&enablejsapi=1"
+        }
+      ],
+      "numScreenshots": 2,
+      "numVideos": 1,
+      "ratingValue": 2.9072164948453607,
+      "ratingCount": 97,
+      "permissions": [
+        "storage"
+      ],
+      "author": "jrf0110",
+      "related": [
+        "mnonoobhfgdhidonjmabidmejggjcnil",
+        "bdjaekjkckpdknkfncfnaibkabdcgmkg",
+        "ndlalmkdjajlefnlimdbmgdhehblelpl",
+        "lppmahciboilaokklohhhdlaadkobgpc",
+        "nbkomboflhdlliegkaiepilnfmophgfg",
+        "npfnmnpgmelioikiledodkimffbejdjn",
+        "beegmjpglpekcgcegnpikjnndlblacif",
+        "fkabcmgccfbkglnbhmllbcmndhkcaohh",
+        "aaighaoobppofhhfoakhmhpgdagfbdgc",
+        "hngdnbnepjjamanhmkgolabelaaladjk",
+        "fifmamcgakmdooafeplohbidenfjhmhm",
+        "cokbkfdekagbhjgcbmfocehbmocjmgmk"
+      ],
+      "privacyCollections": [],
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 0,
+      "creationDate": "2017-12-20",
+      "fetchId": "20240527"
+    }
+  ],
+  "crossPlatformData": {},
+  "score": {
+    "userCount": 0,
+    "ratingValue": 0,
+    "ratingCount": 0,
+    "size": 100,
+    "lastUpdate": 0,
+    "permission": 90
+  },
+  "allRanks": [
+    {
+      "label": "Overall",
+      "key": "overall-rank",
+      "value": 115083,
+      "path": "/top?page=4604&date=2024-05-27"
+    },
+    {
+      "label": "Just for Fun",
+      "type": "cat",
+      "key": "cat-lifestyle/fun-rank",
+      "value": 9008,
+      "path": "/c/lifestyle%2Ffun?page=361&date=2024-05-27"
+    },
+    {
+      "label": "quote",
+      "type": "keyword",
+      "key": "keyword-quote-rank",
+      "value": 257,
+      "path": "/keyword/quote?page=11&date=2024-05-27",
+      "difficulty": 13.397049999999998
+    }
+  ],
+  "oneWeekAgoRanks": [
+    {
+      "label": "Overall",
+      "key": "overall-rank",
+      "value": 114612,
+      "path": "/top?page=4585&date=2024-05-27"
+    },
+    {
+      "label": "Just for Fun",
+      "type": "cat",
+      "key": "cat-lifestyle/fun-rank",
+      "value": 8965,
+      "path": "/c/lifestyle%2Ffun?page=359&date=2024-05-27"
+    },
+    {
+      "label": "quote",
+      "type": "keyword",
+      "key": "keyword-quote-rank",
+      "value": 234,
+      "path": "/keyword/quote?page=10&date=2024-05-27",
+      "difficulty": 13.397049999999998
+    }
+  ],
+  "alternateNames": [],
+  "asOfDate": "2024-05-27",
+  "risk": {
+    "permissions": [
+      "permission-topSites",
+      "permission-override-newtab"
+    ],
+    "specificHosts": [],
+    "authorUrlIsInvalid": false,
+    "abnormalRatingTrend": null,
+    "abnormalUserTrend": null,
+    "knownMalware": null,
+    "knownBadReview": null,
+    "riskScore": 1,
+    "permissionScore": 90,
+    "allPermissions": [
+      {
+        "key": "permission-topSites",
+        "risk": 5
+      },
+      {
+        "key": "permission-override-newtab",
+        "risk": 5
+      }
+    ],
+    "riskImpact": 1,
+    "riskLikelihood": 1,
+    "daysSinceLastUpdate": 2001,
+    "daysSinceCreation": 2001
+  },
+  "manifestJson": "{\n\"update_url\": \"https://clients2.google.com/service/update2/crx\",\n\n    \"name\": \"Vine Quotes - New Tab\",\n    \"version\": \"1.0\",\n    \"description\": \"Displays a new vine quote along with the user's top sites every time new tab is opened\",\n    \"manifest_version\": 2,\n    \"chrome_url_overrides\": {\n        \"newtab\": \"index.html\"\n    },\n    \"permissions\": [\n        \"topSites\"\n    ]\n}",
+  "manifestSummary": {
+    "meta_version": 2,
+    "manifest_version": 2,
+    "override_newtab": true,
+    "permissions": [
+      "topSites"
+    ]
+  },
+  "isDownloadBlocked": false,
+  "minAsOfDate": "2024-05-19",
+  "maxAsOfDate": "2024-05-27"
+}

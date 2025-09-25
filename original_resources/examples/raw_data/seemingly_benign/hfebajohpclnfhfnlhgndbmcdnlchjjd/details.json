@@ -1,0 +1,982 @@
+{
+  "url": "https://chromewebstore.google.com/detail/bitbucket-pull-request-to/hfebajohpclnfhfnlhgndbmcdnlchjjd",
+  "paymentType": "free",
+  "logo": "https://lh3.googleusercontent.com/TK3urk_2mtw0UQhNNzcFfiMRA23b-7p8WD8jMW9FKRk6qESmoA5vrSJOJVez_ZgjCDLTpFpw0XDdDtiA1km5VL75",
+  "name": "BitBucket Pull Request Toggle Buttons",
+  "id": "hfebajohpclnfhfnlhgndbmcdnlchjjd",
+  "version": "0.5.1.3",
+  "description": "Adds Toggle buttons for files in BitBucket Pull Requests",
+  "fullSummary": "Adds Toggle buttons for files in BitBucket Pull Requests, allowing you to quickly collapse and re-expand sections of the pull request for readability. Now also adds a button to switch to Ignore Whitespace mode.",
+  "userCount": 16,
+  "lastUpdate": "2016-03-10",
+  "size": 86917,
+  "email": "soapergem@gmail.com",
+  "publisherAddress": "2309 Talc Trail\nMadison, WI 53719\nUSA",
+  "publisherCountry": "USA",
+  "supportedLanguages": [
+    "en"
+  ],
+  "category": "productivity/developer",
+  "itemCategory": "extension",
+  "privacyPolicyUrl": "http://gordon-myers.com/cepp.html",
+  "media": [
+    {
+      "screenshot": "https://lh3.googleusercontent.com/3wocGhM1BtfeqGdMyOJS0dk5lNWLX8iBbB58ffgnNGr5xnQrGxxBqbk3uPbvvoKcAZIV6hbdANZFi2mf0Ch9EK9XT_Q"
+    }
+  ],
+  "numScreenshots": 1,
+  "ratingValue": 5,
+  "ratingCount": 1,
+  "author": "soapergem",
+  "related": [
+    "cdfbkmackojgkcohdfikiablcecbcdfa",
+    "odildldpegnccaajmpminocolianigjl",
+    "ljnjpkadhhcdniohpfilddnhahoigdec",
+    "afppminkfnfngihdocacbgeajbbdklkf",
+    "idfhgkibldeniiijlnenfhlilhbifbff",
+    "dlflgkjacacpmhdpiggkdiaieddfmkia",
+    "hlagecmhpppmpfdifmigdglnhcpnohib",
+    "eihoefojnhgfnhlcplgafjaikcbdfdco",
+    "bfkikmfkcnoogbhhebglhagdpmhnblmk",
+    "pgpjdkejablgneeocagbncanfihkebpf",
+    "dbifmilkbhjgdgalenpladkndcfjdpbk",
+    "gdlgapfeojaalkehffdggdaphpfoigea"
+  ],
+  "privacyCollections": [],
+  "riskScore": 1,
+  "riskImpact": 1,
+  "riskLikelihood": 1,
+  "creationDate": "2016-03-10",
+  "fetchId": "20240527",
+  "oneWeekDelta": {
+    "userCount": 0,
+    "ratingValue": 0,
+    "ratingCount": 0
+  },
+  "oneDayDelta": {
+    "userCount": 0,
+    "ratingValue": 0,
+    "ratingCount": 0
+  },
+  "ranking": [
+    {
+      "ts": "20240527",
+      "value": {
+        "overall-rank": 99702,
+        "extension-rank": 77242,
+        "cat-productivity/developer-rank": 9191,
+        "keyword-toggle-rank": 72,
+        "keyword-request-rank": 133,
+        "keyword-pull-rank": 62
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "reviewId": "\\362\\375\\2652\\026\\3216\\215\\227\\254\\323T\\204.\\026\\300\\226J\\207%\\\"\\322\\330D\\320\\014KJZ\\246\\374\\252",
+      "authorId": "Martin Chiu (Marty)",
+      "authorName": "Martin Chiu (Marty)",
+      "authorPicture": "https://lh3.googleusercontent.com/a-/ALV-UjWwHSAyiGOLGHxXae-4WgpXUYHtsu9_p0YBWYUlSFmwN875=s32",
+      "rating": 5,
+      "creationTime": 1426521104000,
+      "updatedTime": 1426521128000,
+      "timestamp": "2015-03-16",
+      "ingestionTime": 1710245736873,
+      "numHelpful": 0,
+      "numVoted": 0,
+      "version": null,
+      "body": "This is a great tool!  Makes reviewing pull requests much easier.",
+      "lang": "en",
+      "fetchId": "20240312"
+    }
+  ],
+  "metaTitle": "BitBucket Pull Request Toggle Buttons",
+  "metaDescription": "Enhance your BitBucket Pull Request experience with toggle buttons for files and Ignore Whitespace mode.",
+  "metaSummary": "BitBucket Pull Request Toggle Buttons is a Chrome extension that adds toggle buttons to collapse and re-expand sections of BitBucket Pull Request files for readability. It also provides a button to switch to Ignore Whitespace mode.",
+  "downloads": {
+    "enabled": true,
+    "zipUrl": "/api/download?id=hfebajohpclnfhfnlhgndbmcdnlchjjd&type=ZIP&version=0.5.1.3",
+    "crxUrl": "/api/download?id=hfebajohpclnfhfnlhgndbmcdnlchjjd&type=CRX&version=0.5.1.3"
+  },
+  "alternatives": [
+    {
+      "url": "https://chromewebstore.google.com/detail/github-review-filters/cdfbkmackojgkcohdfikiablcecbcdfa",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/bU12HLVHmzWTbDYIdVVMDeTQxYZqnSvVK0_uHY9ocFSa6eYRT6f_lHL_9pYNwm9WwoHLeIp_tWtYHmWqKo5WzQXwug",
+      "name": "GitHub Review Filters",
+      "id": "cdfbkmackojgkcohdfikiablcecbcdfa",
+      "version": "0.1.4",
+      "description": "Chrome extension that creates a filters menu bar on GitHub so that you can show/hide file types for pull requests.",
+      "fullSummary": "If you manage pull requests that have a lot of files and you only need to review certain file types, then this is the extension for you. A dynamic toolbar will appear underneath GitHub's main navigation bar which will give you buttons to show or hide individual file types or show/hide all file types. Each file type filter button also shows the number of times that file type is present within the pull request. When on the /pulls/ page the navigation bar will allow you to filter the requesters of the available pull requests on the page.",
+      "userCount": 26,
+      "lastUpdate": "2015-06-18",
+      "size": 126976,
+      "supportedLanguages": [
+        "id",
+        "ms",
+        "de",
+        "en-GB",
+        "en-US",
+        "fil",
+        "fr",
+        "nl",
+        "no",
+        "vi",
+        "tr",
+        "ca",
+        "da",
+        "et",
+        "es",
+        "es-419",
+        "hr",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "pl",
+        "pt-BR",
+        "pt-PT",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv",
+        "cs",
+        "el",
+        "bg",
+        "ru",
+        "uk",
+        "iw",
+        "hi",
+        "th",
+        "ar",
+        "zh-CN",
+        "zh-TW",
+        "ja",
+        "ko"
+      ],
+      "category": "productivity/developer",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/O3gdfuWQ91oTVkc8k1Y05YS9vhHj6F9RVOiFK0QX-6Vg8-VZGgyVNLK52BS-gEUZo4tItgstHVHLCNnto3vrecxtEw"
+        }
+      ],
+      "numScreenshots": 1,
+      "permissions": [
+        "https://*.com/*/*/issues*",
+        "https://*.org/*/*/issues*",
+        "https://*.us/*/*/issues*",
+        "https://*.com/*/*/pull*",
+        "https://*.org/*/*/pull*",
+        "https://*.us/*/*/pull*"
+      ],
+      "author": "psyrendust",
+      "related": [
+        "ahkcgmpcfiijldaijfjekdffckpidieb",
+        "aoojogkiedabnddmokieplfnmjehlneo",
+        "plebohahijhmebohbcifnaccfkjdgppe",
+        "hcjehejpankhfgchggllpehjoleheidm",
+        "blocadmfchabihonegcgjjikbbmpliph",
+        "lminappfllpnijhgafphnmcdfbnppmac",
+        "cjppnimohipmnginpfcfghchkbpdaioo",
+        "fdlcmnpfgnebkpnoclaalonenhhbdpnf",
+        "bgkfamnjiedcggijadfmjopnmidnkdad",
+        "pgdgcfbmpimnnafmejbbgodlijodgppk",
+        "ggfgobfcldmlkldcihgfigolpgcjflkc",
+        "bbhcplmmihjdibppeeajmombokhcfakk"
+      ],
+      "privacyCollections": [],
+      "localizedDataPointer": {
+        "id": "20231004",
+        "ms": "20231004",
+        "ko": "20231004",
+        "ja": "20231004",
+        "zh-TW": "20231004",
+        "zh-CN": "20231004",
+        "th": "20231004",
+        "hi": "20231004",
+        "uk": "20231004",
+        "ru": "20231004",
+        "bg": "20231004",
+        "el": "20231004",
+        "cs": "20231004",
+        "sv": "20231004",
+        "fi": "20231004",
+        "sk": "20231004",
+        "sl": "20231004",
+        "pt-PT": "20231004",
+        "ro": "20231004",
+        "pt-BR": "20231004",
+        "pl": "20231004",
+        "lt": "20231004",
+        "hu": "20231004",
+        "it": "20231004",
+        "lv": "20231004",
+        "hr": "20231004",
+        "es-419": "20231004",
+        "es": "20231004",
+        "et": "20231004",
+        "da": "20231004",
+        "ca": "20231004",
+        "tr": "20231004",
+        "vi": "20231004",
+        "no": "20231004",
+        "nl": "20231004",
+        "fr": "20231004",
+        "fil": "20231004",
+        "en-US": "20231004",
+        "en-GB": "20231004",
+        "de": "20231004",
+        "ar": "20231006",
+        "iw": "20231006"
+      },
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2015-06-18",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/bitbucket-code-review/odildldpegnccaajmpminocolianigjl",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/lD0G7A9lCu5JlOwZyfUtoShyhhpgnW6ptp3m86oiQyC9RfnqAr1emHndcER3fqVaFJ2E8ZjuWNcbAPC93L2Z3wLGPA",
+      "name": "Bitbucket code review",
+      "id": "odildldpegnccaajmpminocolianigjl",
+      "version": "1.0",
+      "description": "Improvements to Bitbucket and JIRA for easier code reviewing",
+      "fullSummary": "Mark-as-read functionality for commits and parts of commits\nin Bitbucket and JIRA.\n\n- Mark commits as read/unread in both Bitbucket and JIRA\n- Hide reviewed file diffs in bitbucket commit page\n- Ignore commits of specified authors (configured in options)",
+      "userCount": 64,
+      "lastUpdate": "2016-04-27",
+      "size": 74660,
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "productivity/developer",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/MvfLHMkMaFrPVGmCIsv-O8SfC4_DJNbxG77qcqcvOh-puh_GH9BmcWZzC-1IVRWLRaq_ZoMANlqjToWiG0WvdYn3rw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/QZSQZaT5GakZXUpn2BcWrKEb_QBg2H2tgfRU5RNXLY0PqygZ4s52D59-CG9yQ605f1wQQJj36o21VJWsJqNvER6whp4"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/-0-mmW2YRlgnk8aD71nz_rHYC2m6adXbFhxOQ7Cgk1EKevJ_-Dzg39EhB1D4e3VXXME88WA0Z2y5hLfW7pXIBIla6CE"
+        }
+      ],
+      "numScreenshots": 3,
+      "smallBanner": "https://lh3.googleusercontent.com/kN1SxYsHz7T8S33PvlzVm4s-qC5Wx9mwdOhAp5fLgziR8iM6Iy5hurNePOuhqdV1kRvSC33gJAXqR11seRUaGWs9",
+      "permissions": [
+        "storage"
+      ],
+      "author": "Rene Saarsoo",
+      "related": [
+        "bllckhlhnfngflclpdalooiehmijjbaf",
+        "afppminkfnfngihdocacbgeajbbdklkf",
+        "bfkikmfkcnoogbhhebglhagdpmhnblmk",
+        "oooaebjijfadmkbkgmcieohkpdfdcmpo",
+        "hepccgiiplpocaikgafgiclopbannill",
+        "ikkojnjgjablomjlcbnejbnfbdifcnee",
+        "nnbhbicafgeplheikeiinpiaihcdegap",
+        "hfebajohpclnfhfnlhgndbmcdnlchjjd",
+        "npjphkppofmfcohiffnkfjnehcaachgf",
+        "pgpjdkejablgneeocagbncanfihkebpf",
+        "hlagecmhpppmpfdifmigdglnhcpnohib",
+        "fmojbbgceielgehcihacicbdhednlkcl"
+      ],
+      "privacyCollections": [],
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2016-04-27",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/pretty-pull-requests-gith/ljnjpkadhhcdniohpfilddnhahoigdec",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/DTenHrEkzKhnNcX7pN_x8Z7OrwQaO_fiLPqkrix2evCgELrCGzRi1Y1wOQnMhNBs6kBC6FxbxLDKP5ZIS6n1YBpOwg",
+      "name": "Pretty Pull Requests (Github)",
+      "id": "ljnjpkadhhcdniohpfilddnhahoigdec",
+      "version": "2.11.1",
+      "description": "This extension applies various tweaks to the github pull-request code review pages.",
+      "fullSummary": "This extension will add various features to the diff view on Github's pull request pages.\n\nSupports both files changed and commit diffs.\n\nCurrent Features:\n- Click on the file name to collapse a file, or collapse from bottom up via an added button\n- Collapse/Expand all\n- Collapse/Expand all that match a regex pattern\n- Collapse/Expand added/removed lines\n- File tree view allowing you to collapse a directory, or jump directly to a file diff\n- Github Enterprise Support (set your URL via right-clicking the address bar icon, and going to 'options')",
+      "userCount": 1000,
+      "lastUpdate": "2018-01-31",
+      "helpUrl": "https://github.com/Yatser/prettypullrequests/issues",
+      "size": 421888,
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/developer",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/_hZYDdYFliB8Y6YsfLu47t-2D-XwdJWPRWm7mqeTNiA68tOhQy0Qv4bRG9W_w7WIkOOFYFutoFLSLSQCSx2kWsE7GT8"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 3.9523809523809526,
+      "ratingCount": 21,
+      "permissions": [
+        "tabs",
+        "storage",
+        "activeTab"
+      ],
+      "author": "Brent Yates",
+      "related": [
+        "gmhijkhbpihfmkmhmcfebmlkaekgmaje",
+        "hlepfoohegkhhmjieoechaddaejaokhf",
+        "lminappfllpnijhgafphnmcdfbnppmac",
+        "bkhaagjahfmjljalopjnoealnfndnagc",
+        "jlmafbaeoofdegohdhinkhilhclaklkp",
+        "nimelepbpejjlbmoobocpfnjhihnpked",
+        "dhggdgaoccikibijlbocggphcomehbih",
+        "cbehdjjcilgnejbpnjhobkiiggkedfib",
+        "aoojogkiedabnddmokieplfnmjehlneo",
+        "ofjbgncegkdemndciafljngjbdpfmbkn",
+        "lmjdlojahmbbcodnpecnjnmlddbkjhnn",
+        "edfnfekndkopmlejjmlplpceflfldoae"
+      ],
+      "privacyCollections": [],
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 2,
+      "riskLikelihood": 0,
+      "creationDate": "2018-01-31",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/refined-bitbucket/afppminkfnfngihdocacbgeajbbdklkf",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/tM7DdUalDeQQ40jgLnRxrIdJomlNzifQD53HgPdBvkjqv_nTe19TuUduPsP_LvMd6KQZ11FyFdRLedNVZW91XsRrpg",
+      "name": "Refined Bitbucket",
+      "id": "afppminkfnfngihdocacbgeajbbdklkf",
+      "version": "3.26.1",
+      "description": "Improves Bitbucket's user experience",
+      "fullSummary": "We all know Bitbucket lacks some features that we find lovely in GitHub and in our minds. And based on Sindre Sorhus' Refined Github extension I had the idea of improving BitBucket's user interface.\n\nCurrent features\n\n- Adds syntax highlight for commits and pull requests. See the full list of enabled languages in the official project's repository (\"Website\" link below) and let me know if your language is missing!\n- Double click on a word to highlight all occurrences.\n- Key binding feature, which allows for quicker navigation through pull requests.\n- Button to collapse diffs in Pull Request view.\n- Autocollapse. Add filename patterns in the Options page that you would like the extension to collapse automatically when the pull request loads.\n- Pullrequest Ignore. Add filename patterns in the Options page that you would like the extension to completely remove when the Pull Request loads.\n- Button to load all failed diffs in Pull Request view.\n- Choose a default merge strategy for your pull requests.\n\nFor more information check out the project's repository (\"Website\" link below).",
+      "userCount": 5000,
+      "lastUpdate": "2021-11-04",
+      "helpUrl": "https://github.com/refined-bitbucket/refined-bitbucket/",
+      "size": 347136,
+      "email": "reyronald@gmail.com",
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "productivity/developer",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/vE4rPK9gGhDJrQoJjw4z68K5RDln-lDUwo3HCu05BcW7rCG-ACNdkQL3762sdGt4_HU0HA3RS13bz-pR3hmPXSrLkw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/8MU7A1GlyXuuTOmP6vgfdenw0HU5hHqJCOThFle3I_a7dumzpZmvQHqoiDQiYpnpt_lZzVWo5Q71FGG_uuCX39c5bg"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/IigOSU21aGMle3PGMTijBOd2UkGES4r5cLxe2qgnkRh8wFltx4zdTRc2KLEqbyAe8tt2qzYqiRxeAxlZZbWGUGFf6Lw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/RYiI4Mp18vCCkYG76Fh_huGXqHHUZ6uKYImkG9KReZiIBTz5xbT-QWKSERa-gb_ZMQW1MadjTS4Adj74xUO9EssfyQ"
+        }
+      ],
+      "numScreenshots": 4,
+      "ratingValue": 4.509803921568627,
+      "ratingCount": 51,
+      "permissions": [
+        "storage",
+        "webNavigation",
+        "https://bitbucket.org/*",
+        "https://api.bitbucket.org/*"
+      ],
+      "author": "Ronald Rey",
+      "related": [
+        "odildldpegnccaajmpminocolianigjl",
+        "pgpjdkejablgneeocagbncanfihkebpf",
+        "hlagecmhpppmpfdifmigdglnhcpnohib",
+        "dgjhfomjieaadpoljlnidmbgkdffpack",
+        "leaoiajnfhddnijhdljkkdjiajengokn",
+        "acdnmaeifljongleeegkkfnfcopblokj",
+        "bkhaagjahfmjljalopjnoealnfndnagc",
+        "dlflgkjacacpmhdpiggkdiaieddfmkia",
+        "nfhdjopbhlggibjlimhdbogflgmbiahc",
+        "jlmafbaeoofdegohdhinkhilhclaklkp",
+        "offnedcbhjldheanlbojaefbfbllddna",
+        "eadndfjplgieldjbigjakmdgkmoaaaoc"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 2,
+      "riskImpact": 2,
+      "riskLikelihood": 1,
+      "creationDate": "2020-06-07",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/5-minute-fork/idfhgkibldeniiijlnenfhlilhbifbff",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/XK1z4zEiit3Sjy0YjVSYPx57uSlwJvW_76LkMQWrsqAUXTKJYAz08erPrpnlwuintGcKL3MhfbWt-xSFOsxx2t4DLQ",
+      "name": "5 minute fork",
+      "id": "idfhgkibldeniiijlnenfhlilhbifbff",
+      "version": "1.0.17",
+      "description": "Adds a button to GitHub pages so with one click you can view the files of the repo hosted on the web by 5minfork.com",
+      "fullSummary": "5 minute fork creates a temporary clone of a github repo when the repo owner hasn't hosted their demo. This extension adds a '5 minute fork' button to github repos to quickly and easily clone.\n\nAs explained on HackerNews:\n\n\"If a github repo has an index.html file and you click on it, github will show you the source instead of the webpage.  5minfork shows you the webpage so that you can have an idea of what the repo is about.\"",
+      "userCount": 43,
+      "lastUpdate": "2015-06-29",
+      "size": 97997,
+      "email": "info@letlogic.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/developer",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://leftlogic.com/privacy/extensions",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/LwB4LPokBJZkD0_Y28FQniJstD5nLc1pwR-bEeUC71P9lLu0QZwq7upLUI-GFqScbvJ5bw-1av4UZDBpWdTVM2Ax"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 4.2,
+      "ratingCount": 5,
+      "author": "Remy Sharp / Left Logic",
+      "related": [
+        "ffabmkklhbepgcgfonabamgnfafbdlkn",
+        "ffdebockfdjileaojbbccofhgncmioaf",
+        "joggkdfebigddmaagckekihhfncdobff",
+        "hbiichfklkmlebacdfhkojcpmmakmamk",
+        "lefcpjbffalgdcdgidjdnmabfenecjdf",
+        "fehpdlpmcegfpbkgcnaleindodeegapk",
+        "adjiklnjodbiaioggfpbpkhbfcnhgkfe"
+      ],
+      "privacyCollections": [],
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2015-06-29",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/git-pull-request-template/dlflgkjacacpmhdpiggkdiaieddfmkia",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/zeib0K_4HtsFlbf1zEg5EInRfJz3F1YMWEodI7q0CpGLmS-JSDbA0QsfEQA_x85uQiL_MkQJ5p8tuAM-IMH6Y-0d",
+      "name": "Git Pull Request Templates",
+      "id": "dlflgkjacacpmhdpiggkdiaieddfmkia",
+      "version": "0.5.0",
+      "description": "Pre-populate pull requests with a template on Github and Bitbucket.",
+      "fullSummary": "Pre-populate GitHub and Bitbucket pull requests with a template of your choice. Useful for teams to improve code review.\n\nSupports custom hosted repositories. Make sure to visit the extension's options page after installing!\n\nUses Sprint.ly's template by default (https://raw.githubusercontent.com/sprintly/sprint.ly-culture/master/pr-template.md). Thanks to QuickLeft for the idea: https://quickleft.com/blog/pull-request-templates-make-code-review-easier/.",
+      "userCount": 393,
+      "lastUpdate": "2022-07-14",
+      "helpUrl": "https://github.com/tcrammond/chrome-pullrequest-templates/issues",
+      "size": 65649,
+      "email": "tyler.crammond@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/developer",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/-o9J5zW-WF5ZhQlnqMDZGlblAxY62RvM3w2DJFjq_Qd70z0gwIHw6evs4VLufikKCoae5KcTcQExW0C8L8y4VZ0Umg"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 5,
+      "ratingCount": 3,
+      "permissions": [
+        "storage"
+      ],
+      "author": "Tyler Crammond",
+      "related": [
+        "cgiehjgnkmjghgjhpehgkknhmoaphimh",
+        "afppminkfnfngihdocacbgeajbbdklkf",
+        "lkkedgoebnekpinhipgelkfbbdjfookh",
+        "hcjehejpankhfgchggllpehjoleheidm",
+        "jlhpeckkndnaidhfihcmlihekebdepgg",
+        "hlagecmhpppmpfdifmigdglnhcpnohib",
+        "fdlcmnpfgnebkpnoclaalonenhhbdpnf",
+        "pgpjdkejablgneeocagbncanfihkebpf",
+        "aoojogkiedabnddmokieplfnmjehlneo",
+        "cikcdjbjlegidghlcooeefdabbfgllmm",
+        "foaaibihjfcacpiehnjaghlhopofmmnb",
+        "pgdgcfbmpimnnafmejbbgodlijodgppk"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2019-02-24",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/bitbucket-server-extensio/hlagecmhpppmpfdifmigdglnhcpnohib",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/stWnruW2zztBGqZj04wKn493axLGEo8MHbfx0sEEm9gidNxiAQOZbQ4PMFQOvVFa8jrnD7k7VecyexgrvzqgwRlPHQ",
+      "name": "Bitbucket Server Extension",
+      "id": "hlagecmhpppmpfdifmigdglnhcpnohib",
+      "version": "2.2.17",
+      "description": "Allow to add group of reviewers for pull request in bitbucket server + other features",
+      "fullSummary": "This extension allow to define groups of reviewers in Atlassian Bitbucket Server to bulk add them when creating or updating pull request.\n\nplus :\n\n\u2714 Add button in pull request creation page to add group of reviewers\n\u2714 Add comments notification icon in header toolbar\n\u2714 Add filters to the PR list    \n\u2714 Add highlighted header to outdated file in pull request details page instead of the small sticker on the right to improve readability\n\u2714 Add clickable branch text (origin and target) in the pull request details page to go to the corresponding repository easily\n\u2714 Add a sticker on the right of the 'branch overview' page of a repository to list all pull requests comming from this branch (OPEN/MERGED/DECLINED)    \n\u2714 Add a link to start a jenkin build in one click on the pull request details page\n\u2714 Add template button to PR editor\n\nPlease visit here for source code and development version : https://github.com/dragouf/Stash-Reviewers-Chrome-Extension",
+      "userCount": 1000,
+      "lastUpdate": "2020-11-05",
+      "size": 201728,
+      "email": "dragouf@hotmail.fr",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/developer",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/RWy0oPrCS6l7cauQyYX0bAC2ZzOSldUvjTJR2v58DIYxNP2LoTd96XP82O3Pthu_iiLoINFukNI127U6kk5m2rgcAUU"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Xl655n-pUErmjf0YLtBt6sM_T1qkS7_c71i7q8MWKDMS3IlxNV2ZaEDAC54iIGbxclB_vkPbMiSTGV6850nwZYFi"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/mSgjgnoGVjObAu8Fck-pDNmYUjbF5BJa7lLCheiaJB3FFr8a_X64R1GFCoDSqi9lpOe7GA4elLEE39FJ53gmcJts2g"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/9vHoYtBWNqEM7s3_F7S_1SSRtDe26CXmAHV3lpl1n4h9b_YH923mHDrKlWcE01Nmozr4OOfF1hD80v522gvcAP936A"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/wdDddYcZEL7Hsu98MVMCE9vzzUT33LLBt38C0SRISNf05HIwwZE-tYDNzFx3Hhy_yXDNGxVe4_G5GyAFgt_W2Tlbbg"
+        }
+      ],
+      "numScreenshots": 5,
+      "smallBanner": "https://lh3.googleusercontent.com/lur0K2AIwLuDPlqbVCWgt66e4YeE0BgATP-IBNbUhoVFKZDan2l1HaU1PSP06z2_7HxTCUpO5Ar6lH9WGEJbwYOaomQ",
+      "ratingValue": 3.772727272727273,
+      "ratingCount": 22,
+      "permissions": [
+        "storage",
+        "alarms",
+        "tabs",
+        "http://*/*",
+        "https://*/*"
+      ],
+      "author": "dragouf",
+      "related": [
+        "ikkojnjgjablomjlcbnejbnfbdifcnee",
+        "dlflgkjacacpmhdpiggkdiaieddfmkia",
+        "acdnmaeifljongleeegkkfnfcopblokj",
+        "mdnleldcmiljblolnjhpnblkcekpdkpa",
+        "egdpkgklhlhmckklngifpnjfcmgahpnk",
+        "fmaobhjfejhpefpobcbpehgkgjkijccc",
+        "nfhdjopbhlggibjlimhdbogflgmbiahc",
+        "pgpjdkejablgneeocagbncanfihkebpf",
+        "bmdblncegkenkacieihfhpjfppoconhi",
+        "oooaebjijfadmkbkgmcieohkpdfdcmpo",
+        "bfkikmfkcnoogbhhebglhagdpmhnblmk",
+        "hepccgiiplpocaikgafgiclopbannill"
+      ],
+      "privacyCollections": [],
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 1,
+      "riskImpact": 3,
+      "riskLikelihood": 0,
+      "creationDate": "2018-07-16",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/json2class/eihoefojnhgfnhlcplgafjaikcbdfdco",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/Mg5rABd-u1oFMecOsKsnEXam36cs622ru6FjDujPEjiqjOApiNV9U0YwfkL19Zb94nfdYG-FjmxytjAp-xuB3RIevA",
+      "name": "JSON2Class",
+      "id": "eihoefojnhgfnhlcplgafjaikcbdfdco",
+      "version": "0.2.4",
+      "description": "auto generate class code by JSON data!",
+      "fullSummary": "Help you auto generate class from JSON format!\nCurrent support languages:\n1. JAVA\n2. C#\n3. Swift\n4. Objective-C\n5. VB.NET\n6. JavaScript",
+      "userCount": 192,
+      "lastUpdate": "2016-11-28",
+      "size": 97731,
+      "email": "yozian.dev@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/developer",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/OfRS1NAopq-KZqIWn7E5C7XBqCAK3G4rWUqwO6bnm49eW_4wrYtW1lchjvXMqxlY1o9yKH47pgA_VDziIDkuKvHBNFM"
+        }
+      ],
+      "numScreenshots": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/086UKAzpBrDh2yoeV_y8tLKg1IzYqqMr1n1StWIB2JbnZ9YEkN-PAUIav5bn9w1Zcklcy6H6W1iJgesoVou8Z2I",
+      "ratingValue": 5,
+      "ratingCount": 3,
+      "permissions": [
+        "activeTab",
+        "https://ajax.googleapis.com/",
+        "https://ssl.google-analytics.com/"
+      ],
+      "author": "yozian",
+      "related": [
+        "omaamkdimlgbedepkcohaofjdjcilobc",
+        "oalmajpfbgkkfeamkmgmmccnjfojogbh",
+        "jjobljeheboinnjikhblcdejalnlolgl",
+        "lljofglnikjnjachkdkdpgjcdngndcdi",
+        "nnblmmglchphbcdolknpmmdmkmbachle",
+        "mgnnbcacopddmbmikjmhadpchchcekln",
+        "poapmlldjpcgenaedpopfjjagnihpkim",
+        "bpaepkmcmoablpdahclhdceapndfhdpo",
+        "kildmhgekjfidnaohdmopdcoibigchkj",
+        "dgimejmmnjlnnkijhkkmfcpndpjijing",
+        "kjodiadblphfedkaigibpfnklkpdmpfh",
+        "kbeolfhnclacoappfhlcnlngdonhhmjb"
+      ],
+      "privacyCollections": [],
+      "riskScore": 3,
+      "riskImpact": 3,
+      "riskLikelihood": 1,
+      "creationDate": "2016-11-27",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/atlassian-pull-request-no/bfkikmfkcnoogbhhebglhagdpmhnblmk",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/IyjCpdoG93fCQFRzRiFyzPNAcFuMyddgJmPomgvR8xelYWzfASFVb4aEzA2BmgEuSLzWfxlfTOlp6L1j1ai1GvX5wek",
+      "name": "Atlassian Pull Request Notifier",
+      "id": "bfkikmfkcnoogbhhebglhagdpmhnblmk",
+      "version": "2.2.3",
+      "description": "Display pull request notifications from Stash and Bitbucket",
+      "fullSummary": "Get notified of pending Bitbucket Server/Stash Server pull requests and view those request details in a browser popup. Fully customisable, disable notification, edit moustache template, set polling interval, set popup title etc... Keep a track of requests that you are listed as one of AUTHOR, REVIEWER or PARTICIPANT.\nPlease note that it can be setup to work with a public Bitbucket Cloud repository (though it's not easy!), sadly, private repos are currently NOT supported.",
+      "userCount": 323,
+      "lastUpdate": "2020-03-02",
+      "size": 1352663,
+      "email": "clanceyp@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/nMgMNmeFa-Mg2TzOkw__Gb3N5KkIVztpa79V9MgpWhqJPIQuTUlJobq_8Ca1ctSwK9MBndVf9bcytI4i7X-dvJ53Rg"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/-X8UXVxmlwKOrp1TLhpXYZfINH0jS4XLcTMniO9F4GTd_NGmWEXpUoUSx0kHFD_wmsktAL28PcrTQjIc8VeTtt7T2Q"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/UI7cnQRm6eaCdYkRvKpECQqkgdEaR43wd-ICwm4MUDNWRM4sKDUxhHp3KPwrKjCQqvzDXsq_aOJkHnizEHOCBV9AJSk"
+        }
+      ],
+      "numScreenshots": 3,
+      "smallBanner": "https://lh3.googleusercontent.com/YEsAn66CMUYVZCEidbT5oWugbXA1PWgwdpLSflFW3y0Zhl8Cea0LAqV06YdeaFDT1zXDxdEe7RN3CIXT9v4PQu0t6BM",
+      "ratingValue": 3.2,
+      "ratingCount": 5,
+      "permissions": [
+        "http://*/*",
+        "https://*/*",
+        "background",
+        "notifications",
+        "activeTab"
+      ],
+      "author": "clanceyp",
+      "related": [
+        "odildldpegnccaajmpminocolianigjl",
+        "hfebajohpclnfhfnlhgndbmcdnlchjjd",
+        "agfdekbncfakhgofmaacjfkpbhjhpjmp",
+        "cimdjdaglanfkpfpoemjkfkmjgkmahpg",
+        "hepccgiiplpocaikgafgiclopbannill",
+        "aibfblhmamolcamgjgbbfjjjligbknmf",
+        "afppminkfnfngihdocacbgeajbbdklkf",
+        "pgpjdkejablgneeocagbncanfihkebpf",
+        "ikkojnjgjablomjlcbnejbnfbdifcnee",
+        "hlagecmhpppmpfdifmigdglnhcpnohib",
+        "dbifmilkbhjgdgalenpladkndcfjdpbk",
+        "lmjdlojahmbbcodnpecnjnmlddbkjhnn"
+      ],
+      "privacyCollections": [],
+      "riskScore": 2,
+      "riskImpact": 2,
+      "riskLikelihood": 1,
+      "creationDate": "2020-02-28",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/bitbucket-diff-tree/pgpjdkejablgneeocagbncanfihkebpf",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/92hpRzJUIohDy6-ykAwrelEbgf3ZfzM0kK-IWLqMtlvd1rF_h1-V0I8f8lAFUrplWFv7O8Cmz2Gl309HyGeKuHfVAA",
+      "name": "Bitbucket Diff Tree",
+      "id": "pgpjdkejablgneeocagbncanfihkebpf",
+      "version": "2.1.1",
+      "description": "Extension to display diff tree for Bitbucket",
+      "fullSummary": "Bring the DiffTree back from Bitbucket Server to Bitbucket Cloud\n\nv1.0.5:\n----------\n* Support showing code changes as a tree structure in the following pages: \n    - Branches\n    - Create pull request\n    - View pull request\n* Allow enable diff tree extension permanently\n\nv1.0.6\n----------\n* Allow collapse/expand the diff tree region\n\nv1.0.7\n----------\n* Navigate to corresponding comment when clicking on the \"new comment notification\" area at the bottom right corner\n* Display diff tree when the viewer selects \"ignore whitespace\"\n\nv1.0.8\n----------\n* Option to compact empty middle packages\n* Show diff tree on commits page\n\nv1.1:\n* Allow collapsing / expanding all folders\n* Fix for tab size and nasty css bug which breaks alignments\n\nv1.2:\n* Track files have been reviewed by clicking on the \"...\" icon on the left of the files\n\nv1.3:\n* Show new version indicator for Bitbucket Diff Tree\n\nv1.3.1:\n* Fix bug: Should navigate to the correct file based on the hash of the url (if any)\n\nv1.4:\n* Allow resizing the diff tree\n\nv.1.5:\n* Allow searching files and folders\n\nv1.6:\n* Unset the \"reviewed\" status of a file if its contents changed\n\nv1.7:\n* Allow filtering files by reviewed, unreviewed and commented statuses\n\nv1.8.0:\n* Grant \"tabs\" permission when needed to comply with Google Chrome \"Use of permissions\" policy\nhttps://developer.chrome.com/webstore/program_policies#permissions\n\nv2.0:\n* Support new pull request experience",
+      "userCount": 1000,
+      "lastUpdate": "2024-04-19",
+      "size": 108544,
+      "email": "dkqminh84@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/developer",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/rYXpjbQNAWmJH1W-8Rak9iM77wxn_l2zSN7UigpmDUw7yi6XAKqlWhYO0CXuO0enPWaqlAwrx_InaeXCLRdyEMzj"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/0FaSZ1nlUJmFf1rtTwgKpTWwMYxgWQWpb6_2SGiyWGtDrVeMAG7-pB8YiQ9_5X-HjX722qKnRYKUJzZt1FyyqNafWQ"
+        }
+      ],
+      "numScreenshots": 2,
+      "ratingValue": 4.816666666666666,
+      "ratingCount": 60,
+      "permissions": [
+        "storage"
+      ],
+      "author": "Minh Dam",
+      "related": [
+        "afppminkfnfngihdocacbgeajbbdklkf",
+        "acdnmaeifljongleeegkkfnfcopblokj",
+        "odildldpegnccaajmpminocolianigjl",
+        "bfkikmfkcnoogbhhebglhagdpmhnblmk",
+        "ibmpjnmlhfboaljbechlinicnlpmlgnp",
+        "jlmafbaeoofdegohdhinkhilhclaklkp",
+        "hlagecmhpppmpfdifmigdglnhcpnohib",
+        "hfebajohpclnfhfnlhgndbmcdnlchjjd",
+        "dgjhfomjieaadpoljlnidmbgkdffpack",
+        "dlflgkjacacpmhdpiggkdiaieddfmkia",
+        "offnedcbhjldheanlbojaefbfbllddna",
+        "hlepfoohegkhhmjieoechaddaejaokhf"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 2,
+      "creationDate": "2020-08-16",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/bitbucket-filters/dbifmilkbhjgdgalenpladkndcfjdpbk",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/OpfB3JexGjUwMmHOvJ2ArEWIvMH0jgP-joPtulnidzN5OE1RiUIFtf1c344tAZ_NNNc3VhFzbjQqih0gzM0sD2Dn",
+      "name": "Bitbucket Filters",
+      "id": "dbifmilkbhjgdgalenpladkndcfjdpbk",
+      "version": "0.1.7",
+      "description": "Add custom filter links for issues to bitbucket projects",
+      "fullSummary": "Allows for creating custom filters for your repositories that persist across Chrome accounts. \n\nTo add a filter, go to Issues > Advanced Search, select your options, then press the \"Save & Search\" button.\n\nTo edit a filter, go to Issues > Advanced Search, select 'edit' from dropdown of one of the filters. Change your filter options, and press the \"Save & Search\" button. Select \"OK\" when the name comes up, and confirm overwrite.\n\nTo delete a filter, go to Issues > Advanced Search, select 'delete' from dropdown of one of the filters. Confirm that you want to delete by clicking \"OK\".",
+      "userCount": 64,
+      "lastUpdate": "2014-12-18",
+      "helpUrl": "https://github.com/knownasilya/Bitbucket-Issue-Filters/issues",
+      "size": 15985,
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/developer",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/wktFpY-ey4BQ8H_ifLrg2LHjSD0wGabWax3fAU32BLKZXH6kQBOsJBC-Ot4csjDhP9dmDXtErk0PHuv2vXkrZsSE1Q"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/4Pi6mQFQ4Y3QxZ8UqKCtG_47g4Y7xspTImh-u4m9bsc0mWt0skM_DtSAHZLq3cKX77hyykpoRxtPoFQWUde25uzxjFU"
+        }
+      ],
+      "numScreenshots": 2,
+      "ratingValue": 5,
+      "ratingCount": 8,
+      "permissions": [
+        "storage",
+        "http://bitbucket.org/*/*",
+        "https://bitbucket.org/*/*"
+      ],
+      "author": "Ilya Radchenko",
+      "related": [
+        "hcjehejpankhfgchggllpehjoleheidm",
+        "diioicfkgfbdhpdehliknpmmibenccno",
+        "gdlgapfeojaalkehffdggdaphpfoigea",
+        "afppminkfnfngihdocacbgeajbbdklkf",
+        "ggfgobfcldmlkldcihgfigolpgcjflkc",
+        "hepccgiiplpocaikgafgiclopbannill",
+        "cdfbkmackojgkcohdfikiablcecbcdfa",
+        "ejdmejhddfennlaoejkdkkfcjpphkgbh",
+        "hfebajohpclnfhfnlhgndbmcdnlchjjd",
+        "bfkikmfkcnoogbhhebglhagdpmhnblmk",
+        "fmaobhjfejhpefpobcbpehgkgjkijccc",
+        "oooaebjijfadmkbkgmcieohkpdfdcmpo"
+      ],
+      "privacyCollections": [],
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2014-12-18",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/enhance-bitbucket/gdlgapfeojaalkehffdggdaphpfoigea",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/WKIJVTAe4Sk2hg25lr-JZ__ws-_4usgAvEeVk_TCRpXN3OHGKPPCFgw2LUNmYSO5ME7kBK0xCgvBtQ8wypYe_usxag",
+      "name": "Enhance Bitbucket",
+      "id": "gdlgapfeojaalkehffdggdaphpfoigea",
+      "version": "3.0.0",
+      "description": "A Chrome extension to make Bitbucket/Stash better.",
+      "fullSummary": "Use this extension to make your life simpler while using Bitbucket/Stash\n\nFeature 1: Simplify diffs on pull requests.\n------------\n1) Open up a pull request.\n2) Select the commits tab.\n3) Hold the 'alt/option' key on your keyboard\n4) A 'DIFF' button should appear on each commits.*\n5) Click on the 'DIFF' button for the commit you want to check.\n6) An overlay box with the diffs to that commit will show up.\n7) Once done with that diff, just click anywhere outside to close it or press the 'esc' key\n\nFeature 2: Mark pull requests as In Review\n------------\n1) Open up a pull request.\n2) Make sure you are on the overview tab.\n3) Hold the 'alt/option' key on your keyboard.\n4) A 'In Review' button should appear next to the details title.\n5) Click on the 'In Review' button to mark the pull request as 'IN REVIEW' which create a comment.\n\nFeature 3: Mark pull requests with merge conflict \n---------------\n1) Open the pull request list page.\n2) There will be an additional column called Merge Conflicts\n3) Pull requests with merge conflicts will show a caution mark in the new column.\n\nFeature 4: Integration with Pivotal Tracker\n---------------\n1) Open the pull request list page.\n2) There will be two additional columns called \"PivotalTracker Label\" and \"Pivotal Tracker State\"\n3) Pull requests with a title that starts with PivotalTracker's story number will have the label and state columns populated.\n4) It also add a link to the Pivotal Tracker story page in the state column.\n5) Note: This require that the use has already logged in to PivotalTracker.  \n\n\nThank you and enjoy.\n\nProject Link\nhttps://github.com/sundus-y/enhance-bitbucket",
+      "userCount": 14,
+      "lastUpdate": "2018-05-21",
+      "size": 105472,
+      "email": "message.chat.downloader@gmail.com",
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://grabify.link/EWUFZO",
+      "media": [],
+      "ratingValue": 5,
+      "ratingCount": 1,
+      "author": "5nd5",
+      "related": [
+        "kilcdnpklmenachjilknpbkgbjfhnime",
+        "paeokpmlopbdaancddhdhmfepfhcbmek",
+        "odildldpegnccaajmpminocolianigjl",
+        "faalobenofflkfcfmfcpkejdapkfcjap",
+        "cmnfpmlchcgefcboofmabaaclkgnoiei",
+        "najoepmopgcmlaecjniajebodcmgijch",
+        "hfebajohpclnfhfnlhgndbmcdnlchjjd",
+        "fmaobhjfejhpefpobcbpehgkgjkijccc",
+        "okglailgbejegogpokmcjpmnnikdjigh",
+        "bjeojhoaeoiaokmhbhnmnkfehhmmnafg",
+        "jdleicahfbehiikjcaocollfhbnigplo",
+        "hepccgiiplpocaikgafgiclopbannill"
+      ],
+      "privacyCollections": [],
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2018-05-21",
+      "fetchId": "20240527"
+    }
+  ],
+  "permissions": [
+    {
+      "key": "permission-content-scripts",
+      "risk": 15
+    }
+  ],
+  "crossPlatformData": {},
+  "score": {
+    "userCount": 0,
+    "ratingValue": 100,
+    "ratingCount": 0,
+    "size": 90,
+    "lastUpdate": 0,
+    "permission": 85
+  },
+  "allRanks": [
+    {
+      "label": "Overall",
+      "key": "overall-rank",
+      "value": 99702,
+      "path": "/top?page=3989&date=2024-05-27"
+    },
+    {
+      "label": "Developer Tools",
+      "type": "cat",
+      "key": "cat-productivity/developer-rank",
+      "value": 9191,
+      "path": "/c/productivity%2Fdeveloper?page=368&date=2024-05-27"
+    },
+    {
+      "label": "pull",
+      "type": "keyword",
+      "key": "keyword-pull-rank",
+      "value": 62,
+      "path": "/keyword/pull?page=3&date=2024-05-27",
+      "difficulty": 11.656233333333335
+    },
+    {
+      "label": "toggle",
+      "type": "keyword",
+      "key": "keyword-toggle-rank",
+      "value": 72,
+      "path": "/keyword/toggle?page=3&date=2024-05-27",
+      "difficulty": 18.843588888888892
+    },
+    {
+      "label": "request",
+      "type": "keyword",
+      "key": "keyword-request-rank",
+      "value": 133,
+      "path": "/keyword/request?page=6&date=2024-05-27",
+      "difficulty": 16.246275555555556
+    }
+  ],
+  "oneWeekAgoRanks": [
+    {
+      "label": "Overall",
+      "key": "overall-rank",
+      "value": 99269,
+      "path": "/top?page=3971&date=2024-05-27"
+    },
+    {
+      "label": "Developer Tools",
+      "type": "cat",
+      "key": "cat-productivity/developer-rank",
+      "value": 9155,
+      "path": "/c/productivity%2Fdeveloper?page=367&date=2024-05-27"
+    },
+    {
+      "label": "pull",
+      "type": "keyword",
+      "key": "keyword-pull-rank",
+      "value": 62,
+      "path": "/keyword/pull?page=3&date=2024-05-27",
+      "difficulty": 11.656233333333335
+    },
+    {
+      "label": "toggle",
+      "type": "keyword",
+      "key": "keyword-toggle-rank",
+      "value": 77,
+      "path": "/keyword/toggle?page=4&date=2024-05-27",
+      "difficulty": 18.843588888888892
+    },
+    {
+      "label": "request",
+      "type": "keyword",
+      "key": "keyword-request-rank",
+      "value": 140,
+      "path": "/keyword/request?page=6&date=2024-05-27",
+      "difficulty": 16.246275555555556
+    }
+  ],
+  "alternateNames": [],
+  "asOfDate": "2024-05-27",
+  "risk": {
+    "permissions": [
+      "permission-content-scripts"
+    ],
+    "specificHosts": [],
+    "emailIsInvalid": false,
+    "authorUrlIsInvalid": false,
+    "abnormalRatingTrend": null,
+    "abnormalUserTrend": null,
+    "knownMalware": null,
+    "knownBadReview": null,
+    "riskScore": 1,
+    "permissionScore": 85,
+    "allPermissions": [
+      {
+        "key": "permission-content-scripts",
+        "risk": 15
+      }
+    ],
+    "riskImpact": 1,
+    "riskLikelihood": 1,
+    "daysSinceLastUpdate": 3000,
+    "daysSinceCreation": 3000
+  },
+  "manifestJson": "{\n\"update_url\": \"https://clients2.google.com/service/update2/crx\",\n\r\n  \"name\": \"BitBucket Pull Request Toggle Buttons\",\r\n  \"short_name\": \"Toggle Buttons\",\r\n  \"version\": \"0.5.1.3\",\r\n  \"description\": \"Adds Toggle buttons for files in BitBucket Pull Requests\",\r\n  \"homepage_url\": \"http://gordon-myers.com/bbprtb\",\r\n  \"manifest_version\": 2,\r\n\r\n  \"icons\": {\r\n    \"16\": \"bbprtb-logo-16.png\",\r\n    \"32\": \"bbprtb-logo-32.png\",\r\n    \"48\": \"bbprtb-logo-48.png\",\r\n    \"128\": \"bbprtb-logo-128.png\"\r\n  },\r\n  \"content_scripts\": [\r\n    {\r\n        \"matches\": [\"*://bitbucket.org/*/pull-request*\"],\r\n        \"all_frames\": true,\r\n        \"js\": [\"bbprtb.user.js\"]\r\n    }\r\n  ]\r\n}",
+  "manifestSummary": {
+    "meta_version": 2,
+    "manifest_version": 2,
+    "has_content_scripts": true
+  },
+  "isDownloadBlocked": false,
+  "minAsOfDate": "2024-05-19",
+  "maxAsOfDate": "2024-05-27"
+}

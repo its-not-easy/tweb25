@@ -1,0 +1,40 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "author": "Smart audio capture",
+  "background": {
+    "service_worker": "js/background.js"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png",
+      "300": "icons/icon300.png"
+    },
+    "default_title": "__MSG_extName__"
+  },
+  "default_locale": "en",
+  "description": "__MSG_extShortDesc__",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png",
+    "300": "icons/icon300.png"
+  },
+  "incognito": "split",
+  "manifest_version": 3,
+  "minimum_chrome_version": "102",
+  "name": "__MSG_extName__",
+  "permissions": [
+    "alarms",
+    "contentSettings",
+    "downloads",
+    "scripting",
+    "storage",
+    "tabCapture"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "version": "1.0.1"
+}

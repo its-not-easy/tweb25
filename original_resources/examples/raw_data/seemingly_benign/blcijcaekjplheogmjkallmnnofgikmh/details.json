@@ -1,0 +1,1046 @@
+{
+  "url": "https://chromewebstore.google.com/detail/network-x-ray/blcijcaekjplheogmjkallmnnofgikmh",
+  "paymentType": "free",
+  "logo": "https://lh3.googleusercontent.com/jdoknxvrgRYgCaYxucchqA1uiI5DQUHxIuXkl-hDEH25AU2yVWt8XnB4ag8UqNeg63bB5cCT8tfggIziHLUahmfQI20",
+  "name": "network x-ray",
+  "id": "blcijcaekjplheogmjkallmnnofgikmh",
+  "version": "0.0.13",
+  "description": "See a real-time view of your network quality and find a good internet connection before an important video call",
+  "fullSummary": "See a real-time view of your network quality and find a good internet connection before an important video call or gaming session. \n\nNetwork x-ray measures your network quality in the background to find out if your video call or gaming session is likely to be smooth and effortless, or annoyingly laggy. With a real-time view of your network quality, and tips guidance you can use network x-ray to find a good internet connection before an important call.\n\nThe plugin opens automatically when you go to URLs for many video conferences and gaming services. Look for our icon in the top right corner. For the full list of URLs go to details and review website access.\n\nIf your internet service provider supports network x-ray diagnostics, you can get anonymized guidance on how to improve your network.",
+  "userCount": 182,
+  "lastUpdate": "2023-06-08",
+  "size": 300032,
+  "email": "dom@domos.no",
+  "publisherAddress": "Ole Moes vei\nOslo 1165\nNO",
+  "publisherCountry": "NO",
+  "supportedLanguages": [
+    "en"
+  ],
+  "category": "productivity/workflow",
+  "itemCategory": "extension",
+  "privacyPolicyUrl": "https://www.networkxray.io/privacy",
+  "media": [
+    {
+      "video": "https://www.youtube.com/embed/zSUVJnuMJAE?rel=0&wmode=opaque&enablejsapi=1"
+    },
+    {
+      "screenshot": "https://lh3.googleusercontent.com/eZAcJVPS0yZ-FulcXB_sv0tRfogiLKvi4fCxRaOGXygFNCeeUlkcrRhQVTMxfV2WsyzOGknKYBIeU6TVjnYn7c6zxtA"
+    },
+    {
+      "screenshot": "https://lh3.googleusercontent.com/wWnRESIEh0Icwk7gpGvrypL4YE88uo2rZKy858WkMUhuoM8eMlTGjKFewaN3m84MDAQs3MsYkP6Yq8XORRmdMu3Hp80"
+    },
+    {
+      "screenshot": "https://lh3.googleusercontent.com/u7FJ3-n-yzVde-MDof7l-vB_ckCFbsaN7sKIFEoO-Y3o5AbOaKdEgsXDQHnYvi5hSc0fgxL7bpMxcLhbP343UY6t"
+    }
+  ],
+  "numScreenshots": 3,
+  "numVideos": 1,
+  "smallBanner": "https://lh3.googleusercontent.com/vQRwFnumDoTJNQfYcKuQwVGC3Q_-WkgetfnR2MOUUTsYvsBUZxvxIr_pBacVhF6_HwL3fwD_ZalkEhmCc48ZDM1mEg",
+  "ratingValue": 5,
+  "ratingCount": 3,
+  "permissions": [
+    {
+      "key": "permission-content-scripts",
+      "risk": 15
+    }
+  ],
+  "author": "dom",
+  "related": [
+    "aacjjlhcjncbgkhgloaibahkehnndmof",
+    "pkkmcaoiinhniniafikpmhajlddofikj",
+    "ejdabaefkdkkpgbfkfngdginepppfdbk",
+    "djgneammmklaajinkihpibdpaflehgio",
+    "jlaaopbhlapeilijomffbmpmmoddlmff",
+    "hbfmbflgailjeobfkhpdipcdmpclinki",
+    "leigmhhgeiddoafhfmbfgpcplgecmgjm",
+    "gccbjkelbedcjkomaakkdllmppboeoca",
+    "hgmgebeiknkgjdgaoafbbjiejjimclig",
+    "dpalgnepdnaojnaljmioioopldaakaea",
+    "hdjiefefbllgchaekgnakpcboimbghbp",
+    "cpkaahjmeacodnlaaeikaeepfncjbamp"
+  ],
+  "privacyCollections": [
+    6,
+    8
+  ],
+  "disclosePrivacyCollection": true,
+  "isTrustedPublisher": true,
+  "isFeatured": true,
+  "riskScore": 0,
+  "riskImpact": 1,
+  "riskLikelihood": 0,
+  "creationDate": "2023-03-24",
+  "fetchId": "20240527",
+  "oneWeekDelta": {
+    "userCount": -3,
+    "ratingValue": 0,
+    "ratingCount": 0
+  },
+  "oneDayDelta": {
+    "userCount": 2,
+    "ratingValue": 0,
+    "ratingCount": 0
+  },
+  "ranking": [
+    {
+      "ts": "20240527",
+      "value": {
+        "overall-rank": 52289,
+        "extension-rank": 41419,
+        "cat-productivity/workflow-rank": 1633,
+        "keyword-quality-rank": 196,
+        "keyword-network-rank": 24,
+        "keyword-internet-rank": 227,
+        "featured": 14509
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "reviewId": "df983ee1-ae25-45a0-9b40-01f4ca20398b",
+      "authorId": "Gavin Young",
+      "authorName": "Gavin Young",
+      "authorPicture": "https://lh3.googleusercontent.com/a-/ALV-UjWR7doRWKxjfP-RoqxhoBWJLKEPEX0XxMB6JWyGaiNlRpSHivmM=s32",
+      "rating": 5,
+      "creationTime": 1714058012000,
+      "updatedTime": 1714058012000,
+      "timestamp": "2024-04-25",
+      "ingestionTime": 1714129662529,
+      "numHelpful": 0,
+      "numVoted": 0,
+      "version": "0.0.13",
+      "body": "Works very well. Correlates with artefacts occurring on Video Conferencing. When I hear a glitch/sound drop etc. the icon changes from green to amber & I can see useful latency metrics & a real time % quality score.",
+      "lang": "en",
+      "fetchId": "20240426"
+    }
+  ],
+  "metaTitle": "Network X-Ray: Real-Time Network Quality Visualization",
+  "metaDescription": "See real-time view of network quality and find a good connection for video calls. Network X-Ray measures network quality and provides guidance to improve it.",
+  "metaSummary": "Network X-Ray is a Chrome extension that offers a real-time view of your network quality. It helps you find a good internet connection before important video calls or gaming sessions. By measuring network quality and providing guidance, Network X-Ray ensures a smooth and lag-free experience.",
+  "downloads": {
+    "enabled": true,
+    "zipUrl": "/api/download?id=blcijcaekjplheogmjkallmnnofgikmh&type=ZIP&version=0.0.13",
+    "crxUrl": "/api/download?id=blcijcaekjplheogmjkallmnnofgikmh&type=CRX&version=0.0.13"
+  },
+  "alternatives": [
+    {
+      "url": "https://chromewebstore.google.com/detail/semiant/aacjjlhcjncbgkhgloaibahkehnndmof",
+      "paymentType": "in_app",
+      "logo": "https://lh3.googleusercontent.com/zy1nmUS9MELxEsgnkb8yf9ACin_6XvWTHYCkn8PqXBQyAYenfenx1liUnNzRGJdlxf_TqRfKnN_3J33OIqw2OvUd",
+      "name": "Semiant",
+      "id": "aacjjlhcjncbgkhgloaibahkehnndmof",
+      "version": "3.8.3",
+      "description": "Your Virtual Quality Assistant",
+      "fullSummary": "NEW: Better Integration with Polarion and other tools.\n\nGenerate and manage your product glossary with Semiant. The AI scan works with Polarion, Jira, Confluence, DOORS Next, Jama Connect and many other web applications.\n\nYou can try it for free.\n\nSemiant has many more skills. Contact us to find out how Semiant can make your product development teams more efficient and effective.\n\nLike Semiant? Then please rate it. \nNot so much? Then contact us for suggestions: support@formalmind.com\nWant to stay informed? Sign up for our newsletter: https://www.semiant.com/get-started/\n\nRelease history: https://www.semiant.com/releases/",
+      "userCount": 39,
+      "lastUpdate": "2024-02-15",
+      "helpUrl": "https://www.semiant.com/support/",
+      "size": 3670016,
+      "email": "info@formalmind.com",
+      "publisherAddress": "Bagelstr. 114\nDusseldorf 40479\nDE",
+      "publisherCountry": "DE",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/developer",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://www.formalmind.com/privacy",
+      "media": [
+        {
+          "video": "https://www.youtube.com/embed/GtsFu9F1fws?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/gEkhlYUMdlySxAyrFOODqdLwgFPXw6ZkoaGZM8obMl-whxIXN9Bj_x4xzXzMOYBRZi5j1CQhyNKpZNqx8tQImAtS"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/q9aKSel4Ietx0twnRRhlu5hlyZx9E5DpJ2maZLXo03INZEXxsHwi4wZOM1dJJ7efmPYxbKAKR5fusR307aEUYJf8UA"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/std_61KJBEbTPUFnw-Ac4NlLOA0Pltx8cGiFYV2U8vJfnyJrux1yHkgFDzAxyZfUO8uN9S4aNzbbNvviOgGhuiHg"
+        },
+        {
+          "video": "https://www.youtube.com/embed/GtsFu9F1fws?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/wD15yfjX05DjXjs5YHw6XNsXLLCLIdfsnwJkJXv6UK_FPWMu9fMkYWWPBdg_wt4-EgPyP6FF-Jw0FnITMzWxYDDk8g"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/U1PYjDCMe9YS9-dZ7jqEhXMPprP4Wmb_fAS6k4TbvWZH5wjYVzkS6STSVmmDmFfqZnV-SAyTbvbl07AuPBdqxovit5M"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/pNr8ztab9BgLNX6yL520pj6_rX9kHRAgXHk_NufA1ZeUoUtTIw33_5VqEvfbxzVSo3VL31jdTnaD5YDl-7hyI_kzkw"
+        }
+      ],
+      "numScreenshots": 6,
+      "numVideos": 2,
+      "smallBanner": "https://lh3.googleusercontent.com/Dk7e-bgfM1mJZTfNFH1Y6qJCJPQewsiRhvhmFqgkhwjGuqmNy1qyGSANrlHSCcVGcK7yOaThMscw0Qrh17eimjTXGCM",
+      "ratingValue": 5,
+      "ratingCount": 2,
+      "permissions": [
+        "storage",
+        "activeTab",
+        "scripting"
+      ],
+      "author": "https://www.semiant.com",
+      "website": "https://www.semiant.com",
+      "related": [
+        "inpcemkdignbegognhkloalkfcmogjfm",
+        "kikhnobkckhjjocokglddiaaohdeedfh",
+        "jhimjjlkpphnadiadgdkkchefdipidoa",
+        "jeapppiecmjiileohdfpliojgdndhhlf",
+        "kkghlacjbajnkjpidndmgaaccoipdack",
+        "jmapgdmcamlapgpedipfadnjbjofffle",
+        "cdknobbdmhicddgkenemmmbmnbdnhhkl",
+        "cdldadgdheoccmpjaclanmhckmgkhmlg",
+        "ndhnfifmgmkcakpelkdlkhhnkldgnapl",
+        "moeikogeobbcmheckflepdogdjdcahfk",
+        "daicgjbjbhhngeofbadldopjoicaklaf",
+        "kflbaflenonjdfgegkoogldipabeenin"
+      ],
+      "privacyCollections": [
+        1,
+        9
+      ],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 0,
+      "creationDate": "2021-08-01",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/gitlab-approvals/pkkmcaoiinhniniafikpmhajlddofikj",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/yA4PCIG7N-gwcQbeZWiH1wQimOzWGPT0-Xv-ABLEa7I_zkZFbdhEBjHoyFT5f-di9To5h1r0vCpV4exUHgWjCZJrh74",
+      "name": "GitLab Approvals",
+      "id": "pkkmcaoiinhniniafikpmhajlddofikj",
+      "version": "1.3.4",
+      "description": "Displays the approvals for a given MR within the MR list.",
+      "fullSummary": "After switching over to GitLab, I noticed that when relying on an approval system for Merge Requests, it was hard to know upfront which ones you've already approved. This extension was made to make it clear to know which Merge Requests you've gone through without having to click into each and every one.\n\nChangelog:\nJan. 14th, 2020 (v1.3.4):\n* Added support for Group Views with subgroup projects\n  * Authors and approvals will now properly be fetched for group views. Previously, subgroup projects were not propogating correctly and resulted in undefined project IDs.\n\nJan. 21st, 2019 (v1.3.3):\n* Fix for very large group views\n  * There was an issue with the selector on merge request `li` items in the group view which caused massive mix ups of where to inject approvals and move author views around.\n\nJan. 20th, 2019 (v1.3.2):\n* Added Group support\n  * The plugin now works for all composite group views.\n  * Uses a single API call to get project ids (only if it hasn't seen one before!), and then similar functionality as a project view.\n* Added option to clear all cache and settings\n\nJan. 19th, 2019 (v1.3.1):\n* Fixes a caching bug which involved getting the wrong time stamp off the page\n* Fixes the generalized permissions issue\n  * Allows me to publish faster\n  * Potentially reduces the number of whitelisted websites that will work with the extension. Going to keep investigating.",
+      "userCount": 48,
+      "lastUpdate": "2020-01-14",
+      "size": 348160,
+      "email": "cnnranderson@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/developer",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/oftLL1OK6ne6CmiX39xacXiVCa68qNGf3iK9qeD3RgBdC6fAGjgJFI7SeeNJGswQMAJxmcJveMDw5P_mtde66zN1IQ"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 5,
+      "ratingCount": 1,
+      "permissions": [
+        "activeTab",
+        "storage"
+      ],
+      "author": "Conner Anderson",
+      "related": [
+        "pjfkbjmaofmfllbjkbaanjdijcaompfn",
+        "lieiooigeiockdceiekbikfaklnklmef",
+        "hhciogifhjfdjalhjmljimpkinmdgcki",
+        "elbmoegcdmjigdefmmpjhhhdjleefcpe",
+        "jmgnbihekjkabhepcgajfjglpephjbio",
+        "fdbkbdjkkjlceenjnkdopiiibkhlknlm",
+        "hebakjagmnmkeacdfcjgapeihiogdham",
+        "epleehoimjhfndhecgchgfcdmhjanhbi",
+        "igdnlmbjfnandalpoknbcjaeefkdmeah",
+        "mgkgjmacmbfehebmefhbbagdcagooccd",
+        "digafonkkgaabmggclpbabfmfnambeia",
+        "pjpihpogiidfbgdbmkmmhileaijeakan"
+      ],
+      "privacyCollections": [],
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2020-01-14",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/kill-duplicate/ejdabaefkdkkpgbfkfngdginepppfdbk",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/c9Km8Y4wFAnWFLUg8Zl96eAO5Cd7l3SGVyQEhevDJWQti2FxqLVVUcuLBkyw-24UGgoCIRBcktG-m9yZ263ZpvyD3t8",
+      "name": "Kill Duplicate",
+      "id": "ejdabaefkdkkpgbfkfngdginepppfdbk",
+      "version": "0.6",
+      "description": "Official Kill Duplicate Extension",
+      "fullSummary": "This extension allows you to analyze your web pages to detect sites that copy your content.\nIt also allows you to automate the removal requests (DMCA complaints) of duplicated or plagiarized contents concerning your web pages.",
+      "userCount": 86,
+      "lastUpdate": "2023-07-25",
+      "helpUrl": "https://app.killduplicate.com/en/contact",
+      "size": 143360,
+      "email": "contact@seohackers.fr",
+      "publisherAddress": "37 rue des Mathurins\nParis 75008\nFR",
+      "publisherCountry": "FR",
+      "supportedLanguages": [
+        "en",
+        "fr"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://www.killduplicate.com/fr/terms-of-service",
+      "media": [
+        {
+          "video": "https://www.youtube.com/embed/BPDua6weTv8?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/BFmFDGUDRAl2-YR_jbRr7x1pGK50YMJn-puTzScF9jy0M6zcAVryEk5BaZ3WJhLg1JAkICmYWtzTxEzUbwr0_a2UfFw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/vzow2Q7_mKdlnfTQ1vYCPjjQ31TDNp9TzGNB1iFaohkOyhTAj22tW1qMrD_rxuSTgDSlh3R0GmNJSDkjLheTG0tr2w"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/e8FTEF5swVY8Z0RWdiyEic8zC0h56RTKWu94PzH3EZsOR7qs9pHBkc2tJWIPZ2cs8r1-dMnhx_Mag1TJ8AzdcjIy"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/tapg6Ld2981GooeM_5foHx6ZEQyQwb52fb54AWw4Jyv21SdcY0c4vq9NFw_MvmLOJfT4eKL4bI4edTMHVhdUEZjUevY"
+        }
+      ],
+      "numScreenshots": 4,
+      "numVideos": 1,
+      "ratingValue": 5,
+      "ratingCount": 1,
+      "permissions": [
+        "storage",
+        "tabs",
+        "scripting",
+        "notifications"
+      ],
+      "author": "https://www.killduplicate.com",
+      "website": "https://www.killduplicate.com",
+      "related": [
+        "oaohkpbdkgfmmgdjgeekkmkpmkglfdcc",
+        "gnnmpgibgchafbgmlabigjdkkndgooch",
+        "nmkelbcciejibomjfdhaifcdkknoieii",
+        "jlaaopbhlapeilijomffbmpmmoddlmff",
+        "djgneammmklaajinkihpibdpaflehgio",
+        "gjehamgkcgppiifccfljjnkjloklejak",
+        "mcgfplmcfcdabjmmfpaodiafeplehmll",
+        "ifbkibkfjbedaipjhinjedldejnaikak",
+        "blcijcaekjplheogmjkallmnnofgikmh",
+        "lghgndendhoeddlngchlbeealnmmiola",
+        "hbfmbflgailjeobfkhpdipcdmpclinki",
+        "dpalgnepdnaojnaljmioioopldaakaea"
+      ],
+      "privacyCollections": [
+        9
+      ],
+      "disclosePrivacyCollection": true,
+      "localizedDataPointer": {
+        "fr": "20231004"
+      },
+      "riskScore": 3,
+      "riskImpact": 3,
+      "riskLikelihood": 1,
+      "creationDate": "2022-05-22",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/owncast-extension/djgneammmklaajinkihpibdpaflehgio",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/7FYvFea49MPa0fUoX-eMyUCDngMd8Pdec1caUZ_-d1ZCEnCkI_-c7KQ8p07AIfPBs2cIeOobZlrOIIhtg0MZlkpJmg",
+      "name": "OwnCast Extension",
+      "id": "djgneammmklaajinkihpibdpaflehgio",
+      "version": "0.5.0",
+      "description": "Enchant your OwnCast experience with the OwnCast Browser Extension!\n\nThis extension is a companion extension to Owncast, a\u2026",
+      "fullSummary": "Enchant your OwnCast experience with the OwnCast Browser Extension!\n\nThis extension is a companion extension to Owncast, a self-hosted live video and web chat server for use with existing popular broadcasting software.\nRead more about owncast on the official website: https://owncast.online/\n\nThe OwnCast Browser Extension improves the OwnCast experience with the following, exciting features:\n\n\u2022 Follow instances: Whenever you visit an owncast instance, a \"Add to Extension\"-Button will appear. Click it, and it will automatically appear in the popup.\n\u2022 Manage followed instances: you can use the pop-up to manage instances. See who's online, their uptime and their viewers!\n\u2022 Get notified: Whenever a user goes online, you know it! A browser notification will appear.\n\u2022 Auto-name-changer: Tired of changing your user-name for each instance by hand? fear no more! Set your username in the extension settings once, and you are good to go!\n\nThis extension is developed open-source under the MIT-License.\nYou can find the code here:\nhttps://github.com/craftamap/owncast-browser-extension/",
+      "userCount": 64,
+      "lastUpdate": "2022-01-11",
+      "size": 141312,
+      "email": "fabians1999@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/social",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/7NzxS18XSyhiFLO9k3QUahWoh_jPOrvrVciL5dqVcbJ4Gc3r0lq22DOEKEe5EFQi8NTRu8BnkklizflQR7PDIPfPaAk"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 5,
+      "ratingCount": 1,
+      "permissions": [
+        "*://*/*",
+        "storage",
+        "notifications"
+      ],
+      "author": "craftamap",
+      "related": [
+        "ikcphihdleoaocpmbcdcdajfiioafmae",
+        "jnmgaljhnlbogedbhgdhhbebchemeadh",
+        "gccbjkelbedcjkomaakkdllmppboeoca",
+        "inclbgdmhheebmihljedogpbfkaeeaci",
+        "hgmgebeiknkgjdgaoafbbjiejjimclig",
+        "lbljkplhmhfacdanpmjemiehaohpijib",
+        "cpkaahjmeacodnlaaeikaeepfncjbamp",
+        "hbfmbflgailjeobfkhpdipcdmpclinki",
+        "gecbhbocnagefhpideoilgnalhnghfpa",
+        "dhohiopgmjndniekbklpflonniaegocn",
+        "blcijcaekjplheogmjkallmnnofgikmh",
+        "ejdabaefkdkkpgbfkfngdginepppfdbk"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 2,
+      "riskLikelihood": 0,
+      "creationDate": "2021-02-03",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/hyperocto/jlaaopbhlapeilijomffbmpmmoddlmff",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/vZQD-zhaKwXSiZ5LRwVx6pXNDi4TEMx65TFsOgnwqfLkPYlyWweNGnlYC-6CYk8bEe2ARm6eSi8f65eIMMVyxw2Rxw",
+      "name": "Hyperocto",
+      "id": "jlaaopbhlapeilijomffbmpmmoddlmff",
+      "version": "3.0.0",
+      "description": "Find similar links and open them concurrently",
+      "fullSummary": "Frustrated by clicking on lots of link on the webpage? Now you have a better solution! This little smart tool helps you to find links with similar links, and open them concurrently in just few clicks.\n\nJust a simple right-click and select the function Hyperocto provides, you will find it's really a time saver for those boring clicking works. Of course, you can also use keyboard shortcuts for quicker access to Hyperocto.\n\nThis extension is best for search engines, also for other web pages, install now!",
+      "userCount": 47,
+      "lastUpdate": "2024-03-18",
+      "helpUrl": "https://github.com/examan/hyperocto",
+      "size": 30003,
+      "email": "megaman@mail2000.com.tw",
+      "supportedLanguages": [
+        "en",
+        "zh-CN",
+        "zh-TW"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/TMxyESra7HvZgGFg5rKWVm5oXlsQwbJdizaUgVH0IzNmuCt_Qw3UHnPWDbB5zVIUg9Z_iyqmAuvYDbv6_zFlllEQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/tUaLWx5LEZcQNtzbHM3uIz3vaWCtVB3hTp_cVL_h_m1UeUuHnmw6P6NjH86dpzYWdXh-43CdUMo5sbEwHMj4FSUE"
+        }
+      ],
+      "numScreenshots": 2,
+      "smallBanner": "https://lh3.googleusercontent.com/Ix9a_XKl1p5-helc4AwRNkxy1E7wTqvEi5tlXcnMKTgq0IcudCVoaROxpWihe6ltE8-QUT24_iNSRI-cR9g4dE-j3Gw",
+      "ratingValue": 5,
+      "ratingCount": 1,
+      "permissions": [
+        "contextMenus"
+      ],
+      "author": "Megaman",
+      "related": [
+        "gaifepagmjpnjklffdfcpmcojjliacge",
+        "pboabideillgiolkekbkopmbgkkblcnh",
+        "nlolomalgeckkbdjjgdgfieekggcildf",
+        "dcifnigooednekcmhkcnakoifgdapdbk",
+        "okpfaahmakpepeoahekhiehomdiikjjg",
+        "ocffkcplakjlhbaadfcokiiflaelnaib",
+        "flflkkgppejmjpplhjdohjllcphoknjc",
+        "dhhabpfkekhhohldmgphkbbclilclehi",
+        "cemmddlaedjfnndijimmacgkeclafead",
+        "digafonkkgaabmggclpbabfmfnambeia",
+        "hbfmbflgailjeobfkhpdipcdmpclinki",
+        "dpalgnepdnaojnaljmioioopldaakaea"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "localizedDataPointer": {
+        "zh-TW": "20231004",
+        "zh-CN": "20231004"
+      },
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 0,
+      "creationDate": "2019-11-23",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/uli/hbfmbflgailjeobfkhpdipcdmpclinki",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/yNrWmMeCM7VuVigrCJBuhFsgC506Wrrmy52Ij99bbhu1jZIwERUnmUcx2WgVq5ni6nKlADJf9Bv7w7SuPyDUYR_pqw",
+      "name": "uli",
+      "id": "hbfmbflgailjeobfkhpdipcdmpclinki",
+      "version": "0.1.14",
+      "description": "Moderate your Twitter Feed",
+      "fullSummary": "Use Uli to redact slurs and abusive content, archive problematic content in Indian Languages. Lets collectively push back against online gender based violence",
+      "userCount": 51,
+      "lastUpdate": "2023-10-13",
+      "helpUrl": "http://uli.tattle.co.in/user-guide/",
+      "size": 1740636,
+      "email": "admin@tattle.co.in",
+      "publisherAddress": "Ground Floor, 173, 9th Cross Rd\nStage 2, Indiranagar\nBengaluru, Karnataka 560038\nIN",
+      "publisherCountry": "IN",
+      "supportedLanguages": [
+        "en-GB"
+      ],
+      "category": "lifestyle/social",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "http://uli.tattle.co.in/privacy-policy",
+      "media": [
+        {
+          "video": "https://www.youtube.com/embed/2IBZzbQs6UU?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/ghYcGin__erFOPGFElW3rihTi7haW0afbV4NjPumjtqzxKyZmsuIe31j4x6RTbIJIw1AwM2nsqzNuqn_R815WlQcOoM"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/kxUObjMkFqzgYIKl5UzFTZdMqTnXAhUfigV6NsbbMFWzo32w-IsfBX6IomgFCgmVaiBFwypCCVh2tJ9zQeNViadP"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/K1iAqKIxQsq4_3ZjFaiEx7HHh-0NTkC-cfOtaFTpmV5OZnP81FuFdKieU-2gV-mMB1MS9VMYTltKkFaYBEBK6JrdsQ"
+        }
+      ],
+      "numScreenshots": 3,
+      "numVideos": 1,
+      "ratingValue": 5,
+      "ratingCount": 1,
+      "permissions": [
+        "storage",
+        "contextMenus",
+        "https://ogbv-plugin.tattle.co.in/*"
+      ],
+      "author": "https://tattle.co.in",
+      "website": "https://tattle.co.in",
+      "related": [
+        "ndhnfifmgmkcakpelkdlkhhnkldgnapl",
+        "mgkgjmacmbfehebmefhbbagdcagooccd",
+        "fdbkbdjkkjlceenjnkdopiiibkhlknlm",
+        "akppaaclgiibjabmdholjofgpedimkmk",
+        "chageifplfnbklaoieoilhmaodjkbagp",
+        "hhocnbflnknkooipcgpeigageelgnlpe",
+        "fhlenghekakdnaamlbkhhnnhdlpfpfej",
+        "cibhknlofbcifmgfbffmkdebcnllmpka",
+        "dpalgnepdnaojnaljmioioopldaakaea",
+        "bghhijnjppimomdanalbepgmmehoonfg",
+        "bakcfpilmcemknpdfdakmfnfikedmodh",
+        "pjfkbjmaofmfllbjkbaanjdijcaompfn"
+      ],
+      "privacyCollections": [
+        1
+      ],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 0,
+      "creationDate": "2022-05-30",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/ducking-extension-ducking/leigmhhgeiddoafhfmbfgpcplgecmgjm",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/v6KXta1cOyRcqjplV0fyrSpIyoHtJ9jziFPqSkwSqpry1msQKKKuGkl0WsTupvcP8Xi4A7XRTv66KlncZdDVE9xl",
+      "name": "Ducking Extension - Ducking.id",
+      "id": "leigmhhgeiddoafhfmbfgpcplgecmgjm",
+      "version": "0.1.4.3",
+      "description": "Memudahkan pengguna DuckingDelivery untuk menambahkan produk dari Taobao, Tmall, 1688 dan mengeksport ke Excel (Form customer)",
+      "fullSummary": "Fungsi:\n\n- Konversi harga: Ducking Ekstension akan mengkonversi harga dari Yuan Tiongkok ke Rupiah Indonesia\n\n- Mengambil dan menyimpan informasi produk: Ducking Ekstension akan menyimpan dan mengambil data produk yang dipilih dari Taobao, Tmall, 1688 dan menyimpannya kedalam excel yang bisa digunakan untuk form order customer pada website ducking.id\n\n- Melihat status member pada website ducking.id",
+      "userCount": 202,
+      "lastUpdate": "2024-05-07",
+      "helpUrl": "https://www.ducking.id",
+      "size": 1960837,
+      "email": "devducking@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://ducking.id/privacy-policy-for-chrome-extension",
+      "media": [
+        {
+          "video": "https://www.youtube.com/embed/hLKD3Amyjdo?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/umtwRVvTBgdXdDqICL_LN5zA0gtGyNLWzXhLhQPW9kHFXQ14VbYnIN0UmlrHWJC0BwJ2mznB_nm2M7PmiwNhgGad9A"
+        },
+        {
+          "video": "https://www.youtube.com/embed/hLKD3Amyjdo?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/BTM5EFqQ_0cjca1IxUQDQBVVgecKpMALO4Hps-OILMspY9FUY9mB5Bpui7tqtUAIpoDMkKTWgEl_2xulR-5j_fSy"
+        }
+      ],
+      "numScreenshots": 2,
+      "numVideos": 2,
+      "ratingValue": 5,
+      "ratingCount": 13,
+      "permissions": [
+        "storage",
+        "http://*/*",
+        "https://*/*",
+        "<all_urls>"
+      ],
+      "author": "https://ducking.id",
+      "website": "https://ducking.id",
+      "related": [
+        "homobpnffkdegodnhkbdnkbfopfdihmp",
+        "mgkgjmacmbfehebmefhbbagdcagooccd",
+        "ndhnfifmgmkcakpelkdlkhhnkldgnapl",
+        "hjnnmpjhcfaoaahiplkmkbmalbjjjcnf",
+        "keageehkkajaaplkobeamcbnojeaippl",
+        "nmkelbcciejibomjfdhaifcdkknoieii",
+        "imogamaabehbgfjmddalkhmimcnmfmid",
+        "odbamphgeaclhonbmioddnnhmklmmhlm",
+        "fdbkbdjkkjlceenjnkdopiiibkhlknlm",
+        "dpalgnepdnaojnaljmioioopldaakaea",
+        "dblhgaiiainfelbfcgckndnlgdbnojkk",
+        "odoldjpcahjamhdjldehkgnmmcdnheci"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 2,
+      "riskLikelihood": 0,
+      "creationDate": "2023-01-17",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/pod-extension/gccbjkelbedcjkomaakkdllmppboeoca",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/Ynayej8iPerzo73dQ3uC5imzRBJuF4IFQVsDvsk1P_23ZYLD-Ob1amP9f1p6E_9_mxfbuQOxneJOXCOp11jHiA5e",
+      "name": "Pod Extension",
+      "id": "gccbjkelbedcjkomaakkdllmppboeoca",
+      "version": "0.0.0.8",
+      "description": "Pod: AI Workspace for Sales",
+      "fullSummary": "\ud83e\udd2f\nYou probably jump between 15 different tools daily, wasting time updating your Salesforce or looking for information your need.\nYou shouldn't have to work in Excel, OneNote, or Trello.\n\n\ud83d\udd25\nIt's time for a productivity tool built for sellers. Pod is a smart productivity workspace for account executives. It's your new command center. \n+ Update your salesforce in seconds\n+ Manage your notes\n+ Collaborate with colleagues\n+ Track your deal progress!\n\n\ud83d\ude80\nSave time on low-value admin work & close more deals, faster.\nYou'll hit your quota, every single quarter! \n\nSign up with the click of a button and try it out for free.",
+      "userCount": 70,
+      "lastUpdate": "2023-03-22",
+      "size": 2946499,
+      "email": "support@workwithpod.com",
+      "publisherAddress": "2830 Gough Street\nSan Francisco, CA 94123\nUS",
+      "publisherCountry": "US",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://www.workwithpod.com/privacy",
+      "media": [
+        {
+          "video": "https://www.youtube.com/embed/8X16KGdJ4zs?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/ThyxHgptveNyoc-HGHhotVH5fhu1vOXlTcIPkakp4lqJ1l8OH9uTDIUtYGtYbWAA813WJC0ISEmoS209pTpcdO31rg"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/QkUcwaeyiwwK_ZTev4G2lyrsaeJHoVJ1iI3KkpOeZJuB8MW1A2yOIMkLMFj5XZGXegVirxHyYMGMI3zI-xxP7f7ZCUg"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/z2ajzh1rd8ni8EMtMoUDzNQYGxvimPS3JEXb5jYi_md9Gm_EHM9OmfYJ5GiV85Quq71V3c14K-ESN39JprLnXfPV"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/8DzJsNu2DBw3_8-oba93p7xQgpcvTKucu4luT8TlkIJtB-1qK-cLNqWN60mOvr7Kqd9YrmRWGz0Bk7VMDoFBtuCf3w"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/jQnEqVfG3a3VrZo_ilWr1XogZ6OQmekKiy_B7Dhwj4y_GdyG32hUrw-h_3zc6-Gbu_LHgtCy5FDbHuWaz6Ux-6w_wes"
+        }
+      ],
+      "numScreenshots": 5,
+      "numVideos": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/MyqE8PlGrRFuWwvxqcVlK5rhvxsot9QBHZz2GjnbPENM9gOlgL8NfT0FmRsaOrkHvf7EI6NbQdJZ-dOoMR81JzS16g",
+      "ratingValue": 5,
+      "ratingCount": 2,
+      "permissions": [
+        "activeTab",
+        "tabs"
+      ],
+      "author": "https://workwithpod.com",
+      "website": "https://workwithpod.com",
+      "related": [
+        "hogkghjnejdnfgiioamohgaokbebongi",
+        "ldmoiegjhmdnlkfempmgogekheocimdc",
+        "jcmopikmojinngkiehgkbgklglcphdoc",
+        "lbljkplhmhfacdanpmjemiehaohpijib",
+        "dpalgnepdnaojnaljmioioopldaakaea",
+        "hbfmbflgailjeobfkhpdipcdmpclinki",
+        "djgneammmklaajinkihpibdpaflehgio",
+        "cpkaahjmeacodnlaaeikaeepfncjbamp",
+        "gecbhbocnagefhpideoilgnalhnghfpa",
+        "bakcfpilmcemknpdfdakmfnfikedmodh",
+        "mkohhbonmnbbeceekfniakihnmpibedm",
+        "nhklbdmnfeelpcppmpbgldeamflkijdn"
+      ],
+      "privacyCollections": [
+        1,
+        9
+      ],
+      "disclosePrivacyCollection": true,
+      "riskScore": 2,
+      "riskImpact": 2,
+      "riskLikelihood": 1,
+      "creationDate": "2022-11-19",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/easy-to-read/hgmgebeiknkgjdgaoafbbjiejjimclig",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/IkFDddg0uN4pVC_Vz284319ixd7VvBWbxzOiqeU7GWB9FtWY6N2DNU58wpO8LbeC7HEj8X9bZmmFOgcAmld3PwM4Tw",
+      "name": "Easy to read",
+      "id": "hgmgebeiknkgjdgaoafbbjiejjimclig",
+      "version": "1.3.0",
+      "description": "Easy to read",
+      "fullSummary": "Easy to Read extension turns difficult sentences into easy sentences. All you have to do is hover over a sentence that is hard to understand. The app will then show you a version that is simple to understand. \n\nWe created this app for a family member who has a mental disability. But we soon found out it helps many people, both with disabilities and with no disabilities. \n\nEasy to Read helps people who are not native English speakers. It helps people who are learning to read. It helps students, reading difficult texts. Anyone who wants to better understand what they are reading, will enjoy this tool.\n\nTo use the extension follow these easy steps:\n\n1. Click the green Install button.\n\n2. When the button turns from Install into Open, click Open.\n\n3. Go to the top right side of your Chrome and click the jigsaw puzzle icon.\n\n4. From the menu that will open, choose Manage Extensions at the very bottom.\n\n5. On the web page that will open, you will see all your chrome apps. The Easy to Read one, will be on the top left. \n\n6. There will be a toggle button. Move it to the right. It will turn from gray to blue. If it is already blue. Leave it like that.\n\n7. Now the Easy to Read pink icon will appear on your Chrome. Click it, and a tiny window will open up. At the bottom of the window there will be a link, saying \u201cHow do I get a license?\u201d  Click it.\n\n8. Now a web page will open. Scroll to its bottom, fill in your details, and get a code.\n\n9. Copy the code. \n\n10. Now click the Easy to Read button again. The tiny window will open. There will be a field titled My User Number. Paste the code there. Now move the gray toggle button to the right. It will become pink. \n\n11. The app is now ready to use. Visit any website. We recommend trying The New York Times. Hover over a hard sentence, and let us show you the simple version of that sentence.\n\nWould you like to learn how this extension works?\n\nThere are guidelines, made up by experts, to make language simpler. We took those guidelines. Then we used Artificial Intelligence to turn those guidelines into a machine that turns hard text into easy text. \n\nWe use Machine Learning to improve the app. This means that when you use our tool, we learn from the way you use it, if you are happy with the results. And we improve the tool based on how much it helped you.\n\nSo go ahead, start simplifying difficult texts. We hope you will get a lot of value from our app. And please leave us feedback. We want to improve for you. Thank you.",
+      "userCount": 122,
+      "lastUpdate": "2022-08-11",
+      "size": 718848,
+      "email": "info@fbbi.info",
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "make_chrome_yours/accessibility",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://www.freeprivacypolicy.com/live/61d1b568-9612-4a64-9a90-a82b44fe9ca3",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/qzwMZmpVP9PsM1whLFoz1j7ri6ciu_eUOEmaymtENkhfBee7GbQmlKxgy86bSZ1YG5WNN_hMUvcfFzbKp5YAhu5vtA"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/YT3GnB2c1T2M5b3VZoVBcJO0ISqZIlmncV-U0xuFQd8_nXUdzdf7-TrA8R0dH3UdzfZ7TQSV9gnz8u8Y1ocajDY-ag"
+        }
+      ],
+      "numScreenshots": 2,
+      "smallBanner": "https://lh3.googleusercontent.com/0InZeGzmNubB1ji-LVYpYhpERZ_o01zfcDsHliOJhbr2VRdIpDrsKiz9LYi6B0f-eo32gc_3FlqyeXhr-KhJFS5gH68",
+      "ratingValue": 3,
+      "ratingCount": 1,
+      "permissions": [
+        "storage",
+        "activeTab",
+        "scripting"
+      ],
+      "author": "tech",
+      "related": [
+        "jdemfbjhbcbhgpklhefanhhijiipioho",
+        "kbihopcfiikdglbglliomopclpgdedoh",
+        "efjoaihofoihbocdckfnadfmgjpfbpcb",
+        "nlcnfpbbappbnebnhgeinbbadhkmcfik",
+        "blcijcaekjplheogmjkallmnnofgikmh",
+        "cllhekepjlllifmpjjaigkpjpoffmicf",
+        "dpalgnepdnaojnaljmioioopldaakaea",
+        "koceodkdlldkaoenidaolomgcjnaoolf",
+        "geifimkfaillkbjmfkgkdabicfgnbdic",
+        "mocaafpbhgdpchpheajnkojdengdmbcg",
+        "jggpelnbpjgbbeehkoflogfcmebkfcmp",
+        "fgckabonplgfoiimecdddjdljmlflajo"
+      ],
+      "privacyCollections": [
+        4,
+        7,
+        8,
+        9
+      ],
+      "disclosePrivacyCollection": true,
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 1,
+      "creationDate": "2021-11-26",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/twitter-intro-finder/dpalgnepdnaojnaljmioioopldaakaea",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/hrm9ETsZEUOogt66W2H2vR3QXVtvdM0Y3w7EzPG8cCA6SxYNXAHbuj9QdvfIMj9qX8DLB-FeG2nAz_HEmFiXj8Ub6Q",
+      "name": "Twitter Intro Finder",
+      "id": "dpalgnepdnaojnaljmioioopldaakaea",
+      "version": "0.3",
+      "description": "Getting the perfect intro from followers of people that are also following you.",
+      "fullSummary": "When I see someone on Twitter that I want to reach out to (the 'target') you usually want to do so via a great intro. But how do I know who to ask? Currently, the only way to see how you're connected to someone on Twitter is through which people you follow also follow that person.\n\nBut what you actually want is to get an intro from:\n   (1) someone who the target follows \nand\n   (2) someone who's following you\n\nIf someone is following me that means I easily can ask for a good intro. And if the target is following that person that means that they\u2019ll be very likely to take the intro. This extension tells you exactly who to reach out to for a maximally successful intro!",
+      "userCount": 43,
+      "lastUpdate": "2023-04-17",
+      "size": 385024,
+      "email": "hakimboum406@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/tools",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://www.privacypolicygenerator.info/live.php?token=6gy7u3RT5yvMfNrKBNYpHEol4xhpR7Ut",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/nhi_Br76O11wJ3ie-2_UJeLSMIJ43z3De0uL2EgKwvmO37yuPlReKfaaWPM58VSC_2wUeyxyxHAqBhNr0_HU_fBBMOM"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 5,
+      "ratingCount": 2,
+      "permissions": [
+        "activeTab"
+      ],
+      "author": "hakimboum406",
+      "related": [
+        "igmnleelldgamcmifnjenhkegdgfaocc",
+        "akppaaclgiibjabmdholjofgpedimkmk",
+        "mgkgjmacmbfehebmefhbbagdcagooccd",
+        "ebofcmfjbdjfnofjbhippeiaoabmdppn",
+        "ekdeikfpcgmiejhmjmkjjmhkgnokhogk",
+        "acnkkaihdkcocdoenhgdcgnmpobjmgdo",
+        "cdknobbdmhicddgkenemmmbmnbdnhhkl",
+        "collajgagkjodmfjmndmjdpjmdfidocg",
+        "ndhnfifmgmkcakpelkdlkhhnkldgnapl",
+        "ldpahigdegcgmbnhnpknioacppfgifhi",
+        "ecnjcaccolhjelmegdpppdckeadieinc",
+        "pahhdkoojnnofbdeiklgmbcmehhcfcni"
+      ],
+      "privacyCollections": [
+        4,
+        9
+      ],
+      "disclosePrivacyCollection": true,
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 1,
+      "creationDate": "2022-07-02",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/phishkite/hdjiefefbllgchaekgnakpcboimbghbp",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/IrniDwJy4Wc6VMeT-3WYQJ3MuX9qhR9WqnxwAg-InhYNL6JTGalLVkxoEdt-XRF__FtwF80P7pdRe-JUIKFRqwm2J-M",
+      "name": "PhishKite",
+      "id": "hdjiefefbllgchaekgnakpcboimbghbp",
+      "version": "1.0.3",
+      "description": "Phishing detection tool on Chrome that leverages AI to scan every site and webpage you visit to prevent malicious attempts.",
+      "fullSummary": "The extension notifies you when there are: \n- Fake pages, money scams, or information scams \n- Pages with malicious code, or depraved images \n- Negative content that could affect children\n- Fake pages, defamation of people's honor\n- Reactionary pages, anti-government initiatives\n\nThe extension will pop up when you go to any page and inform you of blocking details to ensure a safe and secure browsing experience. \n\nIt doesn't affect your daily activities and requires no advanced installation/integration. Start by adding it to your Chrome, connect your wallet, and enjoy a secure browsing environment.\n\nPhishKite is the first move in Red Kite\u2019s transformation into a Smart Launchpad. \n\nPowered by Red Kite and SecuriChain.\n\nFollow us: \n\ud83d\udccc Red Kite: https://redkitepad.com\n\ud83d\udccc SecuriChain: https://securichain.io",
+      "userCount": 142,
+      "lastUpdate": "2023-03-23",
+      "helpUrl": "https://securichain.io",
+      "size": 8545894,
+      "email": "nmkhoa89@gmail.com",
+      "publisherAddress": "241 Xu\u00e2n Th\u1ee7y\nD\u1ecbch V\u1ecdng H\u1eadu\nC\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i 100000\nVN",
+      "publisherCountry": "VN",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "make_chrome_yours/accessibility",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/hKqtzL_JhzGtclWE81-20QEml9jml8ALbWpMhkcIBYWfS5HlCYdLKa1juz_CTAabAxhBQCkxrLzFg8m2CkzgguZg044"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/I7SVzF-FjgOa0rB-TGMjh9oMdJSTSxwpjV6rJN4_Ek-88UEUpjmpW5zVGvPpXiCQZ_JkCgjXfESC1b7OEPafkfzi7w"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/yHRzNrXt76XGBMK00fWdgGCIOvbsGCUndt3YNX_wNTBiC7Tc9OmZ0A0C8sye0FAcjtoTZ1JvyJAssoHFDMiSOfhK"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/A7qy8IjhNaNAV6cZxQdm0I0PCz-1Z_mWcZpN8SJH3sy6p4RvWkDDzgddC00cxF3nQJFn7am4TwqI2XTpAHy-lECszCg"
+        }
+      ],
+      "numScreenshots": 4,
+      "permissions": [
+        "tabs",
+        "storage"
+      ],
+      "author": "Icetea Labs",
+      "related": [
+        "ianpniapgjchiheejeipopldaanbjicd",
+        "dhkbjdnlhahnffncheehbnoaecncdpdk",
+        "ediphelghjlaknllkjoichnnmnjjighn",
+        "jfofijpkapingknllefalncmbiienkab"
+      ],
+      "privacyCollections": [
+        7
+      ],
+      "disclosePrivacyCollection": true,
+      "riskScore": 2,
+      "riskImpact": 2,
+      "riskLikelihood": 2,
+      "creationDate": "2023-03-01",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/online-mate/cpkaahjmeacodnlaaeikaeepfncjbamp",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/H9eWZNTavgeB3dtTRQQL6Qj0yqmWOcWx7Vk-PPweW8NStYShCsPQKFK4plN9ENa3Lw8n_BnsCYrSNZjdSCAlxcdhmgw",
+      "name": "Online Mate",
+      "id": "cpkaahjmeacodnlaaeikaeepfncjbamp",
+      "version": "1.0.1",
+      "description": "College Mate is a light extension that allows you to create your very own timetable in full detail.",
+      "fullSummary": "College Mate is a light extension that allows you to create your very own timetable in full detail. College Mate allows you to store your online class meet link within the timetable itself so that you can hop in your class without wasting a single second.",
+      "userCount": 51,
+      "lastUpdate": "2021-09-04",
+      "size": 98796,
+      "email": "amkumarrohit@gmail.com",
+      "publisherAddress": "Sector - 3E\nBokaro Steel City\nBokaro, Jharkhand 827003\nIndia",
+      "publisherCountry": "India",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/dafJXKjs1E9R8zVTtDBC1d2CDXInQyP-jaYrZbyMOeWw7JGWEVPOmnrkAaxdYRQ7RRzZ-4hjXKwS-Xk7snAecQfKUxM"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/J7HK8BrOai8zwyqHSNovgRrhSqh5r4mgFZLGQsluK5D3_nlejtDGKuDxzr0JLCIZs54T5R6NuT8i95Psn4aHHiUzLQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/q9j9wu7nVT-1ZehRl8E0OdI8m2opeBAxhsJ3Ayb2wpjyca2foufV2ISIINmsueWPHdcPU-RGJpcvzv0-sZZI8AIP"
+        }
+      ],
+      "numScreenshots": 3,
+      "smallBanner": "https://lh3.googleusercontent.com/-to0jU7HFIYH83VOVtpD2asDsIgbHe6UX2ybvNb6-RoGBNlPSsOEkMKO8W7oyCv0fJeC1LYrp10LdZFQZqc7dk1qBg",
+      "ratingValue": 5,
+      "ratingCount": 16,
+      "permissions": [],
+      "author": "Rohit Kumar",
+      "related": [
+        "gccbjkelbedcjkomaakkdllmppboeoca",
+        "dpalgnepdnaojnaljmioioopldaakaea",
+        "nhofggendgdcagphebkpikaimhllapib",
+        "obgdmgimjijpnhkjpehliffkacgmlloo",
+        "lbljkplhmhfacdanpmjemiehaohpijib",
+        "kpejmmgnnhlaolplbbpdnmmpfbjgkmfp",
+        "jjbpfnijgokebcbepdobkbneconogbkm",
+        "cmapaaekpfldnmdaeognnchjlihlcgpd",
+        "mkohhbonmnbbeceekfniakihnmpibedm",
+        "hogkghjnejdnfgiioamohgaokbebongi",
+        "ldmoiegjhmdnlkfempmgogekheocimdc",
+        "jggjgoabniiamfmdniipflgcdkaekcpk"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 0,
+      "creationDate": "2021-08-31",
+      "fetchId": "20240527"
+    }
+  ],
+  "crossPlatformData": {},
+  "score": {
+    "userCount": 10,
+    "ratingValue": 100,
+    "ratingCount": 0,
+    "size": 80,
+    "lastUpdate": 40,
+    "permission": 85
+  },
+  "allRanks": [
+    {
+      "label": "Overall",
+      "key": "overall-rank",
+      "value": 52289,
+      "path": "/top?page=2092&date=2024-05-27"
+    },
+    {
+      "label": "Workflow & Planning",
+      "type": "cat",
+      "key": "cat-productivity/workflow-rank",
+      "value": 1633,
+      "path": "/c/productivity%2Fworkflow?page=66&date=2024-05-27"
+    },
+    {
+      "label": "network",
+      "type": "keyword",
+      "key": "keyword-network-rank",
+      "value": 24,
+      "path": "/keyword/network?page=1&date=2024-05-27",
+      "difficulty": 10.203444444444443
+    },
+    {
+      "label": "quality",
+      "type": "keyword",
+      "key": "keyword-quality-rank",
+      "value": 196,
+      "path": "/keyword/quality?page=8&date=2024-05-27",
+      "difficulty": 7.463339999999999
+    },
+    {
+      "label": "internet",
+      "type": "keyword",
+      "key": "keyword-internet-rank",
+      "value": 227,
+      "path": "/keyword/internet?page=10&date=2024-05-27",
+      "difficulty": 57.35333333333333
+    }
+  ],
+  "oneWeekAgoRanks": [
+    {
+      "label": "Overall",
+      "key": "overall-rank",
+      "value": 51889,
+      "path": "/top?page=2076&date=2024-05-27"
+    },
+    {
+      "label": "Workflow & Planning",
+      "type": "cat",
+      "key": "cat-productivity/workflow-rank",
+      "value": 1629,
+      "path": "/c/productivity%2Fworkflow?page=66&date=2024-05-27"
+    },
+    {
+      "label": "network",
+      "type": "keyword",
+      "key": "keyword-network-rank",
+      "value": 24,
+      "path": "/keyword/network?page=1&date=2024-05-27",
+      "difficulty": 10.203444444444443
+    },
+    {
+      "label": "quality",
+      "type": "keyword",
+      "key": "keyword-quality-rank",
+      "value": 210,
+      "path": "/keyword/quality?page=9&date=2024-05-27",
+      "difficulty": 7.463339999999999
+    },
+    {
+      "label": "internet",
+      "type": "keyword",
+      "key": "keyword-internet-rank",
+      "value": 228,
+      "path": "/keyword/internet?page=10&date=2024-05-27",
+      "difficulty": 57.35333333333333
+    }
+  ],
+  "alternateNames": [],
+  "asOfDate": "2024-05-27",
+  "risk": {
+    "permissions": [
+      "permission-content-scripts"
+    ],
+    "specificHosts": [],
+    "emailIsInvalid": false,
+    "authorUrlIsInvalid": false,
+    "abnormalRatingTrend": null,
+    "abnormalUserTrend": null,
+    "knownMalware": null,
+    "knownBadReview": null,
+    "riskScore": 0,
+    "permissionScore": 135,
+    "allPermissions": [
+      {
+        "key": "permission-content-scripts",
+        "risk": 15
+      }
+    ],
+    "riskImpact": 1,
+    "riskLikelihood": 0,
+    "daysSinceLastUpdate": 354,
+    "daysSinceCreation": 430
+  },
+  "manifestJson": "{\n\"update_url\": \"https://clients2.google.com/service/update2/crx\",\n\r\n  \"name\": \"network x-ray\",\r\n  \"version\": \"0.0.13\",\r\n  \"description\": \"See a real-time view of your network quality and find a good internet connection before an important video call\",\r\n  \"permissions\": [],\r\n  \"manifest_version\": 3,\r\n  \"icons\": {\r\n    \"128\": \"icon128.png\"\r\n  },\r\n  \"web_accessible_resources\": [\r\n    {\r\n      \"resources\": [\r\n        \"assets/index.js\",\r\n        \"assets/widget.html\",\r\n        \"assets/good.svg\",\r\n        \"assets/bad.svg\",\r\n        \"icon.css\"\r\n      ],\r\n      \"matches\": [\r\n        \"https://*.meet.google.com/*\",\r\n        \"https://domos.ai/*\",\r\n        \"https://*.webex.com/*\",\r\n        \"https://*.zoom.us/*\",\r\n        \"https://*.speedtest.net/*\",\r\n        \"https://*.networkxray.io/*\",\r\n        \"https://*.bluejeans.com/*\",\r\n        \"https://*.spectrum.net/*\",\r\n        \"https://*.geforcenow.com/*\",\r\n        \"https://*.xbox.com/*\",\r\n        \"https://*.playstation.com/*\",\r\n        \"https://luna.amazon.com/*\",\r\n        \"https://domos-links.azurewebsites.net/*\"\r\n      ]\r\n    }\r\n  ],\r\n  \"content_scripts\": [\r\n    {\r\n      \"matches\": [\r\n        \"https://*.meet.google.com/*\",\r\n        \"https://domos.ai/*\",\r\n        \"https://*.webex.com/*\",\r\n        \"https://*.zoom.us/*\",\r\n        \"https://*.speedtest.net/*\",\r\n        \"https://*.networkxray.io/*\",\r\n        \"https://*.bluejeans.com/*\",\r\n        \"https://*.spectrum.net/*\",\r\n        \"https://*.geforcenow.com/*\",\r\n        \"https://*.xbox.com/*\",\r\n        \"https://*.playstation.com/*\",\r\n        \"https://luna.amazon.com/*\",\r\n        \"https://domos-links.azurewebsites.net/*\"\r\n      ],\r\n      \"js\": [\"contentScript.js\"],\r\n      \"css\": [\"icon.css\"]\r\n    }\r\n  ]\r\n}",
+  "manifestSummary": {
+    "meta_version": 2,
+    "manifest_version": 3,
+    "has_content_scripts": true
+  },
+  "isDownloadBlocked": false,
+  "minAsOfDate": "2024-05-19",
+  "maxAsOfDate": "2024-05-27"
+}

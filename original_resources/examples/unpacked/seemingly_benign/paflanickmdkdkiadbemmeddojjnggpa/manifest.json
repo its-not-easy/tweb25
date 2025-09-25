@@ -1,0 +1,122 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "name": "Ai Translator for Textbox Powered by ChatGPT",
+  "description": "Translate 85+ languages in any textbox before a post or email, fix grammar & punctuation, rephrase sentences, express nuances",
+  "author": "aritype.com",
+  "version": "2.0.0",
+  "manifest_version": 3,
+  "action": {
+    "default_icon": "icons/ari128.png",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "icons/16.png",
+    "32": "icons/32.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "exclude_matches": [
+        "*://teams.microsoft.com/*",
+        "*://leetcode.com/*",
+        "*://mail.google.com/*",
+        "*://twitter.com/*",
+        "*://docs.google.com/spreadsheets/*",
+        "*://*.facebook.com/*",
+        "*://*.reddit.com/*",
+        "*://*.instagram.com/p/*",
+        "*://*.bard.google.com/*",
+        "*://*.chat.openai.com/*"
+      ],
+      "runAt": "document_end",
+      "js": [
+        "content.js",
+        "popup.js"
+      ],
+      "all_frames": true
+    },
+    {
+      "matches": [
+        "*://mail.google.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "matches": [
+        "*://twitter.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "matches": [
+        "*://leetcode.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "matches": [
+        "*://docs.google.com/spreadsheets/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "matches": [
+        "*://*.facebook.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "matches": [
+        "*://*.reddit.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "matches": [
+        "*://teams.microsoft.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "icons/ari_loading.gif",
+        "icons/icon.svg"
+      ],
+      "matches": [
+        "https://*/*"
+      ],
+      "all_frames": true
+    }
+  ]
+}

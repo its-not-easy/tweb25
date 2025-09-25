@@ -1,0 +1,905 @@
+{
+  "url": "https://chromewebstore.google.com/detail/tmlive/ihinnjbaiipmhcjhnpnjhbapcndhabga",
+  "paymentType": "free",
+  "logo": "https://lh3.googleusercontent.com/_hl9oyeJas6542VPaxQ7uqQuxqt9VfJvYEBKsrsAuxOJMZ245inCfkAOEnjRgs0kEiL5lkm_Pr1oAGbLBSUoRirZIw",
+  "name": "TMLive",
+  "id": "ihinnjbaiipmhcjhnpnjhbapcndhabga",
+  "version": "0.15",
+  "description": "Assist Live TM Games.",
+  "fullSummary": "-Check games every minute. \n-Update list with linked games status. \n-Alert when it's YOUR turn. Sorry, no sound like in TM Tools Extension which I just found out about.\n-History turn scrolling. Update map as desired.\n\nOnly runs when you're on a game page on terra.snellman.net for helping with Terra Mystica game play.",
+  "userCount": 3,
+  "lastUpdate": "2017-06-18",
+  "size": 289792,
+  "supportedLanguages": [
+    "en-US"
+  ],
+  "category": "lifestyle/fun",
+  "itemCategory": "extension",
+  "media": [
+    {
+      "screenshot": "https://lh3.googleusercontent.com/s_RLcw7rLmYcDbBjvSY2aB9WXmq5OzIBUiPSDf-b7lvHnRk2YKI7emR7rkZDNtfv2Kwh8mwhCCu0Hc1vQLfEndHLwco"
+    }
+  ],
+  "numScreenshots": 1,
+  "permissions": [
+    {
+      "key": "permission-content-scripts",
+      "risk": 15
+    }
+  ],
+  "author": "Eric",
+  "related": [
+    "onfplibgipamioecleljjgfeckeociil",
+    "ghjkdokfbcfehdfpconfebbmbclelmlj",
+    "nllppfnifjiccjacjiaonomhggcgildm",
+    "dbdhcoeobjfmenccobpoohkdkddiacoc",
+    "dcdgbkfjhlafhhlgekjebhfhjfdkjjgp",
+    "nlholjcpmlialeabjmdcakbpjfjbbplg",
+    "cphjehhhnbddoojfgifgedkfcgjaaaff",
+    "fmbiafgikhbpdjjmheihcffhbpiifdbn",
+    "kchnhmpeopknjdjejognciimepllkacb",
+    "cgcpifhkdgmmnakbcgaaehabalijaddp",
+    "kibmbheanlopnfmfpnaeedaclelbmchd",
+    "jiienmeffgjlffmagjakfljcaopdjmki"
+  ],
+  "privacyCollections": [],
+  "riskScore": 1,
+  "riskImpact": 1,
+  "riskLikelihood": 1,
+  "creationDate": "2017-06-17",
+  "fetchId": "20240527",
+  "oneWeekDelta": {
+    "userCount": 1
+  },
+  "oneDayDelta": {
+    "userCount": 0
+  },
+  "ranking": [
+    {
+      "ts": "20240527",
+      "value": {
+        "overall-rank": 133837,
+        "extension-rank": 104508,
+        "cat-lifestyle/fun-rank": 9975
+      }
+    }
+  ],
+  "reviews": [],
+  "metaTitle": "TMLive - Chrome Extension for Terra Mystica Games",
+  "metaDescription": "TMLive is a Chrome extension that assists with live Terra Mystica games, providing real-time updates and notifications.",
+  "metaSummary": "TMLive is a Chrome extension called 'TMLive' that assists players in live Terra Mystica games. It checks game status every minute, updates the game list with linked game status, alerts players when it's their turn, and offers history turn scrolling and map updates on terra.snellman.net.",
+  "downloads": {
+    "enabled": true,
+    "zipUrl": "/api/download?id=ihinnjbaiipmhcjhnpnjhbapcndhabga&type=ZIP&version=0.15",
+    "crxUrl": "/api/download?id=ihinnjbaiipmhcjhnpnjhbapcndhabga&type=CRX&version=0.15"
+  },
+  "alternatives": [
+    {
+      "url": "https://chromewebstore.google.com/detail/fun-arcade/onfplibgipamioecleljjgfeckeociil",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/bhyxL_xvNK95vAh5wpHPSgpB3Edb5Ve0eIUcg3mXfVaPcWjUkZU-jKOLMgIK68v3re2J89G7jgobVZCwY7YDeWsI",
+      "name": "Fun Arcade",
+      "id": "onfplibgipamioecleljjgfeckeociil",
+      "version": "1.0",
+      "description": "Play Arcade Games!",
+      "fullSummary": "Play 6 games directly in your browser or on website. These games are made to be easily accessed. Only the best games fun arcade games are available.",
+      "userCount": 195,
+      "lastUpdate": "2022-05-18",
+      "helpUrl": "https://freearcade.net/page/privacy-policy",
+      "size": 1855980,
+      "email": "funfreearcadegames@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://playcoolgamez.com/page/privacy-policy",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/lZOQ0ZqghXZ4Rc-OaNjFy_U_GRy8OviSuuaRHbrZRMpRWDR9pUVoyCHRTkr6s-KhET81SQ9Wy9YxIVlwWHwXyfGkug"
+        }
+      ],
+      "numScreenshots": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/H--GlQCFpnlQc_zecvLO-T-vUiqreDUmHGkrYqXsrWfFPVzDnOXLO5N8Sc1sThkUeVnMoSYTZctKnbeCVVd2cu4B",
+      "author": "https://freearcade.net",
+      "website": "https://freearcade.net",
+      "related": [
+        "apdihfpnlkpbmpkehgdkcmknklmbilal",
+        "jgmldnfkglbpcpfndppffkijehgfnnll",
+        "dendloedlbkeebokldgajllgngabkelg",
+        "bamdkjfjhhnjcgcjmmjdnncpglihepoi",
+        "peeiglmmjkkcbncfmifeefnjbopfkpcn",
+        "kjgkmceledmpdnmgmppiekdbnamccdjp",
+        "anbpkokbnghkildlginnmadalfemdpgl",
+        "hpgejdfcplnncghaaeoegpifpdiiedba",
+        "igihhejmlkhiibomlbicbmnplcbecdji",
+        "oedkbkpngfmjfbmmmijkogojlcddmcgf",
+        "gcnahbcdhgjobeahhdogjhhmnlopcjaj",
+        "jnkbpaokpncapplocpohnankmiidahhc"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 1,
+      "creationDate": "2022-05-18",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/live-hero/ghjkdokfbcfehdfpconfebbmbclelmlj",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/ALnxFfNSH-WADjM_xHVsXIniB9lEP2lWWT70VkfvOEz_HkGa-9VmpRKN9tYPu5p6E5ws1wREHyJPYpa20d0Pdz2pGw",
+      "name": "Live Hero",
+      "id": "ghjkdokfbcfehdfpconfebbmbclelmlj",
+      "version": "3.0",
+      "description": "Rhythm game that attaches to videos.",
+      "fullSummary": "A rhythm game that attaches to HTML videos including Youtube, etc. If you're a fan of games like Guitar Hero and Clone Hero. This is the extension for you.",
+      "userCount": 385,
+      "lastUpdate": "2024-05-11",
+      "size": 111616,
+      "email": "polywockhelp@gmail.com",
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/StIFqbH-HSveNOiseVBanjie_1O_2KprYiAI_R-pRwRTxEr2ceSf-J8HVkECOswJ6FhQ3MctCnszcbXIghtvPbJz"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/49G6_khmMkzFkiUBzHMcPGqqiEuwctG3wySwjVKkI3k3jQF70gEcqmyxQ3Hep1weTvxhgXruC3xb-0IfhP0M4VnW"
+        }
+      ],
+      "numScreenshots": 2,
+      "smallBanner": "https://lh3.googleusercontent.com/Jhdn0JfFv5koL0UV36AHONnS5IU9pekg4ycwvYzoib24y2I4atrP-TSogrRgljTugb_e54CBPyjXEWorHKRcK77wyw",
+      "ratingValue": 4.25,
+      "ratingCount": 4,
+      "permissions": [
+        "activeTab",
+        "storage",
+        "scripting"
+      ],
+      "author": "Polywocker",
+      "related": [
+        "ofcdlcjfjpjjmojphhjlkeamdeagnjjp",
+        "jididilbbeilbgdfoflncbphhbcklmca",
+        "apmdbbjakfnangndikaijbehbhkcknna",
+        "pepfkgggdijnfhjcipialphagjhflbni",
+        "kpdimldbpabboiekkcbcffgmamoenkom",
+        "pghhaihcmffdmndjcagdgogjockdnaao",
+        "jjjoiagdgjhecijlkfkipeilgfgbhkgc",
+        "mbcibgkijjmnhbbheafplbapiacgkebe",
+        "dldekkbngaoppdjloipepebedjfhphcj",
+        "higcadegkhhhjcljhpggammlhmlbdcmc",
+        "fknnngogpjglmkgjibobpihbhfphbefo",
+        "penhlkdgnjkceehgaodgdpfokibimgjd"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 2,
+      "creationDate": "2020-01-14",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/tetrem/nllppfnifjiccjacjiaonomhggcgildm",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/4wqZ42Ydi0rVB_qn2V7-1vXJDjVrEkZtT-aHGDD0_lHzR8cQrZXa-kYf-81ZxkOJhI8RU-hlvxnFBpIN6nYy7l6nog",
+      "name": "Tetrem",
+      "id": "nllppfnifjiccjacjiaonomhggcgildm",
+      "version": "1.2.0",
+      "description": "Popup Brick game",
+      "fullSummary": "Tetrem is a popup brick game that can save your pieces, change colour and controls, and remember the game state upon closing. Tetrem also includes a stats bar and score bar for analytics.\n\nWhen you first get Tetrem the default controls are: Left arrow for moving left, Right arrow for moving right, Down arrow for soft drop, Shift for hard drop, Control for saving pieces, and Up arrow for rotate.",
+      "lastUpdate": "2023-03-27",
+      "size": 11827,
+      "email": "criox.help@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/QWiQbEuIfz-BLnh2kgvmWswSSWTp55xmh6cy1FQgKByVIyv2-TEc1iawUFOkZEnsZdQgXrrwmKJ3w65pwkvLuZE"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/la-mud6PCS58dkr4h_hm7BzHGuDFMpOzxxb2Gt_EMKnXhceqVZmDNZb2u1QhDkhP9rnFzeWG5dUYBrBorf1bm3EB_g"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/pHzBsRNMmzUQdOr2feLYv3RUFEV6AkTwdKUZnsZPA1gu9M4QJvvK8Vr68h8-4ca0DbvUkI2ru7MQdRSbXpRRs6uslQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Z9nsYXNWelUxkTkxmT50IFwQBWDVJ8ict6QbTvBMTo7VH4JZf3GB6wJUdRL9cyfOBb9-zZ6DQqQBZUWcxaZgievW"
+        }
+      ],
+      "numScreenshots": 4,
+      "ratingValue": 3.3333333333333335,
+      "ratingCount": 3,
+      "author": "Criox Thorn",
+      "related": [
+        "pmlcjncilaaaemknfefmegedhcgelmee",
+        "ahekimalhnapoaonpjnfmkncjehligge",
+        "bnmgoihdkjgccgcnjjeaelpmddmplheb",
+        "fdeaheioimfcpllpklodkcgcnkmmilfh",
+        "pciedaenhnompbibgedkbgcdejojbpnk",
+        "npjblkgjdefhcamgeiegmpfaoemdncde",
+        "hpgejdfcplnncghaaeoegpifpdiiedba",
+        "cgjlgmcfhoicddhjikmjglhgibchboea",
+        "nphcdgckchcncbclllnebmeeldeheafk",
+        "jkgcomcpcifialmcnggiifiobflokncf",
+        "nekiddplfpeikpfljcopihankmpgilja",
+        "iikipimjoiepbfmpiglnkgkcepnkjfie"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 0,
+      "creationDate": "2023-03-07",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/shared-game-timer-overlay/dbdhcoeobjfmenccobpoohkdkddiacoc",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/0KtXGpQ6DwYTjRKkeJ9e2U2LiMG2SSaamhYCV1kXua3ZRYdYUolvMWO1prz1GuUwgqVHJ6cXnBbweF8UuB8kUxsz7Q",
+      "name": "Shared Game Timer Overlay",
+      "id": "dbdhcoeobjfmenccobpoohkdkddiacoc",
+      "version": "2.6",
+      "description": "Overlays controls for the Shared Game Timer.",
+      "fullSummary": "The Shared Game Timer is a board game timer that is synchronized between players using their own devices (usually a phone) to control the timer.\n\nThis chrome extension allows a simplified version of the timer controls to be overlaid a web page. This is meant to make it easier to use the timer when playing board games on e.g. Tabletopia.\n\nCheck out the game timer at https://sharedgametimer.com . For details about this chrome extension, see https://sharedgametimer.com/online-gaming",
+      "userCount": 65,
+      "lastUpdate": "2022-03-08",
+      "helpUrl": "https://sharedgametimer.com/tutorials",
+      "size": 50463,
+      "email": "chrome@parakoos.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "video": "https://www.youtube.com/embed/Yf603JygbcM?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/e4XkCMQAKgtXuuigq2BTdMsEingbhuB2K4rmx2TLTj7AA9w0F2pj1sQ_7-xRWpKBJ7jxwkjadQk91ZLif6QBwByTow"
+        }
+      ],
+      "numScreenshots": 1,
+      "numVideos": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/buST-GAAzOXxUOq46t8TuMSKeNAoXzFFVaI3XtyEAsNJ5hknq0BI3YEQ2FGSnstO-FgZKN0uR5RPWADj8e66qOliXQ",
+      "permissions": [
+        "activeTab",
+        "storage",
+        "scripting"
+      ],
+      "author": "https://sharedgametimer.com",
+      "website": "https://sharedgametimer.com",
+      "related": [
+        "nojpmcdidbmmeeipoklomojmejjkpeim",
+        "aoiedkonejnpfmbbeofgdkfafegdllaa",
+        "dpalgnepdnaojnaljmioioopldaakaea",
+        "ekhcklnpcdailhganpmoolfioojgnlii",
+        "dejmonfcadndjgfgkemabednodepjgni",
+        "bmkigbjalmniajmclpbniddicijnapgh",
+        "mkohhbonmnbbeceekfniakihnmpibedm",
+        "ckcagfpjgmmncmkgdilpjbkleijonafi",
+        "finkgjecdnkekigdhckihgomnfkbgbep",
+        "oocmeehjidegkkilebmenjdogocfefbd",
+        "oifdhhjpmpiepenhapgbdpcakcbflekj",
+        "lclabkidmmmombhldiffadigbokodbeb"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 0,
+      "creationDate": "2021-03-28",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/uptoplay-search-for-games/dcdgbkfjhlafhhlgekjebhfhjfdkjjgp",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/nqpq89bA_AwTOddaurPLQEoihsWErfd_U__P11DZtXjhZepFBBzsebFDxVcRHgvs-fYz-v27Be0YB6jBhKz-mIbC",
+      "name": "UptoPlay search for games online",
+      "id": "dcdgbkfjhlafhhlgekjebhfhjfdkjjgp",
+      "version": "1.1.0",
+      "description": "Search games online from the UptoPlay platform.",
+      "fullSummary": "This extension allows to search for games online in the platform UptoPlay.Net. It helps users to find the best game that suit your search among the thousands online games UptoPlay provides. It helps that you can enjoy a great experience and funny moments with your friends online and with other people from around the world, no matter where you are.\n\nAlthough UptoPlay has the games categorized by genre like Arcade, Action, Racing, Sport games, ... this extension provides a more direct access   to find the best online game for you. When the extension is clicked, it opens a window where users can search for its desired online game. After that, our internal engine searches for the best game that match the keywords entered. These apps appear in a list with icons and game name where the users can click from to initiate the game with a direct access to it. \n\nIts main features are:\n\n* Search for online games. \n* List game in a grid with icons and each game name.\n* Direct access to the game description via a link.\n* Use the apkid of the Google Play Store as game reference.",
+      "userCount": 544,
+      "lastUpdate": "2024-04-02",
+      "helpUrl": "https://www.uptoplay.net/uptoplay-search-extension.php",
+      "size": 471040,
+      "email": "apkonline@offilive.com",
+      "publisherAddress": "Avenue Dr Arce 43\nMadrid 28002\nSpain",
+      "publisherCountry": "Spain",
+      "supportedLanguages": [
+        "de",
+        "en",
+        "fr",
+        "nl",
+        "tr",
+        "es",
+        "es-419",
+        "it",
+        "pl",
+        "pt-BR",
+        "pt-PT",
+        "ru",
+        "uk",
+        "hi",
+        "ar",
+        "zh-CN",
+        "ja",
+        "ko"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://www.uptoplay.net/cloud-apps-policy.php",
+      "media": [
+        {
+          "video": "https://www.youtube.com/embed/_IeFPxCENZE?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/JzhfLQ7qEHMnD9XSD-yxKhrCI9DoJuUc0HKMMHn0ehGvvfGPKnCZy7FyRp2O8sIM4leS0XdO5_8IA63hQcaUXZUzVQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/-aVev4Sg1DpoGKLwo4YkHR3hH7cpsBaYQTHTndWzkk3WoWWE6B1CzdMbdUAHYiw3e3iw8L8x233zdGJZkuiistcm"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/bnqXFSqpuIH9YchDzAakg3Hz3RM8hV3sGot4eOGRJWWOn2KQg3aRYcECnMJ16DHLpweIUHx97KhdJkCJXJnbPTRuag"
+        }
+      ],
+      "numScreenshots": 3,
+      "numVideos": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/9gh0O3v_0iIA-AD9KofnlSTSMe2psxq1OHRfyaQkO_8sUhFxiWgEL4LLey8C3skWOt5Kc7f1WK9YB1lBQ5g28YMt",
+      "ratingValue": 5,
+      "ratingCount": 1,
+      "author": "ApkOnline android online",
+      "related": [
+        "ipignfnbdcoodoieglmmhldbbajilojc",
+        "dkmalmnbpgklflkpknpningkffjkgadg",
+        "edjjebmmjdlobmedgjmpmmjigaaelhcm",
+        "njmeodagbaobikllmhoplodaciibckjn",
+        "npcbllnmpghkdjeaocappkiedkiljhgk",
+        "dnogdeofagckdgnffceeblekgmilgfnk",
+        "bjhbladlmekmoejlnkecjlmchkjlccom",
+        "ailbhmoekhkkihagfmffpaahfpcjjiei",
+        "jccgopclldmhpgmcmgdmehkljpacdapm",
+        "enhnhpibeofnhkhcakhmlbmhplfjhnjd",
+        "eknjiacpaibimgjdeldfhepofgjkngck",
+        "kcjeghjjjjdpeaoemlhdhnbbkpgncpfc"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "localizedDataPointer": {
+        "fr": "20240402",
+        "de": "20240402",
+        "ko": "20240402",
+        "ja": "20240402",
+        "zh-CN": "20240402",
+        "hi": "20240402",
+        "uk": "20240402",
+        "ru": "20240402",
+        "pt-PT": "20240402",
+        "pt-BR": "20240402",
+        "pl": "20240402",
+        "es-419": "20240402",
+        "it": "20240402",
+        "es": "20240402",
+        "tr": "20240402",
+        "nl": "20240402",
+        "ar": "20240402"
+      },
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 2,
+      "creationDate": "2023-02-13",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/ioground-proxy/nlholjcpmlialeabjmdcakbpjfjbbplg",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/RY9s1JRgHIZUhcKco7b5a_0BZAmF6rJ-yabcLVqVjalQGbawD9VDGwoWYqyTVmwX5153JFXurdY7JHmo2C7okrd1",
+      "name": "ioGround Proxy",
+      "id": "nlholjcpmlialeabjmdcakbpjfjbbplg",
+      "version": "0.22",
+      "description": "The official .io Game Proxy by ioGround",
+      "fullSummary": "The ioGround proxy unblocks all games on ioGround. Simply install the extension and turn the proxy on.",
+      "userCount": 666,
+      "lastUpdate": "2023-02-20",
+      "size": 16169,
+      "email": "admin@ioground.com",
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://ioground.com/privacy",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/WT2FQTM7MRP6WgaqHwJ4hXefK8Ol1UptLlyfGMZfYPn89wpiZFA08ga1hmlzpUuU35Zv8kYekNApXBUgWgpfRXVc"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Jx_j5AWGZNuy17jli9mv34kgRxs4aOOqYAoyyaaR_xtn6GUi8xj48SKfucViwHa_qrlPtcsNikUB1IBJueG4iorqog"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/XD9wPmQwkKjSfhwvW2-1SpdrQLlvuTUMHj9fhjZlkwF7u6c62SyUYss3trJ_HJ1Wbj3sfeahuBVyR_v9ATTJCukYjS4"
+        }
+      ],
+      "numScreenshots": 3,
+      "smallBanner": "https://lh3.googleusercontent.com/WDwf57ll27kJuqgfw7sY-uKu9vcvFxYx7IxAOxEPpop-MruShU35j0PVXvxIITUq3-PvHRKWisw6EMgW1rSUSL9tew",
+      "ratingValue": 4,
+      "ratingCount": 1,
+      "permissions": [
+        "tabs",
+        "proxy",
+        "storage",
+        "webNavigation"
+      ],
+      "author": "ioGround",
+      "related": [
+        "jkgchhicibbbooiamiladladiaokpkdj",
+        "ehfljgbbpjgcfondpjcmbfmmpnhchfkg",
+        "kndpnpbcnbmgmeafbmpefkhbnfnpkpdb",
+        "djpehmepgepfpoiaendmglmnjmmfalio",
+        "efjilblbfmmbpckpldinnlejapcgjmfm",
+        "nkfomneflebeghfjmjnjlepkkamppnaj",
+        "ofbgjmmbmmdehioamfhccohdgiajbajj",
+        "ghlpcaaifadoekifkmbclpkhdiolfeol",
+        "jccfbhillgcekaepchoahodacnlhcbnj",
+        "abphoilconkefmcnnnobhbpelpldcdbc",
+        "kdjilbflpbbilgehjjppohpfplnapkbp",
+        "ehbhfpfdkmhcpaehaooegfdflljcnfec"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 3,
+      "riskImpact": 3,
+      "riskLikelihood": 1,
+      "creationDate": "2021-04-03",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/speed-gear/cphjehhhnbddoojfgifgedkfcgjaaaff",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/pYIuJxe9-hTEi_AgDHd7x4ai5-vgyqhwY--usSeetll3-xlz0Ij0toV8u13bq_e-eFGVU-X1F5m43bDMN1Fh3JrtVOk",
+      "name": "Speed Gear",
+      "id": "cphjehhhnbddoojfgifgedkfcgjaaaff",
+      "version": "1.0",
+      "description": "Speed up the web games.",
+      "fullSummary": "Speed Gear is an amazing program that changes the speed of many games and save your time (or low the reaction risk).\n\nNotice: only some game can be speed up or slow down by Speed Gear. If you find some html5 game can not be speed up, you can contect me by email.",
+      "userCount": 178,
+      "lastUpdate": "2024-02-12",
+      "size": 56361,
+      "email": "ztory@foxmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/tools",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://ai-yellowpages.wetogame.com/privacy-policy-speed-gear.html",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/CRAS6t-Q5fMsFk6Beil1Te6WOV147wcQsKUgW4JpciKt8OmfIHNQU7cHIGPhpK6KsrK3RfiErbqK7H0P102wMNRHAQ"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 5,
+      "ratingCount": 1,
+      "author": "https://wetogame.com",
+      "website": "https://wetogame.com",
+      "related": [
+        "nfiebcmdfpjodedomagjlajcdpnkdopm",
+        "dedbgebcenangidjnfanjpohlepjpfak",
+        "jgfocjbgijamlgamnfjgooijcolenjeg",
+        "beilbfghjjeoajmbmlfbocjgbocmggap",
+        "mbhaplipecljiepaeifhbegpjjmmennp",
+        "aljjbggdbpfcefnliggdhejickokofej",
+        "eckionmoiajpjncecfebdmmbcboblkja",
+        "lnoedjelpkmhegefhhjljmggjdicnbaa",
+        "femogemiolfjofilbccdokahgohlokha",
+        "gfgkebiommjpiaomalcbfefimhhanlfd",
+        "afebilemcaepdkmhmibgmnpfppnjimjf",
+        "legadjfimcmpfafolbgkanjinkiogkal"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 2,
+      "creationDate": "2024-02-12",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/my-wordle-history/fmbiafgikhbpdjjmheihcffhbpiifdbn",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/fTrWWBiP2pvf32b4uqeHk5TbZCAPvnxtU9rIXM4JC_MVeBpXqnEd07ivqzy_DeEXm3WZJcIjJxOxqe1l1St-akFj",
+      "name": "My Wordle History",
+      "id": "fmbiafgikhbpdjjmheihcffhbpiifdbn",
+      "version": "1.14",
+      "description": "Remember my Wordle games",
+      "fullSummary": "Version 1.14 sets a new maximum count of saved games (now 90)\nVersion 1.13 sets a new maximum count of saved games (now 93)\nVersion 1.12 fixes a bug with the arrow keys.\nVersion 1.11 displays your average score.\n\nThe New York Times \"Wordle\" game is wildly popular! But one thing they left out was allowing you to see your games from previous dates. This extension solves that problem by letting your 90 most recent games.\n\nYou don't have to create a login because the extension stores your game records right in Chrome's in-browser storage. And it syncs across your devices where you've installed Chrome and this extension.\n\nIt's super easy to use! Just click on the extension's icon to bring up the window. If you activate it while on the Wordle page, you'll have the option to save the current game. You can save only once per day.\n\nYou access your saved games by clicking on the right-hand tab. Use the left and right arrows to navigate saved games forward or backward in time.\n\nYou can also copy a saved game to the clipboard, and this will include the full state \u2014 all the words you played \u2014 not simply the color codes that you get from the game's share function.\n\nOnce you've saved 365 games, the oldest game will be discarded when you save a new one.\n\nIMPORTANT: If you uninstall the extension, your history is lost and it is not recoverable if you reinstall.",
+      "userCount": 1000,
+      "lastUpdate": "2023-05-22",
+      "size": 26276,
+      "email": "fred.hewett@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "video": "https://www.youtube.com/embed/Fi3Ln4GxUu8?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/CoCmUyKOFXCU7p8cbO4uL8MQjMs3CSyE5MaagKB_AWHlDV-knnA4y7TSRaMej3PR3-Oo3BdW62185g5Jj2mmWFg5mQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/2SfIPWc61QMlbfe-SduRkwXlXtR9qMHzntl_1Z1Qsl4NXAJuEH_RlUtNZv2N3vk43cOmfOFzDKdZabsfQp2uWXg"
+        }
+      ],
+      "numScreenshots": 2,
+      "numVideos": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/QwdsE2quoDkB7mnBTuWrNUZqQfytyoPSYIt-R3AUsCIafJUq9-bZWdkIKANC1ZuQb4sBsGcuUlvXjCt6DNJjXPeO",
+      "ratingValue": 5,
+      "ratingCount": 2,
+      "permissions": [
+        "activeTab",
+        "scripting",
+        "storage"
+      ],
+      "author": "Frederick Hewett (Cambridge, MA)",
+      "related": [
+        "pccilkiggeianmelipmnakallflhakhh",
+        "oflpkdacboploapialmlmhehfefhjfib",
+        "hakknhbaabcnpeclacmlapgajfnpdlln",
+        "kdflpjgemkmbcdehomaajfhhiboccljl",
+        "pddpoflkifhihdffnkamjjcagkjppifl",
+        "dfendghlbhoeiffhplkcdlcelabelkhe",
+        "fabjlinbpiiimfpkfjdjhgnefoldomgj",
+        "dfjikdhfbbohmofcbiofdbjgmgdjmnhe",
+        "cmfhihlchfbcgeiehlpnmlcdgnjnjoje",
+        "ndpldekfjnbjhflkfgncpphppofkcnkl",
+        "fopahpnkbddlmndlmpjdkgapnefnlpcj",
+        "aadebbmpgfiohlfjgpoakgnonegjcjln"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 0,
+      "creationDate": "2022-04-09",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/bga-chrome-extension/kchnhmpeopknjdjejognciimepllkacb",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/TTb5WReHpw8hFn-MX7fEMYYWuD-OMCEMroGkLKj2u722y-MQCz5TyW7v4FmF89Y-Jw_QXZiun8SDUbGBgyxhAE4PPA",
+      "name": "BGA Chrome Extension",
+      "id": "kchnhmpeopknjdjejognciimepllkacb",
+      "version": "1.9.11",
+      "description": "List your current games on boardgamearena.com",
+      "fullSummary": "\ud83c\udfb2 Automatically updates the number of your idling games.\n\ud83c\udfb2 Shows your games in progress and join them directly from the extension.\n\ud83c\udfb2 Shows your pending invites.\n\ud83c\udfb2 Shows your current and incoming tournaments.\n\ud83c\udfb2 Add a vertical menu for some games on the left edge of the screen to easily navigate between the players' boards.\n\ud83c\udfb2 Add an option to enable/disable messages about your friends' activity in the game log\n\ud83c\udfb2 Add an option to display the game log and the player panels in a floating menu on the right. This saves space for the game itself if your screen is too small.\n\ud83c\udfb2 Add a button for 'deleting' a game. This button appears next to the button for starting the game in the list of games. Deleted games no longer appear in the list of games or in the lobby. (You can cancel the deletion of a game from the extension options screen.)\n\ud83c\udfb2Add an icon to hide/display the global chat, in the top right corner of the screen.\n\ud83c\udfb2Add a dark mode for the full website.\n\nDisclaimer: I made this extension as an amateur and fan of BGA in my spare time \ud83e\udd13. Please share me your super-duper positive and constructive comments \ud83d\udc4d",
+      "userCount": 1000,
+      "lastUpdate": "2024-05-23",
+      "helpUrl": "https://github.com/FlavienBusseuil/bga-chrome-extension/issues",
+      "size": 527360,
+      "email": "bga@delaforge.eu",
+      "supportedLanguages": [
+        "en",
+        "fr"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/COAkPyAG2wXXRWEbLnbtik9TlIBOPPXYHwXJyz5-iIr8uOanM4CXAP7lmQzB_T7UuoYFxaymKkpR8J9HNHFOV0TESA"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/S24xqcyCubSfsx219mNzNajriQhXPDvvWlXlfw0vK6LaEIpZ5pbpnWjfyWrKctWzgWB_m_BCEcWx4Myq-7lAJICvCw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/qy8bMUOemjzz7VizmBNdQVpLuMce3tblQG7OzwP95jMxnDcZv4_bfsA4MeV58JZQMg4kkVOwPIQl_HtWMwAHChXqXQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/YZaCSnp37m7MqP4iFymj9zy-xt-oOK17pMdGZ9MFDo9AinylZN1U7XKo_eq0rZbUk_BGRV9MmbBJiPp45oKaSC0lrQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/BM6iw_5rnbidOiP7vecujbX6k_OI2tbMN9m8mMu1GEU34J2_CvznmsVqrykaXkrdxfN9wW1zVEjT8eJQ2MPg2l2l"
+        }
+      ],
+      "numScreenshots": 5,
+      "ratingValue": 4.7272727272727275,
+      "ratingCount": 11,
+      "permissions": [
+        "alarms",
+        "storage",
+        "declarativeNetRequest"
+      ],
+      "author": "bga-extension",
+      "related": [
+        "hihdoablflnlippakmimnjacpcfpbdni",
+        "bbiffhaonlahjkaddlmepfehdkihchcf",
+        "chageifplfnbklaoieoilhmaodjkbagp",
+        "fmgdaijoloejblknjgnbmdhinchoihid",
+        "oaiagedjckhjgfmmmgfnnkjigbmplbhm",
+        "mipjjoefhmankgdoekloipgfinpgenmo",
+        "ooiflpdfadhajpgdgfnhodhfbjbkoieb",
+        "jdiekdaapekbemobdeacplcfmignidoc",
+        "ajimnngaclaaconiocnpppmdnjgpcbpc",
+        "jaafcldblmpgbokejbhmggeeegjofhep",
+        "nganmciekgocjldlblecnnfheffpennb",
+        "moahncchpdekhlkjldeeacggghekkjhn"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "localizedDataPointer": {
+        "fr": "20231121"
+      },
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 0,
+      "creationDate": "2021-05-13",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/metacritic-on-xbox-game-p/cgcpifhkdgmmnakbcgaaehabalijaddp",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/PtFo1x3NGW1sq675h7NC4YHqT3y9NEQIYWzFtaGSNwelwDs5kxJqQIzSYeuGLC1ZLl7TvS29VnDVnsds9Y5TeAgXHw",
+      "name": "Metacritic on Xbox Game Pass",
+      "id": "cgcpifhkdgmmnakbcgaaehabalijaddp",
+      "version": "1.0",
+      "description": "Show meta critic notes on Xbox game Pass website",
+      "fullSummary": "Add notes from metacritics website when you are looking games in Xbox Game Pass.\nFor the moment (v1), you need to click on the Xbox button on the plugin toolbar.\n\nSource available here: https://github.com/ynizon/xboxmetacritic",
+      "userCount": 130,
+      "lastUpdate": "2023-12-12",
+      "size": 1635779,
+      "email": "ynizon+chrome@gmail.com",
+      "publisherAddress": "1 avenue Paul Verlaine\nSaint-Herblain, Loire-Atlantique 44800\nFrance",
+      "publisherCountry": "France",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/games",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://google.gameandme.fr/privacy.php",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/MXgiWj_thX0ZsvoRstup-d8BRVdQZZy6AONlexQy4kFMcEFJDga74BvCZi9av7NpXRsJlTjPiqBCC-MHhZYoiVVj"
+        }
+      ],
+      "numScreenshots": 1,
+      "permissions": [],
+      "author": "ynizon",
+      "related": [
+        "eooekppmpfepgkckdinhlfkpjknfbido",
+        "fnedfcbbnheaaalbcomblggcjopblpki",
+        "nllnolljggjaooclmlinejhcmancllgc",
+        "mlgedccehkndmgkheopfmdgjnjihklkh",
+        "jjkloeoacnmjeojgohgpjbnljanejblp",
+        "abclobamlfjfbkgpkndggeainkjdhfec",
+        "kffdacoooplmddelfddkndfhgenddgke",
+        "eagjjbicnlghfjbpdiklhkbfhepaomip",
+        "ghadhbmalgldhgeidcbgpgbchcamhfco",
+        "mfdedbeljebbgkenmgfpjmjfnkgcffdm",
+        "dnogdeofagckdgnffceeblekgmilgfnk",
+        "lanknfgmjkocejapddeibabjpdenkpnn"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 2,
+      "creationDate": "2023-12-12",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/games-that-are-unblocked/kibmbheanlopnfmfpnaeedaclelbmchd",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/zRdKK5T6Zg8KX0zkZWAl4GecLGOTDt9jrd8LhJSvjtBLrWpwzxmTlEV2CznBuzueAwhv06Pr0rQRh2YB70N3KXTZDw",
+      "name": "Games That Are Unblocked",
+      "id": "kibmbheanlopnfmfpnaeedaclelbmchd",
+      "version": "1.2",
+      "description": "Games That Are Unblocked",
+      "fullSummary": "Games That Are Unblocked - Your Ultimate Destination for Unrestricted Gaming Fun in Chrome!\n\nUnleash endless gaming possibilities with the Games That Are Unblocked Chrome Extension. This extension grants you access to a vast library of unblocked games, all conveniently playable within your Chrome browser. With its user-friendly interface, you can effortlessly explore and enjoy a wide range of gaming genres, from classic arcade games to the latest flash games. The extension ensures a seamless, lag-free gaming experience without the need for any downloads or additional software.\n\nKey Features:\n\nExtensive library of unblocked games across various genres\nSeamless integration with Chrome browser for instant access\nNo downloads or additional software required\nFast, reliable, and lag-free gaming experience\nUser-friendly interface for easy navigation and game discovery\n\nHow to Add to Chrome:\n\nClick 'Add to Chrome' next to the Games That Are Unblocked extension.\nA pop-up window will appear. Click 'Add Extension'.\nThe extension will be installed, and an icon will appear in your browser's toolbar.\nHow to Uninstall:\n\nClick the three-dot menu icon in the top-right corner of Chrome.\nGo to 'More tools' > 'Extensions'.\nFind 'Games That Are Unblocked' in your list of extensions.\nClick 'Remove' and confirm the action in the pop-up.\n\nDiscover More Games:\nExplore an extensive collection of games easily accessible from the extension's intuitive menu. From action-packed adventures to mind-bending puzzles, there's something for every gaming enthusiast.\n\nNote: This extension is designed to provide you with a world of unblocked gaming entertainment, ensuring hours of fun and excitement without any restrictions or limitations.",
+      "lastUpdate": "2024-04-23",
+      "helpUrl": "https://school-games.online/",
+      "size": 64952,
+      "email": "reskinbysaid@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/games",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/z_r7uD1BOVwN4UHumkGBOo88l7IqqpgKyXzi5frZy-ttNyhJYxJZVFrmjLR91w8Sf9noExpvSx6QlL4gI96ly9MV6Q"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/OJv3hi2qEduCPrBlaa73VyhCGCx_2LgRY4AAi8tKPlv_VVOhopfr82ohexxtee3kH9TOJNnFEPgN9XNiA6eii8NArw"
+        }
+      ],
+      "numScreenshots": 2,
+      "permissions": [
+        "activeTab"
+      ],
+      "author": "school-games.online",
+      "related": [
+        "ngdfmbfokiaobfogbegjbnceigkfkgbe",
+        "lchekbblgpflnmjmjomgpphdncihmkmd",
+        "gcnahbcdhgjobeahhdogjhhmnlopcjaj",
+        "dlbghamflkonfnlclaiggcajlbkigejg",
+        "gcfpbekgphipjndnkglfjfgicbihmdni",
+        "bhlfhgddfogcfclekccmfkbmpfpdjlhi",
+        "apdihfpnlkpbmpkehgdkcmknklmbilal",
+        "dacnodnbkeicoghbeijfdjdkmdjmkbda",
+        "dendloedlbkeebokldgajllgngabkelg",
+        "ahemjbpncjfcpcjgimdaheheecjmlele",
+        "enhnhpibeofnhkhcakhmlbmhplfjhnjd",
+        "mpnfoddkacdjocmjaobmkcphfncdoogp"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 3,
+      "creationDate": "2024-04-20",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/admin-helper/jiienmeffgjlffmagjakfljcaopdjmki",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/eQ3QzZ5LI_sPV_OcCdChlTy0RJ5nqhinmMckjtOuAdUy-0jFvmhfTwnYUMCDqawNhKifRTCepqixEzqPo_nePg0kCt4",
+      "name": "Admin Helper",
+      "id": "jiienmeffgjlffmagjakfljcaopdjmki",
+      "version": "1.1",
+      "description": "\u041f\u043e\u043c\u043e\u0449\u043d\u0438\u043a \u0434\u043b\u044f \u0444\u043e\u0440\u0443\u043c\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432 Arizona Games",
+      "fullSummary": "\u041f\u043e\u043c\u043e\u0449\u043d\u0438\u043a \u0434\u043b\u044f \u0444\u043e\u0440\u0443\u043c\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432 Arizona Games. \u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044e \u0432\u044b \u0441\u043c\u043e\u0436\u0435\u0442\u0435:\n\u2022 \u0421\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u043d\u0435\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0431\u044b\u0441\u0442\u0440\u044b\u0445 \u043e\u0442\u0432\u0435\u0442\u043e\u0432 \u043d\u0430 \u0447\u0430\u0441\u0442\u044b\u0435 \u0436\u0430\u043b\u043e\u0431\u044b \n\u2022 \u0412\u044b\u0434\u0435\u043b\u044f\u0442\u044c \u043b\u044e\u0431\u044b\u043c \u0446\u0432\u0435\u0442\u043e\u043c \u0436\u0430\u043b\u043e\u0431\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0441\u043e\u0437\u0434\u0430\u043d\u044b \u043d\u0430 \u0432\u0430\u0441\n\u2022 \u041f\u043e\u043b\u0443\u0447\u0430\u0442\u044c \u0441\u0441\u044b\u043b\u043a\u0443 \u043d\u0430 \u043b\u043e\u0433\u0438 \u0438\u0433\u0440\u043e\u043a\u0430 \u0432 \u0441\u0430\u043c\u043e\u0439 \u0436\u0430\u043b\u043e\u0431\u0435",
+      "userCount": 241,
+      "lastUpdate": "2022-01-02",
+      "size": 42783,
+      "email": "nikitadiscore@gmail.com",
+      "supportedLanguages": [
+        "ru"
+      ],
+      "category": "productivity/developer",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/1ptVfhWvUIaeq8mGSA-9rc4bhu0sI70jbTf_4_5AJQyLSBXstGAQ8LpW9ADQAGJnxPE4IX7SOIQkW98_Ns0PDCE9"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/ZSinftea93ET2AfcjOolJ1fMQ_ew0jH4kKrLftf6-GIIAdOyfaFY105rKJ4vxSyZzJvyVqzbaHFl50vDQVu4PLwGqQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/ZHSTbi4Zhs-K2BInWsTRTc8FW_NwhpBR2hCq6tyZKeU80CzpdotjZ-bnBWadtT2zS8T065Sum2VlNBeTOhQgZYfANQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/bNbjh6dyhtwKsa-i2JTX3nx116n5phku1XXrzAeg7VDWbGpPStkLp98D1xKBksshHZ5BDlJFEaAK5ZqigeWn1jB-n1c"
+        }
+      ],
+      "numScreenshots": 4,
+      "ratingValue": 5,
+      "ratingCount": 3,
+      "permissions": [
+        "storage"
+      ],
+      "author": "sethp.xyz",
+      "related": [
+        "nncphlpcbkdenjngapbabbcommdljkmo",
+        "foinopkkglapdlndiokilmndmllnfhko",
+        "ikplmejgmfdckfokpnnnhdenaahfhcik",
+        "eddmmmbpkndphjcccdnkiaknpfepigng",
+        "ahdigjdpekdcpbajihncondbplelbcmo",
+        "ceibjdigmfbbgcpkkdpmjokkokklodmc",
+        "pdlimkdagkkbjfmhocafnlappmkkafel",
+        "nbhcbdghjpllgmfilhnhkllmkecfmpld",
+        "ghinpogonpmlphfkmnjfapdaoaainejn",
+        "mflibpdjoodmoppignjhciadahapkoch",
+        "pfgjenpimkncfhbgenkidcnigagibdpg",
+        "macmcmncpegjilcafnmappimalfnapfd"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2022-01-02",
+      "fetchId": "20240527"
+    }
+  ],
+  "crossPlatformData": {},
+  "score": {
+    "userCount": 0,
+    "ratingValue": 0,
+    "ratingCount": 0,
+    "size": 80,
+    "lastUpdate": 0,
+    "permission": 85
+  },
+  "allRanks": [
+    {
+      "label": "Overall",
+      "key": "overall-rank",
+      "value": 133837,
+      "path": "/top?page=5354&date=2024-05-27"
+    },
+    {
+      "label": "Just for Fun",
+      "type": "cat",
+      "key": "cat-lifestyle/fun-rank",
+      "value": 9975,
+      "path": "/c/lifestyle%2Ffun?page=399&date=2024-05-27"
+    }
+  ],
+  "oneWeekAgoRanks": [
+    {
+      "label": "Overall",
+      "key": "overall-rank",
+      "value": 137922,
+      "path": "/top?page=5517&date=2024-05-27"
+    },
+    {
+      "label": "Just for Fun",
+      "type": "cat",
+      "key": "cat-lifestyle/fun-rank",
+      "value": 10288,
+      "path": "/c/lifestyle%2Ffun?page=412&date=2024-05-27"
+    }
+  ],
+  "alternateNames": [],
+  "asOfDate": "2024-05-27",
+  "risk": {
+    "permissions": [
+      "permission-content-scripts"
+    ],
+    "specificHosts": [
+      "terra.snellman.net"
+    ],
+    "authorUrlIsInvalid": false,
+    "abnormalRatingTrend": null,
+    "abnormalUserTrend": null,
+    "knownMalware": null,
+    "knownBadReview": null,
+    "riskScore": 1,
+    "permissionScore": 84.5,
+    "allPermissions": [
+      {
+        "key": "permission-content-scripts",
+        "risk": 15
+      }
+    ],
+    "riskImpact": 1,
+    "riskLikelihood": 1,
+    "daysSinceLastUpdate": 2535,
+    "daysSinceCreation": 2536
+  },
+  "manifestJson": "{\n\"update_url\": \"https://clients2.google.com/service/update2/crx\",\n\r\n  \"manifest_version\": 2,\r\n  \"name\": \"TMLive\",\r\n  \"description\": \"Assist Live TM Games.\",\r\n  \"version\": \"0.15\",\r\n  \"permissions\": [\"storage\",\r\n\t\t\t\t\t\t \"https://terra.snellman.net/*\"\r\n\t\t\t\t\t\t],\r\n  \"content_scripts\": [\r\n    {\r\n      \"matches\": [\"https://terra.snellman.net/*\"],\r\n\t  \"css\":[\"bootstrap.min.css\",\"snellman_style.css\"],\r\n      \"js\": [\"jquery-2.0.2.min.js\",\"Site.js\",\"TMLive.js\"],\r\n      \"run_at\": \"document_end\"\r\n    }],\r\n  \"page_action\": {\r\n    \"default_title\": \"TMLive\"\r\n    },\r\n \"web_accessible_resources\" : [\r\n    \"images/glyphicons-11-envelope.png\",\r\n   \t\"jquery-2.0.2.min.js\",\r\n   \t\"jquery-2.0.2.min.map\",\r\n\t\"images/126_Edit_16x16_72.png\",\t\r\n\t\"firebase.js\"\r\n  ]\r\n}",
+  "manifestSummary": {
+    "meta_version": 2,
+    "manifest_version": 2,
+    "has_page_action": true,
+    "has_content_scripts": true,
+    "permissions": [
+      "storage",
+      "https://terra.snellman.net/*"
+    ]
+  },
+  "isDownloadBlocked": false,
+  "minAsOfDate": "2024-05-19",
+  "maxAsOfDate": "2024-05-27"
+}

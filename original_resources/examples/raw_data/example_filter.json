@@ -1,0 +1,8 @@
+[
+    {
+      "column": "obsoleteReason",
+      "operator": "=",
+      "value": "malware"
+    }
+]
+  

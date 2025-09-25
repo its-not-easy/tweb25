@@ -1,0 +1,62 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "name": "network x-ray",
+  "version": "0.0.13",
+  "description": "See a real-time view of your network quality and find a good internet connection before an important video call",
+  "permissions": [],
+  "manifest_version": 3,
+  "icons": {
+    "128": "icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "assets/index.js",
+        "assets/widget.html",
+        "assets/good.svg",
+        "assets/bad.svg",
+        "icon.css"
+      ],
+      "matches": [
+        "https://*.meet.google.com/*",
+        "https://domos.ai/*",
+        "https://*.webex.com/*",
+        "https://*.zoom.us/*",
+        "https://*.speedtest.net/*",
+        "https://*.networkxray.io/*",
+        "https://*.bluejeans.com/*",
+        "https://*.spectrum.net/*",
+        "https://*.geforcenow.com/*",
+        "https://*.xbox.com/*",
+        "https://*.playstation.com/*",
+        "https://luna.amazon.com/*",
+        "https://domos-links.azurewebsites.net/*"
+      ]
+    }
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.meet.google.com/*",
+        "https://domos.ai/*",
+        "https://*.webex.com/*",
+        "https://*.zoom.us/*",
+        "https://*.speedtest.net/*",
+        "https://*.networkxray.io/*",
+        "https://*.bluejeans.com/*",
+        "https://*.spectrum.net/*",
+        "https://*.geforcenow.com/*",
+        "https://*.xbox.com/*",
+        "https://*.playstation.com/*",
+        "https://luna.amazon.com/*",
+        "https://domos-links.azurewebsites.net/*"
+      ],
+      "js": [
+        "contentScript.js"
+      ],
+      "css": [
+        "icon.css"
+      ]
+    }
+  ]
+}
