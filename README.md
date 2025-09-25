@@ -3,7 +3,7 @@ Repository for the paper "It’s not Easy: Applying Supervised Machine Learning 
 If you use any part of this codebase, you are kindly invited to cite our paper:
 
 ```
-@article{apruzzese2022unlabelled,
+@article{rosenzweig2025not,
   title={{It’s not Easy: Applying Supervised Machine Learning to Detect Malicious Extensions in the Chrome Web Store}},
   author={Rosenzweig, Ben and Dalla Valle, Valentino and Apruzzese, Giovanni and Fass, Aurore},
   booktitle={ACM Transactions on the Web (TWEB)},
