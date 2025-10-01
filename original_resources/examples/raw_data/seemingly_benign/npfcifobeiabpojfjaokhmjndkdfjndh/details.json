@@ -1,0 +1,904 @@
+{
+  "url": "https://chromewebstore.google.com/detail/chegg-link-finder/npfcifobeiabpojfjaokhmjndkdfjndh",
+  "paymentType": "free",
+  "logo": "https://lh3.googleusercontent.com/2voczHPQGDLX_8ELyp4FkPSgHbmIEOz-mHCAgNr9BXjrcYFUCialHBIWuakMlD04i7GE3IX7N3rxXmrZ6fD3c9Mk650",
+  "name": "Chegg Link Finder",
+  "id": "npfcifobeiabpojfjaokhmjndkdfjndh",
+  "version": "1.0",
+  "description": "Displays a banner on top of the Chegg page with the true link to the question on the page.",
+  "fullSummary": "This extension will automatically display the UUID and true Question Link at the top of the page.\nThis extension will automatically filter the page source code for Chegg URLs and display the UUID at the top of the page.\nYou could inspect Chegg URLs and hit CTRL+F to find the Question Link and UUID. This extension simply automates that.\n\nIt does not show answer or anything that violates Chegg TOS.",
+  "userCount": 449,
+  "lastUpdate": "2023-03-25",
+  "size": 497664,
+  "email": "herocoursehero1@gmail.com",
+  "supportedLanguages": [
+    "en"
+  ],
+  "category": "lifestyle/fun",
+  "itemCategory": "extension",
+  "media": [
+    {
+      "screenshot": "https://lh3.googleusercontent.com/eB-n-DUM4yFhqQIMj6v4VTESimt0XyCq0tiGDwq0211uqhjITAY30P2ArsBmcBb97xGsLjPex2ZlMkHwZwO-9G6J"
+    },
+    {
+      "screenshot": "https://lh3.googleusercontent.com/uOmDP6MqngiFcuA8OLf2LyfqhDkSMFcWeDvBksltQox6kzyHRbFT3Wc8B_TziNi8JLvRVuBYu5pflHPRYPH-F0dNL6E"
+    }
+  ],
+  "numScreenshots": 2,
+  "smallBanner": "https://lh3.googleusercontent.com/cl77vb007ZzXrVwId8lVu4pSmALjQ7aneMgYduhZTHbi7oKRq5l0wljLghppraJZZyxkrqpBJHUqk3Dn99IR-lJ80ok",
+  "ratingValue": 5,
+  "ratingCount": 1,
+  "permissions": [
+    {
+      "key": "permission-content-scripts",
+      "risk": 15
+    }
+  ],
+  "author": "Hero HW Services",
+  "related": [
+    "cdhipbgkompidhheimgemgkcpfahmkam",
+    "dckhpdemgmkfngfdcbfhfaacnmifpdam",
+    "llkjcggdocmbcmechdifajigadffgldl",
+    "flicpnkdedpbcjmpglinaghjfccgcppp",
+    "bapeomcobggcdleohggighcjbeeglhbn",
+    "occickpdkmcmaikljlcigejbienoncfh",
+    "knpgpajbeokfbgdkdkfohagfodfndfln",
+    "hdenpcfifhgoabfkmikpfbgoldfnddjk",
+    "nfnfalcgbgnmmenmioajjnmapembaddp",
+    "lmgdfnogocfflibblgddikbdncebighm",
+    "ngeilhcbcilomppnpbalfdnmofpmdohj",
+    "hmgpakheknboplhmlicfkkgjipfabmhp"
+  ],
+  "privacyCollections": [
+    9
+  ],
+  "disclosePrivacyCollection": true,
+  "isTrustedPublisher": true,
+  "isFeatured": true,
+  "riskScore": 0,
+  "riskImpact": 1,
+  "riskLikelihood": 0,
+  "creationDate": "2023-03-23",
+  "fetchId": "20240527",
+  "oneWeekDelta": {
+    "userCount": -11,
+    "ratingValue": 0,
+    "ratingCount": 0
+  },
+  "oneDayDelta": {
+    "userCount": -3,
+    "ratingValue": 0,
+    "ratingCount": 0
+  },
+  "ranking": [
+    {
+      "ts": "20240527",
+      "value": {
+        "overall-rank": 38178,
+        "extension-rank": 30790,
+        "cat-lifestyle/fun-rank": 197,
+        "keyword-finder-rank": 128,
+        "featured": 11386
+      }
+    }
+  ],
+  "reviews": [],
+  "metaTitle": "Chegg Link Finder - Find true question links",
+  "metaDescription": "Automatically display the true link to the question on the Chegg page with Chegg Link Finder Chrome extension",
+  "metaSummary": "Chegg Link Finder is a Chrome extension that automatically displays the true link to the question on the Chegg page. It filters the page source code to find and display the UUID and Question Link, making it easier to access specific questions without violating Chegg's terms of service.",
+  "downloads": {
+    "enabled": true,
+    "zipUrl": "/api/download?id=npfcifobeiabpojfjaokhmjndkdfjndh&type=ZIP&version=1.0",
+    "crxUrl": "/api/download?id=npfcifobeiabpojfjaokhmjndkdfjndh&type=CRX&version=1.0"
+  },
+  "alternatives": [
+    {
+      "url": "https://chromewebstore.google.com/detail/nerdspeak-stock-helper/cdhipbgkompidhheimgemgkcpfahmkam",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/SzNokq5mc2h442TkbpRAsZoNGlVVpyYvl-m-_kMwrsSidKWJ1UjRWuc95YDUBdyw75jx7gnnVTEWm86afvFz5t1_hw",
+      "name": "NerdSpeak Stock Helper",
+      "id": "cdhipbgkompidhheimgemgkcpfahmkam",
+      "version": "1.0.0",
+      "description": "Get a better chance of nabbing a graphics card",
+      "fullSummary": "NerdSpeak BestBuy Helper! Use this tool to make sure you can add your GPU to cart ASAP! Beat the bots!",
+      "userCount": 7000,
+      "lastUpdate": "2021-10-13",
+      "helpUrl": "https://discord.gg/nerdspeak",
+      "size": 144384,
+      "email": "info@nerdspeak.net",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/shopping",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/1Mjj8WFLCDvcS_Xk6IvH-UPV3NSnyhJAzw1SrMAEw3v13fDJG4FjKG7a3hShuMhEDuv_f3iqenn5lKfbSkZ7HDUi"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 4.230769230769231,
+      "ratingCount": 13,
+      "permissions": [],
+      "author": "https://nerdspeak.net",
+      "website": "https://nerdspeak.net",
+      "related": [
+        "gdhmefadngapdfphedlcimcdplachcip",
+        "lkmpdpkkkeeoiodlnmlichcmfmdjbjic",
+        "ogeebjpdeabhncjpfhgdibjajcajepgg",
+        "jpdapbcmfllbpojmkefcikllfeoahglb",
+        "ahajkaoongodcmoohkcceoklokapadfh",
+        "bapeomcobggcdleohggighcjbeeglhbn",
+        "kidmffepbniamfbibhfgdakkggchipjl",
+        "piglojnbanllileneaadnnbomcijnbdp",
+        "dfilbjegbcfjlgcblenldhninibiljco",
+        "inlikjemeeknofckkjolnjbpehgadgge",
+        "hmgpakheknboplhmlicfkkgjipfabmhp",
+        "megbklhjamjbcafknkgmokldgolkdfig"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2021-07-27",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/chegg-upvotes-vip/dckhpdemgmkfngfdcbfhfaacnmifpdam",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/NTrFHKz4McQbxA3yk_-Bv-ShbLDUm7KlNx4BZK8hXBxUHDEqe0xHlydEVTwg4QREp9jyjSWVu1yCZreJW_jSOqsX",
+      "name": "Chegg Upvotes VIP",
+      "id": "dckhpdemgmkfngfdcbfhfaacnmifpdam",
+      "version": "1.1",
+      "description": "This is for the users who are experts on Chegg. I provide upvote to them, By using this extension they will be able to send me\u2026",
+      "fullSummary": "This is for the users who are experts on Chegg. I provide upvote to them, By using this extension they will be able to send me their solution link very easily. It does not change anything i the website.",
+      "userCount": 17,
+      "lastUpdate": "2024-05-18",
+      "size": 12708,
+      "email": "forkhub69@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/education",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/2HDHzUdwXikjoYaKRbwFMySq5dqMRKC26YGCMOmVTenuXgWSN8C4_doBIyjHojjWSqRoBMSDFVrcWwcmld_XHR0n"
+        }
+      ],
+      "numScreenshots": 1,
+      "permissions": [
+        "debugger"
+      ],
+      "author": "VIPvishal",
+      "related": [
+        "hfbkdcjhgnimpaeaphakpebghplfjlii",
+        "faccodjobfpcgkppnoikebhllclepeia",
+        "bgbdnafmjkeiklgmbjbopbnhiloipmpk",
+        "alkblilamfjefheigemcgjbbgbheopli",
+        "nfpjkaafbndkllehoicfimldfjmcejcf",
+        "mpkdgkodcbdamndohanajgikgajehfgk",
+        "fgiadpjpododkbbleachmabmcljgmdij",
+        "cfmccoefeojndmkdmbkgalghikfafdod",
+        "ilgijoelgnhbafnhfickofkmcmkoaedi",
+        "janmmpdahbdgdpadkichdmngeikeonlh",
+        "npfcifobeiabpojfjaokhmjndkdfjndh",
+        "llkjcggdocmbcmechdifajigadffgldl"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 3,
+      "riskImpact": 3,
+      "riskLikelihood": 3,
+      "creationDate": "2023-10-26",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/chegg-expert-upvotes/llkjcggdocmbcmechdifajigadffgldl",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/0oZFlRubWNiBAwQH7Kq77Cjgn1r6eSMpX9T4zbj5LxloaWoYVnneFeNBhhnJvIprCuzX_jXPtGt9h53RGoDEc7dT",
+      "name": "Chegg Expert Upvotes",
+      "id": "llkjcggdocmbcmechdifajigadffgldl",
+      "version": "0.5",
+      "description": "Upvote solutions in Chegg Expert Q&A",
+      "fullSummary": "Get upvotes on your answers submitted in Chegg Q&A.\n\nIf you are facing issues, you may contact @jeff_alcazar on Telegram.",
+      "userCount": 210,
+      "lastUpdate": "2023-11-28",
+      "helpUrl": "https://t.me/jeff_alcazar",
+      "size": 25549,
+      "email": "autoassistant010+chromeext@gmail.com",
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/wUZbGJiI7555svcUToEv6FAwphXAXMrs_yD9hfV0rBbc5YxEB1smVR5I1BgjFyt0fBPHAgPzg_1uTh5mYA-Nasl8"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 2,
+      "ratingCount": 4,
+      "author": "Alcazar",
+      "related": [
+        "nnijkecegeiblgmafliejbemjoghcmak",
+        "dckhpdemgmkfngfdcbfhfaacnmifpdam",
+        "hdokhoidbfbodcgoeacbddacldjgnkjc",
+        "faccodjobfpcgkppnoikebhllclepeia",
+        "knpgpajbeokfbgdkdkfohagfodfndfln",
+        "mmnhihhdmfojgcalbgfgdlpjmamcmekh",
+        "flicpnkdedpbcjmpglinaghjfccgcppp",
+        "alkblilamfjefheigemcgjbbgbheopli",
+        "dnacggjlcbpfcfchkkogedlkenpnlfbi",
+        "fkjngjgmgbfelejhbjblhjkehchifpcj",
+        "lmgdfnogocfflibblgddikbdncebighm",
+        "bjmpbmiblpnbbmhiiepkleppddnhgjgj"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 2,
+      "creationDate": "2023-04-26",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/chegg-search/flicpnkdedpbcjmpglinaghjfccgcppp",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/QI_iOCgmGTONqGhqiE3bJbH56_bwaD5XD9jcVNqD-cfEQ4mcyy2QzNE2uzbI_dgeN0kwsSq8HvzO6_wcU9KaaHOf",
+      "name": "Chegg Search",
+      "id": "flicpnkdedpbcjmpglinaghjfccgcppp",
+      "version": "1.0",
+      "description": "Right click highlighted text to quickly search Chegg!",
+      "fullSummary": "Need to quickly search Chegg for a problem? Instead of copying & pasting it into Google or Chegg you can now simply highlight the problem, right click it, and press search Chegg!",
+      "userCount": 1000,
+      "lastUpdate": "2020-04-09",
+      "size": 22508,
+      "email": "contact@adamhoward.org",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Ciwvl3YtIL0vqcRXVc3OqcTsHICCLPApP5hX1yKadjs82qQYhOaRbwfyJQsi-27QlA_H3pwSHY9FWWqc0sFY1NIP"
+        }
+      ],
+      "numScreenshots": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/vFem2zEcuICf3rI4PHcC8lVznIhCjW9Yy7pLk03WzABp0GaF73VSabl3sL8wiJ2x4wZf3C3NQ1Bdzp_qseoblcJRvBY",
+      "ratingValue": 4,
+      "ratingCount": 4,
+      "permissions": [
+        "contextMenus"
+      ],
+      "author": "https://adamhoward.org",
+      "website": "https://adamhoward.org",
+      "related": [
+        "ehnebalpnnjcobeiiccagcdakcpjbgma",
+        "pfagnepdndhkmilceinbebdfbmiddagl",
+        "nnijkecegeiblgmafliejbemjoghcmak",
+        "cjpmpjddogcacgckmamjhmjlflfjikdh",
+        "iimcimpbdndjaidollhipbkjilpnmfnh",
+        "ggdifedejpibodcomidnlhpfjajgpfgk",
+        "kdckjndaofjnbdmfgddibepbidmjfflb",
+        "ikpjogookicblaeiilbdjmgbdjkhpjjg",
+        "nfnfalcgbgnmmenmioajjnmapembaddp",
+        "dgfigglmnhnamfjbccjoiomogdmglnpa",
+        "npfcifobeiabpojfjaokhmjndkdfjndh",
+        "llkjcggdocmbcmechdifajigadffgldl"
+      ],
+      "privacyCollections": [],
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 0,
+      "creationDate": "2020-04-09",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/bp-proxy-switcher/bapeomcobggcdleohggighcjbeeglhbn",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/5AKqKed1g7FBI8Rz1v8rGQtHsQLJn4-iOQ0IWtPzqABnFxUUFML37PII_zQFxxliFQFCq8MAhctBJsbQDhXszhTwDP4",
+      "name": "BP Proxy Switcher",
+      "id": "bapeomcobggcdleohggighcjbeeglhbn",
+      "version": "4.0.5",
+      "description": "Change your proxies with one click",
+      "fullSummary": "Change your proxies with one click.\nWith our chrome proxy addon you can load your list of proxies once, from clipboard or URL then switch between them with a single click. \n\nProxy plugin options\n- display the country for each proxy\n- delete the cache before switching to a new proxy\n- auto-reload the current tab when switching the proxy\n- change the proxies automatically at every X seconds\n- load the proxies list at every X minutes from a .txt file from an URL\n\nBecause of the Chrome limitations is not possible to set a different proxy on each chrome tab, the proxy will be set for the entire Chrome profile.",
+      "userCount": 90000,
+      "lastUpdate": "2022-06-10",
+      "helpUrl": "https://buyproxies.org",
+      "size": 13851689,
+      "email": "office@buyproxies.org",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/developer",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://buyproxies.org/privacyPolicy.htm",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/MiJaNFiLkDSCs33Vtbv_XM6ryRPn59qQKBo1z8bVXpfAhgMaWLza2_2GQ3puiFmklbH-O7iZHkK5Qz9t9P_NuYRG"
+        }
+      ],
+      "numScreenshots": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/QjjQZ3vS8Dfk639RPcECklDOTjRwa0M9KarIEoH0l9uMRQQEP9LDxnFv8nBmtx8B34YfV9z3GrN6s4rjEWx8wKLlBg",
+      "ratingValue": 3.75,
+      "ratingCount": 32,
+      "permissions": [
+        "storage",
+        "proxy",
+        "privacy",
+        "notifications",
+        "webRequest",
+        "webRequestBlocking",
+        "<all_urls>",
+        "tabs",
+        "browsingData",
+        "contextMenus"
+      ],
+      "author": "buyproxies.org",
+      "related": [
+        "bdjeogoajilmceaemepogjldihohcgph",
+        "lgkgpmoglpemohmihphdaljcjnfkndoi",
+        "iejkjpdckomcjdhmkemlfdapjodcpgih",
+        "padekgcemlokbadohgkifijomclgjgif",
+        "njncdadgmfngfifamfdpgpmobpalkihe",
+        "nlmmgnhgdeffjkdckmikfpnddkbbfkkk",
+        "ogeebjpdeabhncjpfhgdibjajcajepgg",
+        "clmkdohmabikagpnhjmgacbclihgmdje",
+        "ckapaombhfnomlahpkbloippilkghpjn",
+        "gdhmefadngapdfphedlcimcdplachcip",
+        "hgdnbhdgboglidilhoipggepjlmmmaae",
+        "onnfghpihccifgojkpnnncpagjcdbjod"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 3,
+      "riskImpact": 3,
+      "riskLikelihood": 1,
+      "creationDate": "2020-03-02",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/chegg-unblocker/occickpdkmcmaikljlcigejbienoncfh",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/_IQ-hX6-Za-n7BDG1NqFb6Tzoc8_3-CdlfOYVDTY-4zCrf4Z1dK0ZV5bRNI40nhdyoo0NYjqCiIQLGrFzahO9bsN",
+      "name": "Chegg unblocker",
+      "id": "occickpdkmcmaikljlcigejbienoncfh",
+      "version": "1.0",
+      "description": "Unblocks chegg multi-device limit",
+      "fullSummary": "If you are like me and have more than 2 devices that you regularily use chegg on, you might have gotten the annoying message that you must either swap devices or not use chegg.\n\nFor something that costs ~$20/month this is ridiculuous and annoying. This script, will remove the blocker for you automatically when accessing chegg on a device that isn't registered.\n\nhttps://github.com/dkasabovn/chegg-unblocker",
+      "userCount": 1000,
+      "lastUpdate": "2022-03-01",
+      "helpUrl": "https://github.com/dkasabovn/chegg-unblocker",
+      "size": 3308,
+      "email": "dkasabovn@gmail.com",
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/GDCmBMSDiPdgdvXdW-2wNQuRqhe7Ak0H8R3JRLOfXSChiAFrLGrfnIiSyYopE8KU6ObBFtyLTepyBuJQsEeoBuqI"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 1,
+      "ratingCount": 2,
+      "author": "https://danielkasabov.com",
+      "website": "https://danielkasabov.com",
+      "related": [
+        "nfnfalcgbgnmmenmioajjnmapembaddp",
+        "ehnebalpnnjcobeiiccagcdakcpjbgma",
+        "gifejdknamachffbkgblclhpojdcjodk",
+        "gjehamgkcgppiifccfljjnkjloklejak",
+        "npfcifobeiabpojfjaokhmjndkdfjndh",
+        "faccodjobfpcgkppnoikebhllclepeia",
+        "dpebpkcedjlkmaonobibogfjkeadmije",
+        "lmgdfnogocfflibblgddikbdncebighm",
+        "dbannipnecjbkocecnoedgfddobboell",
+        "bbcekmmkilfkanelobokhkfdlnchmbce",
+        "jcgpghgjhhahcefnfpbncdmhhddedhnk",
+        "nnijkecegeiblgmafliejbemjoghcmak"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2022-02-28",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/chegg-expert-auto-refresh/knpgpajbeokfbgdkdkfohagfodfndfln",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/XCsaTXFnzz8u7jV2Aaedptp4Rbo8ovvzYmXjtnweZCqga5pzP7K919g1ChmRmffc7yL6DZhDoUuSdwb2SVqXTh6P",
+      "name": "Chegg Expert Auto Refresh Alarm",
+      "id": "knpgpajbeokfbgdkdkfohagfodfndfln",
+      "version": "2.4",
+      "description": "Extension by VIP SOlutions.",
+      "fullSummary": "It is Alarm system for the experts, Plays an audio when question appears on the screen.\n\nNEW: Now you can stop the music in between or if u missed the alarm it will ring again in 90 seconds.\n\nActive Features:\n----->Chegg Expert Auto Refresh\n----->Alarm On Question\n----->Music Pause\n----->Search Question on Google\n----->Bot Links for solutions from Google search\n----->Free Bartleby , Solutioninn, Chegg:2-3Rs/Answer\n----->One Click Skip\n\nUpcoming Features:\n----->Auto Skip Question\n----->Auto Accept Question\n----->Image to Text Converter\n----->Plagiarism Correction",
+      "userCount": 2000,
+      "lastUpdate": "2024-05-21",
+      "size": 293888,
+      "email": "forkhub69@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/education",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "video": "https://www.youtube.com/embed/XARwrtEwNNs?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/7jpE7n4lWRjkDSljHX14OENvuJFWmsXdEme8tOvCxIeRpG9y45N_DvkkbJR3merwTl0Ila6NrghXvFQpMguuO5VoFVE"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/H3Y3p__b5E1eCv0BoPezoNYdVs1OTKxDUvnnMZQksFCS7pD3SI6O_r9T4oCdVRzsc5uZ-ejr2rG1TpeUld4rvqW6IA"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/YoguumMehNFU1G_sP0w8rJmLR4PGLYf1FPpc8DsiEM0LKATWOVLRzQ1gG5QsUf_dtGtNC5bzNXBxF8QBUkLhqbYjO4Y"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/wHt2HbEupP-EayVBAHrSPwU_5Q1fF6TKGkhn9IUVqpo6oV-xXJHrxl3bmZ8X0gDFvyEWb09-KCKa_ni9ONkws_IJ6w"
+        }
+      ],
+      "numScreenshots": 4,
+      "numVideos": 1,
+      "ratingValue": 4.230769230769231,
+      "ratingCount": 13,
+      "permissions": [
+        "notifications",
+        "cookies"
+      ],
+      "author": "https://www.vipsolutions.in",
+      "website": "https://www.vipsolutions.in",
+      "related": [
+        "hgeljhfekpckiiplhkigfehkdpldcggm",
+        "alkblilamfjefheigemcgjbbgbheopli",
+        "faccodjobfpcgkppnoikebhllclepeia",
+        "ehnebalpnnjcobeiiccagcdakcpjbgma",
+        "lmgdfnogocfflibblgddikbdncebighm",
+        "ldgjechphfcppimcgcjcblmnhkjniakn",
+        "flicpnkdedpbcjmpglinaghjfccgcppp",
+        "nfnfalcgbgnmmenmioajjnmapembaddp",
+        "ehllkhjndgnlokhomdlhgbineffifcbj",
+        "fkjngjgmgbfelejhbjblhjkehchifpcj",
+        "dnacggjlcbpfcfchkkogedlkenpnlfbi",
+        "bjmpbmiblpnbbmhiiepkleppddnhgjgj"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 2,
+      "riskImpact": 2,
+      "riskLikelihood": 3,
+      "creationDate": "2024-02-25",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/uuid-finder/hdenpcfifhgoabfkmikpfbgoldfnddjk",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/_bPcadJN6X1-kDZuOILKPHESEpDFQFFbOv0k3FXTvUbReWMYD2LASQ9B6OK6GKke8QPYhs3h4J4fHoGlf-23zzQdTg",
+      "name": "UUID Finder",
+      "id": "hdenpcfifhgoabfkmikpfbgoldfnddjk",
+      "version": "0.0.3",
+      "description": "This extension will automatically display the UUID at the top of the page.",
+      "fullSummary": "This extension will automatically filter the page source code for Chegg URLs and display the UUID at the top of the page.\nYou could inspect Chegg URLs and hit CTRL+F to find the UUID. This extension simply automates that.\n\nIt does not show answer or anything that violates Chegg TOS.",
+      "userCount": 999,
+      "lastUpdate": "2021-10-27",
+      "size": 16630,
+      "email": "joinprofessorpremium@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://www.chegg.com/privacypolicy",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/7xxJ08ILnrMT5ZjwiqmbxLtfAVlbJON9p5n2npwW5C94379hVgeNvRV5rq5k7YdneeBuna-DjT17Aszx0oI7Uq7K"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/torkpWOXKwkoTs6WJB7nDs-B_W-bnzzX4-rPon42kHXQ9qj3uJyIWDUBBllpZE7dVWd2FgsdDiwJR56GnpJ5pEw"
+        }
+      ],
+      "numScreenshots": 2,
+      "ratingValue": 5,
+      "ratingCount": 1,
+      "permissions": [
+        "https://www.chegg.com/*"
+      ],
+      "author": "Professor Premium",
+      "related": [
+        "flicpnkdedpbcjmpglinaghjfccgcppp",
+        "mffnffnaligkakehfanikegioalfcdmk",
+        "ehnebalpnnjcobeiiccagcdakcpjbgma",
+        "llkjcggdocmbcmechdifajigadffgldl",
+        "lkmpdpkkkeeoiodlnmlichcmfmdjbjic",
+        "faccodjobfpcgkppnoikebhllclepeia",
+        "nflgkajcbjiooanofomjjaagkaednbel",
+        "lmgdfnogocfflibblgddikbdncebighm",
+        "bapeomcobggcdleohggighcjbeeglhbn",
+        "hmgpakheknboplhmlicfkkgjipfabmhp",
+        "ehmpejjklcibliopgbghpgfinhbjopnn",
+        "nfnfalcgbgnmmenmioajjnmapembaddp"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 0,
+      "creationDate": "2021-10-22",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/chegg-skip/nfnfalcgbgnmmenmioajjnmapembaddp",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/CfZn2yu5vmx7PUgbjRzPrXgyzRjK25v4eRtfoLKyYk72uFRMcYeE63BAcncypDiUh_jcixH9hbK_c9Evc1w4mk4wHjM",
+      "name": "chegg skip",
+      "id": "nfnfalcgbgnmmenmioajjnmapembaddp",
+      "version": "22.4.14",
+      "description": "Makes skipping a question easy in chegg",
+      "fullSummary": "**If the add-on isn't loaded please reload the page then the add-on will work perfectly good!**\n\nThis add-on will add a extra button named \"skip+\" in chegg question answering page. with a single click you can skip the question directly you don't need to select any other options.\n\nAnd this add-on will automatically click answer button if timer reach to 1 minute , It will be helpful if you forgot to click answer :)\n\nNote: This add-on will select  \"i don't have subject knowledge\" by default, if you want to select another option use regular skip button",
+      "userCount": 535,
+      "lastUpdate": "2022-04-13",
+      "size": 6676,
+      "email": "omkaryalla@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/FdoS7mzjQ0aewmg4g6M2jpQ6V0Jt7teBBmVWdezzoKWQKa_77KsaO3wtWD4SsAxJRxj18JhZvOP7HritPm-FswNG"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 3,
+      "ratingCount": 4,
+      "author": "Unknown",
+      "related": [
+        "ehnebalpnnjcobeiiccagcdakcpjbgma",
+        "faccodjobfpcgkppnoikebhllclepeia",
+        "alkblilamfjefheigemcgjbbgbheopli",
+        "cildjgcimlhlaemakeegdpghdgoliolg",
+        "lmgdfnogocfflibblgddikbdncebighm",
+        "nnijkecegeiblgmafliejbemjoghcmak",
+        "knpgpajbeokfbgdkdkfohagfodfndfln",
+        "llkjcggdocmbcmechdifajigadffgldl",
+        "occickpdkmcmaikljlcigejbienoncfh",
+        "mmnhihhdmfojgcalbgfgdlpjmamcmekh",
+        "flicpnkdedpbcjmpglinaghjfccgcppp",
+        "npfcifobeiabpojfjaokhmjndkdfjndh"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2021-12-04",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/suschegg-unlocker/lmgdfnogocfflibblgddikbdncebighm",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/50yuL3rhDyr-1PJl-W_YMZo7RVt5_BNaze2ZbmfTg4ONvW3dm3Ch3iaSCdDmDzvs7pOsgRAkoiLakGdpi1I0IDtOWw",
+      "name": "SUSCHEGG Unlocker",
+      "id": "lmgdfnogocfflibblgddikbdncebighm",
+      "version": "4.0",
+      "description": "This extension will unlock answers on demand.",
+      "fullSummary": "Get instant, accurate answers 24/7 with our extension, powered by suschegg.com. Ideal for homework, research, or curiosity. User-friendly and reliable.\n\nNote: Active subscription required - start at just $1!",
+      "userCount": 10000,
+      "lastUpdate": "2024-01-07",
+      "helpUrl": "https://discord.gg/suschegg",
+      "size": 68557,
+      "email": "SusChegg@pm.me",
+      "publisherAddress": "600 Community Dr\nFloor 1\nGreat Neck, NY 11020\nUS",
+      "publisherCountry": "US",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/tools",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://suschegg.com/tos",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/xJ4nmpLwbdwKi7Cmpf-V5831ImVsTAS0KIEFGnopsQh2uCLr09ZDvebT5Xb6vSU7OnI_aLANDIVk_Ze5kKDQApZ8Gyk"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/-xwErhX5cIB77bDLa2Aju0rvS-ooKoiRT-7hiVrQ6-65uvck8cxSWT24zZtsdshf45CL7-MmbcSi0TNgpZcN2JjO"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/3vd6Q6MwLIvJRt66r7Zy5rCS-WUaar07BMtmeIbKMRgqscYWWdQm68KL3F2rJzRy_0B_OJ2lUZuQD5btmpcpRKuO"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/og-MvHqgy_aYXItulhLeyJJiNx5yuvPNTBGh7r_CgnKkkucFtqW0ojrGed1pkh8mmvvbr9NTJaT9Hy0Jv60efpDq"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/W8n5Ymn3Dm5Vk3MugXPAI0Id6ZF3lN_DRhJgZKrg-F5DtAQRVnKJ4ASVqaDPWLp_ZQbIV4pUrxwSfg88rqfwZ7hpvw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/KtiD6WwcAOVcR2CmHL0rbcRfjYRSAtxZ1gYzrly3q6riNDBobKTiVHt8BrtyQ4rkrI-WuJcqrEO3CqIYB4OsodBN"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/E9tbcvDJEpk5c7dZr3TwvS38YRugl8n2ppHL4Eikvi4bSCUFAEjn6doQeASb7TPc1EC8TnzwhjK8lFx0fz2DrL0d9cQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/eNkky7WaXT1ESgy_lw_pDHNC5iRpIfrEWpBFVv8i8ywcPLP8hSYlcCxNZKDITi1L7GJx6RvjGWa4ZCsOulDCmF_Juw"
+        }
+      ],
+      "numScreenshots": 8,
+      "ratingValue": 2.259259259259259,
+      "ratingCount": 54,
+      "author": "https://suschegg.com",
+      "website": "https://suschegg.com",
+      "related": [
+        "ehnebalpnnjcobeiiccagcdakcpjbgma",
+        "faccodjobfpcgkppnoikebhllclepeia",
+        "dpebpkcedjlkmaonobibogfjkeadmije",
+        "dgmfnhbbidiipjhconjcahlphjflldci",
+        "ehllkhjndgnlokhomdlhgbineffifcbj",
+        "gjehamgkcgppiifccfljjnkjloklejak",
+        "kabafodfnabokkkddjbnkgbcbmipdlmb",
+        "nfnfalcgbgnmmenmioajjnmapembaddp",
+        "pbanhockgagggenencehbnadejlgchfc",
+        "ldgogjlogbecagpdpfomiiebiaeilgpd",
+        "occickpdkmcmaikljlcigejbienoncfh",
+        "cndibmoanboadcifjkjbdpjgfedanolh"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2023-04-20",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/scout-companion/ngeilhcbcilomppnpbalfdnmofpmdohj",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/kVcrkjfKMVGFbYvZOMFzu8Ip2505U3TOFyAixZPGuaduWc95FbYt0NLQCIzWm6lQQO3a7AN9_UOp3D0sCA8xaOh4J3A",
+      "name": "Scout Companion",
+      "id": "ngeilhcbcilomppnpbalfdnmofpmdohj",
+      "version": "1.1.6",
+      "description": "Auto-forward gmail to scout catch-all & sign in to StockX and GOAT & NBA Topshot",
+      "fullSummary": "This extension helps users set up auto-forwarding via gmail to their Scout catchall email, allowing them to import purchase history and expenses directly into Scout.",
+      "userCount": 3000,
+      "lastUpdate": "2021-04-02",
+      "size": 53719,
+      "email": "admin@scoutapp.ai",
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://scoutapp.ai/privacy",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/34d3qg0eKLtQrN4tI77IUQq3AjSwI0JI-YVoKc7gcVRh2OjV6MCaK9PxqENgstH-O_tnRySY-uCnwO6r4sfdypOxRg"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 5,
+      "ratingCount": 1,
+      "permissions": [
+        "declarativeContent",
+        "tabs",
+        "cookies",
+        "webRequest",
+        "*://scoutapp.ai/*",
+        "*://scoutapp-ai-staging.herokuapp.com/*",
+        "https://mail.google.com/*",
+        "https://mail-settings.google.com/*",
+        "*://stockx.com/*",
+        "*://accounts.stockx.com/*",
+        "*://www.goat.com/*",
+        "*://goat.com/*",
+        "*://www.nbatopshot.com/*",
+        "*://nbatopshot.com/*",
+        "*://*.meetdapper.com/*"
+      ],
+      "author": "admin",
+      "related": [
+        "kidmffepbniamfbibhfgdakkggchipjl",
+        "ogeebjpdeabhncjpfhgdibjajcajepgg",
+        "iokokaclomnglegfinhjjpmmgeacccki",
+        "inlikjemeeknofckkjolnjbpehgadgge",
+        "ckapaombhfnomlahpkbloippilkghpjn",
+        "nlmmgnhgdeffjkdckmikfpnddkbbfkkk",
+        "lkmpdpkkkeeoiodlnmlichcmfmdjbjic",
+        "caahalkghnhbabknipmconmbicpkcopl",
+        "cdhipbgkompidhheimgemgkcpfahmkam",
+        "clmkdohmabikagpnhjmgacbclihgmdje",
+        "onnfghpihccifgojkpnnncpagjcdbjod",
+        "hmgpakheknboplhmlicfkkgjipfabmhp"
+      ],
+      "privacyCollections": [
+        4,
+        8
+      ],
+      "disclosePrivacyCollection": true,
+      "riskScore": 3,
+      "riskImpact": 3,
+      "riskLikelihood": 1,
+      "creationDate": "2020-10-26",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/privacy-protect-your-paym/hmgpakheknboplhmlicfkkgjipfabmhp",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/IKfWzbxA51tCQCj_W9AqWnzukHKuGhIBgEgEgEGyIpAJCG8MaqZxBFwZ3jgQ7InRknjf-BmhQnkgQ3H-rX-sF-Pa",
+      "name": "Privacy | Protect Your Payments",
+      "id": "hmgpakheknboplhmlicfkkgjipfabmhp",
+      "version": "2.3.0",
+      "description": "Protect yourself from fraud and identity theft with disposable card numbers for use online",
+      "fullSummary": "Stop exposing your credit or debit card information and protect your online payments from hackers and fraudsters with Privacy. Join over 200,000+ users that have saved millions of dollars by using Privacy to mask your true bank account and card information online, and block unwanted charges and subscriptions.\n\nAdd the Privacy browser extension to quickly autofill unique, secure card numbers at any checkout pages where traditional credit and debit cards are accepted. No more needing to get up and fish for your wallet at inconvenient times. No more memorizing a dozen card numbers. Simply use the browser extension and checkout in one click.\n\nWith Privacy, you can:\n\n\ud83d\udd12 Shield your true financial information: \n\nPrivacy masks your debit card or bank account number to help protect you from card theft and fraud. Pay with greater privacy and security anytime.\n\n\u26d4 Take control of your subscriptions:\n\nPause and close cards whenever you want, giving you complete control over who can charge your card and when.\n\n\ud83d\udcb3 Create merchant-locked and one-time use cards: \n\nOur cards automatically \u201clock\u201d to the first merchant they are used at, so if the merchant is ever breached, the card number can never be used anywhere else. You can also create one-time use cards that automatically close after a single transaction.\n\n\u270d\ud83c\udffd Take charge over your spending: \n\nSet customizable spending limits to prevent overcharging and block hidden fees. If a transaction goes over the limit, it will automatically be declined.\n\nThe security of our users\u2019 personal information and data is critical to everything that we do at Privacy, and you can review our security policies at https://privacy.com/security.\n\nRead about us in Wirecutter and Lifehacker!",
+      "userCount": 100000,
+      "lastUpdate": "2024-02-22",
+      "helpUrl": "https://support.privacy.com/",
+      "size": 588800,
+      "email": "support@privacy.com",
+      "publisherAddress": "148 Lafayette St\nFL 3\nNew York, NY 10013\nUS",
+      "publisherCountry": "US",
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "lifestyle/shopping",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://privacy.com/terms",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/oUb-seGMJixntJduElxTiwew0hwsBhc7sdPG7CUuOAPajNZqJDaHOkzOFOoR-f2ArOMdWn3g-gugwsXwBPiONKG7Zw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/HN-NTf6CcL1Wiw6ShahsSCVw2y4-pkLMWHXDN89xu5tA07TZyE12tUDR13PtzZXVWlwpJm6TyP4TL7BC4H4MBaH47Go"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/c-Hq88471W_QiJuo-EQCWqhUNwLuJXxmlYvRdNTP7FWJtVr58QiKJ1__a4uxHOB83mEwH0zCCihn5fugEeZ6zgmA"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/XBF-4YWYjFJq7a57BVqngfQ72Ew07d-yICOVQdxSMSbDOIKSjMfP6zTv1vvy30LVNU9PVpZSVKWk2rtGiejS5DAw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/6Jk510RJyhSDdapUeSrs4YO8Ds0fOu1cQXD9jdQBXWKoFZZ-c3nt1Sv-eitp8ik0xJyD5rPXlh9dKl5nQuxWZxSP-Q"
+        }
+      ],
+      "numScreenshots": 5,
+      "smallBanner": "https://lh3.googleusercontent.com/j3AEL4pgZZzAeb_j42TmVpx7iUQDvmHjb1_Sy0r5EViIk1xIgbf6vLvQm3AE5HrE9YTRvSa4WJsR1nvqzL9XNvVRmQ",
+      "ratingValue": 4.6904276985743385,
+      "ratingCount": 491,
+      "permissions": [
+        "storage",
+        "tabs",
+        "activeTab"
+      ],
+      "author": "https://privacy.com",
+      "website": "https://privacy.com",
+      "related": [
+        "klcpekhgaebbghffffpofgaipfcdplkc",
+        "nakplnnackehceedgkgkokbgbmfghain",
+        "clmkdohmabikagpnhjmgacbclihgmdje",
+        "fleenceagaplaefnklabikkmocalkcpo",
+        "cjmfiochlaffhnellbhffgnjocahinnh",
+        "kbmfpngjjgdllneeigpgjifpgocmfgmb",
+        "dphilobhebphkdjbpfohgikllaljmgbn",
+        "jpdapbcmfllbpojmkefcikllfeoahglb",
+        "gdhmefadngapdfphedlcimcdplachcip",
+        "bapeomcobggcdleohggighcjbeeglhbn",
+        "lkmpdpkkkeeoiodlnmlichcmfmdjbjic",
+        "khgocmkkpikpnmmkgmdnfckapcdkgfaf"
+      ],
+      "privacyCollections": [
+        1,
+        3
+      ],
+      "disclosePrivacyCollection": true,
+      "riskScore": 2,
+      "riskImpact": 2,
+      "riskLikelihood": 2,
+      "creationDate": "2020-03-26",
+      "fetchId": "20240527"
+    }
+  ],
+  "crossPlatformData": {},
+  "score": {
+    "userCount": 10,
+    "ratingValue": 100,
+    "ratingCount": 0,
+    "size": 80,
+    "lastUpdate": 30,
+    "permission": 85
+  },
+  "allRanks": [
+    {
+      "label": "Overall",
+      "key": "overall-rank",
+      "value": 38178,
+      "path": "/top?page=1528&date=2024-05-27"
+    },
+    {
+      "label": "Just for Fun",
+      "type": "cat",
+      "key": "cat-lifestyle/fun-rank",
+      "value": 197,
+      "path": "/c/lifestyle%2Ffun?page=8&date=2024-05-27"
+    },
+    {
+      "label": "finder",
+      "type": "keyword",
+      "key": "keyword-finder-rank",
+      "value": 128,
+      "path": "/keyword/finder?page=6&date=2024-05-27",
+      "difficulty": 46.98786777777778
+    }
+  ],
+  "oneWeekAgoRanks": [
+    {
+      "label": "Overall",
+      "key": "overall-rank",
+      "value": 37761,
+      "path": "/top?page=1511&date=2024-05-27"
+    },
+    {
+      "label": "Just for Fun",
+      "type": "cat",
+      "key": "cat-lifestyle/fun-rank",
+      "value": 194,
+      "path": "/c/lifestyle%2Ffun?page=8&date=2024-05-27"
+    },
+    {
+      "label": "finder",
+      "type": "keyword",
+      "key": "keyword-finder-rank",
+      "value": 123,
+      "path": "/keyword/finder?page=5&date=2024-05-27",
+      "difficulty": 46.98786777777778
+    }
+  ],
+  "alternateNames": [],
+  "asOfDate": "2024-05-27",
+  "risk": {
+    "permissions": [
+      "permission-content-scripts"
+    ],
+    "specificHosts": [],
+    "emailIsInvalid": false,
+    "authorUrlIsInvalid": false,
+    "abnormalRatingTrend": null,
+    "abnormalUserTrend": null,
+    "knownMalware": null,
+    "knownBadReview": null,
+    "riskScore": 0,
+    "permissionScore": 135,
+    "allPermissions": [
+      {
+        "key": "permission-content-scripts",
+        "risk": 15
+      }
+    ],
+    "riskImpact": 1,
+    "riskLikelihood": 0,
+    "daysSinceLastUpdate": 429,
+    "daysSinceCreation": 431
+  },
+  "manifestJson": "{\n\"update_url\": \"https://clients2.google.com/service/update2/crx\",\n\n  \"manifest_version\": 3,\n  \"name\": \"Chegg Link Finder\",\n  \"version\": \"1.0\",\n  \"description\": \"Displays a banner on top of the Chegg page with the true link to the question on the page.\",\n  \"permissions\": [],\n  \"action\": {\n    \"default_popup\": \"popup.html\",\n    \"default_icon\": {\n      \"16\": \"icon16.png\",\n      \"48\": \"icon48.png\",\n      \"128\": \"icon128.png\"\n    }\n  },\n  \"icons\": {\n    \"16\": \"icon16.png\",\n    \"48\": \"icon48.png\",\n    \"128\": \"icon128.png\"\n  },\n  \"content_scripts\": [\n    {\n      \"matches\": [\"https://www.chegg.com/*\"],\n      \"js\": [\"content.js\"],\n      \"css\": [\"styles.css\"]\n    }\n  ]\n}",
+  "manifestSummary": {
+    "meta_version": 2,
+    "manifest_version": 3,
+    "has_content_scripts": true
+  },
+  "isDownloadBlocked": false,
+  "minAsOfDate": "2024-05-19",
+  "maxAsOfDate": "2024-05-27"
+}

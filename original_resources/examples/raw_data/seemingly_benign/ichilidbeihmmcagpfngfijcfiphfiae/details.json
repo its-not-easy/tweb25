@@ -1,0 +1,907 @@
+{
+  "url": "https://chromewebstore.google.com/detail/srl-races-on-twitch/ichilidbeihmmcagpfngfijcfiphfiae",
+  "paymentType": "free",
+  "logo": "https://lh3.googleusercontent.com/_ZvK6RBAqiwRDVc7XcFfZZ8JXtBN8CVP5gWCFplVdMvzWoo-O_o8LKR-fKYQUmsX38BAC2uYOQFxKCuX2rySz3-gnA",
+  "name": "SRL Races on Twitch",
+  "id": "ichilidbeihmmcagpfngfijcfiphfiae",
+  "version": "3.1.1",
+  "description": "SRL Race functions for twitch pages",
+  "fullSummary": "Adds a menu for SRL race functions to twitch pages. With it you can easily check the race goal and get MultiTwitch were you the streamer, mod or just a regular viewer.\n\nIf you have suggestions or discover bugs in it please report them to me at http://www.twitch.tv/message/compose?to=zas_\n\nCurrent features:\n - Button is lit during races and dimmed when streamer is not racing\n - Shows the game, goal, time and entrants\n - Shows participant comments when mouse cursor is over them\n - Entrant names open new tabs to their streams\n - Has links to MultiTwitch and SRL race page\n - Option to post the goal/MultiTwitch/race page in chat\n - Window is draggable and detachable\n - Shows finishing place\n - Supports newest Twitch layout and can hover over the chat when dragged\n\nFirefox download: bombch.us/wIB",
+  "userCount": 131,
+  "lastUpdate": "2015-01-29",
+  "size": 1195377,
+  "supportedLanguages": [
+    "en"
+  ],
+  "category": "make_chrome_yours/accessibility",
+  "itemCategory": "extension",
+  "media": [
+    {
+      "screenshot": "https://lh3.googleusercontent.com/lhxlNxPUWWwfhviyyvpCNNjl996AE46CjqkAy9lt2EuaT38tVBBpMviYCqZqzh0Ewd1QX8o8sQyFtoUO5XPnKeJFIA"
+    }
+  ],
+  "numScreenshots": 1,
+  "ratingValue": 4.75,
+  "ratingCount": 8,
+  "permissions": [
+    {
+      "key": "permission-content-scripts",
+      "risk": 15
+    }
+  ],
+  "author": "Zas",
+  "related": [
+    "mjaafpfnaeofaacnmkfdafldodlaomln",
+    "ejcaegeanpaohhmimojlgfipmdofmphh",
+    "njglhbamlnkijhmcpnphfjeboaddnend",
+    "heegoibfojikpcppkaodefonfpghflig",
+    "eliicobplhgkhnlldnoicpbbndegjlaj",
+    "apnmaeokijedbbdbnbanjeooijcmldlf",
+    "eledncnfcolfphehklgdabnideaihdal",
+    "aiimboljphncldaakcnapfolgnjonlea",
+    "iiljidcefnbhbpamageahhblhbbhhopm",
+    "jpgnbiffpoelgpegopldffmpbmfdojga",
+    "dgjogmjpmldlanhjlggeibkoajnlmeen",
+    "ioegnnjonphieiamlnmfaacafcdfbccm"
+  ],
+  "privacyCollections": [],
+  "riskScore": 2,
+  "riskImpact": 2,
+  "riskLikelihood": 1,
+  "creationDate": "2015-01-29",
+  "fetchId": "20240527",
+  "oneWeekDelta": {
+    "userCount": -9,
+    "ratingValue": 0,
+    "ratingCount": 0
+  },
+  "oneDayDelta": {
+    "userCount": -3,
+    "ratingValue": 0,
+    "ratingCount": 0
+  },
+  "ranking": [
+    {
+      "ts": "20240527",
+      "value": {
+        "overall-rank": 58024,
+        "extension-rank": 45657,
+        "cat-make_chrome_yours/accessibility-rank": 5288,
+        "keyword-goal-rank": 67
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "reviewId": "\\266n\\271:\\270\\275f!\\003\\245\\271Mze\\032\\017]\\177\\253q\\250\\332\\0075\\346\\277\\027vr\\222\\013u",
+      "authorId": "WARLOARD227",
+      "authorName": "WARLOARD227",
+      "authorPicture": "https://lh3.googleusercontent.com/a/ACg8ocLMIClJ8HT7fDWfvKh9w5sVGUC10wBGXBsbdc88ogSv=s32-mo",
+      "rating": 3,
+      "creationTime": 1427090805000,
+      "updatedTime": 1427090822000,
+      "timestamp": "2015-03-23",
+      "ingestionTime": 1710245719343,
+      "numHelpful": 0,
+      "numVoted": 0,
+      "version": null,
+      "body": "i dont know if it still works help?",
+      "lang": "en",
+      "fetchId": "20240312"
+    },
+    {
+      "reviewId": "\\0242\\321\\000\\3560\\242\\360;\\336\\377k\\014d#\\362\\\"\\356\\351\\rO\\373b\\331w\\253\\373\\275\\000\\350\\001\\360",
+      "authorId": "Lewdcifer",
+      "authorName": "Lewdcifer",
+      "authorPicture": "https://lh3.googleusercontent.com/a-/ALV-UjWjC4cZvBONMFNgKj9AmwBfSnrB55UkC6X7IpDc6s3ZmA=s32",
+      "rating": 5,
+      "creationTime": 1390787545000,
+      "updatedTime": 1390787757000,
+      "timestamp": "2014-01-27",
+      "ingestionTime": 1710245719343,
+      "numHelpful": 1,
+      "numVoted": 1,
+      "version": null,
+      "body": "Neat extension! You can see whats going on directly at Twitch instead of having to switch between tabs.",
+      "lang": "en",
+      "fetchId": "20240312"
+    },
+    {
+      "reviewId": "\\311\\3723\\260\\363[LM\\346\\331\\343To\\364\\353[V|\\205(\\343\\374\\216\\235\\360\\333DS\\007\\016Y\\220",
+      "authorId": "SlaskPontus",
+      "authorName": "SlaskPontus",
+      "authorPicture": "https://lh3.googleusercontent.com/a/ACg8ocL9H5zZaxX9YTJEA9y70Z6f8LJuO2E3p8oOpv0iyXaQMA=s32-mo",
+      "rating": 5,
+      "creationTime": 1389556113000,
+      "updatedTime": 1389556121000,
+      "timestamp": "2014-01-12",
+      "ingestionTime": 1710245719343,
+      "numHelpful": 0,
+      "numVoted": 0,
+      "version": null,
+      "body": "good stuff",
+      "lang": "en",
+      "fetchId": "20240312"
+    }
+  ],
+  "metaTitle": "SRL Races on Twitch Chrome Extension",
+  "metaDescription": "Easily check the race goal and get MultiTwitch for SRL races on Twitch with this Chrome extension.",
+  "metaSummary": "SRL Races on Twitch is a Chrome extension that adds a menu for SRL race functions to Twitch pages. It allows users to easily check the race goal, view participants, and get MultiTwitch for SRL races on Twitch. The extension is equipped with various features such as showing participant comments, opening entrant streams in new tabs, and supporting the newest Twitch layout. It also offers the option to post the race goal, MultiTwitch link, and race page in chat.",
+  "downloads": {
+    "enabled": true,
+    "zipUrl": "/api/download?id=ichilidbeihmmcagpfngfijcfiphfiae&type=ZIP&version=3.1.1",
+    "crxUrl": "/api/download?id=ichilidbeihmmcagpfngfijcfiphfiae&type=CRX&version=3.1.1"
+  },
+  "alternatives": [
+    {
+      "url": "https://chromewebstore.google.com/detail/twitch-multistream/mjaafpfnaeofaacnmkfdafldodlaomln",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/odcJe6zYlnD6lkMZFUPe2TrbpVADJjJpu9z7tdyBcl9Zb5LMPxMWkyeSVqSri1S-uTLtJXr0yxhtmBDaCNAsBWq2sg",
+      "name": "Twitch multistream",
+      "id": "mjaafpfnaeofaacnmkfdafldodlaomln",
+      "version": "2.0.2",
+      "description": "Twitch multistream lets you easily make a multistream of all your favorite twitch streamers",
+      "fullSummary": "Twitch Multistream will make a multistream from the Twitch.tv stream tabs you have open. You can also login with your Twitch account to get the streams you follow.\n\nThe multistream itself is provided by KBMOD a great website and community for gamers. This extension is not affiliated with Twitch.tv.",
+      "userCount": 4000,
+      "lastUpdate": "2020-05-23",
+      "helpUrl": "https://groups.google.com/forum/#!forum/twitch-multistream-extension",
+      "size": 146432,
+      "email": "johnreillymurray@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/JgDU2VU8JyEEARjYJwhNK1H5hrfxZOxCh7MHwXm0uA7yrnb69iu2sPC9ZHEX4VOyuCOeAJXJx05XQXt_jLIexFCsrQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/fPmB4phSFrNncZ_0ALz-8OvDTFeEIErIMJA01hRrA3Dk7xg-4D2kPPaJ7yTURt-9PsAHHzPuI8D_8FMotQkC2QI5dmI"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Bj_E_Qmp3LvqQ8hxY20BY8AU86ZkLanahK8cbC-JqdWpJblfgL6GaynxFvZSZwj3Z2HOjrgHaxTsdmOYU22g8K8iOA"
+        }
+      ],
+      "numScreenshots": 3,
+      "smallBanner": "https://lh3.googleusercontent.com/B0r4xVA5KGChVuzxqzvI2Vr9_ffjSsyYWE52-DGL28KesNe8XCH7u1N-sFp46gUrJeUgQuDXl6yGTuhjrSoBXEWh",
+      "ratingValue": 4.16,
+      "ratingCount": 25,
+      "permissions": [
+        "storage",
+        "tabs",
+        "identity",
+        "http://kbmod.com/multistream/*",
+        "https://api.twitch.tv/*",
+        "http://twitch.tv/*"
+      ],
+      "author": "jrmurray",
+      "related": [
+        "njpjlabehnoepgbbnnkokeadmcgmeoif",
+        "ejdopeebmefeldfgfnopoakgjahlpgki",
+        "jaebeaoffbboingfjbdkgbnnfdkjilld",
+        "nmogopjdbhhnbkiklkdahphkdpbjfine",
+        "mjnnjgpeccmgcobgegepeljeedilebif",
+        "dckidogeibljnigjfahibbdnagakkiol"
+      ],
+      "privacyCollections": [],
+      "riskScore": 2,
+      "riskImpact": 2,
+      "riskLikelihood": 1,
+      "creationDate": "2020-05-23",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/better-gdq/ejcaegeanpaohhmimojlgfipmdofmphh",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/G_-FY4xz5fkANCxEQzQbaAjUVpxCb7kCHbzkCJ8_lgVs94WgAkQyhD9eHO064K6vJmYLCTNa_W1-VP-sv02aCXlx9w",
+      "name": "Better *GDQ",
+      "id": "ejcaegeanpaohhmimojlgfipmdofmphh",
+      "version": "3.10.0",
+      "description": "Adds functionality and UI changes to improve the GDQ viewing experience on GamesDoneQuick.com and the GDQ Discord Web Client",
+      "fullSummary": "Features for GamesDoneQuick.com :\n\nAdds quick access to Video On Demand Twitch.tv and Youtube links for completed runs on the GDQ schedule page\n\nAdds a fixed footer to the website that displays:\n\n- Current run with links to the WR list on Speedrun.com and other leaderboards\n- Links to the current runner or runners' Twitch.tv page\n- Schedule of the next 1 to 5 speedruns at the click of a button\n\n\n\nGDQ Discord Web Client Features:\n\nAdds a Twitch like Theater Mode with embedded Twitch Player and Discord Chat\n\nAdds a fixed Header to the GDQ Discord Channel website that displays:\n\n- Current run with links to the WR list on Speedrun.com and other leaderboards\n- Links to the current runner or runners' Twitch.tv page\n- Schedule of the next 1 to 5 speedruns at the click of a button",
+      "userCount": 363,
+      "lastUpdate": "2024-01-17",
+      "size": 546816,
+      "email": "theoriginalcamper@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/social",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/bZjTVUMc2k_CoPsaoslyfqZclX12RoZd8rzMDmSGfoDleOFr3yrUmZ5yM2Hj1YXSbI6Qao4ilQjjxjIn5o4yd0_U4g"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/LqvWm_hH9C7GalQ3G7HtQ3p4C6-y7kqRgjgABOR9ovEzzHayfV8XxcM0nA4feBMwaw9cAa_JKD9khBurQGIkSILv-cM"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/VaxPbhJ9l2RcRBYpBbLqFgVbF4w4TMr9ZDZAli6TjIKL2qvK8srRA0CjJ73I6DpyaPJe34_bm5dw3bQxeCaHZHj2VA"
+        }
+      ],
+      "numScreenshots": 3,
+      "ratingValue": 5,
+      "ratingCount": 9,
+      "permissions": [
+        "tabs",
+        "storage",
+        "http://gamesdonequick.com/*",
+        "http://www.gamesdonequick.com/*",
+        "https://gamesdonequick.com/*",
+        "https://www.gamesdonequick.com/*",
+        "http://www.discordapp.com/*",
+        "https://www.discordapp.com/*",
+        "http://discordapp.com/*",
+        "https://discordapp.com/*",
+        "http://api.twitch.tv/channels/gamesdonequick",
+        "https://api.twitch.tv/channels/gamesdonequick"
+      ],
+      "author": "theoriginalcamper",
+      "related": [
+        "ioegnnjonphieiamlnmfaacafcdfbccm",
+        "mjhmfhgaeaemjkfjgkheafonfdgmkppb",
+        "bhplkbgoehhhddaoolmakpocnenplmhf",
+        "dneaehbmnbhcippjikoajpoabadpodje",
+        "aiimboljphncldaakcnapfolgnjonlea",
+        "ieedkdagklnonlhkdcgjagdlomhhjjij",
+        "ahlkfddfnnjnheplnojehikhhcjalhkj",
+        "nfjhhclkicfofjcjdpdkapbkmmmbnbpf",
+        "ckfejipjdkdjicjgecdgdacnomelbhii",
+        "iiljidcefnbhbpamageahhblhbbhhopm",
+        "anodkfdiihjelmiildneplomoklnjjgk",
+        "aalmjfpohaedoddkobnibokclgeefamn"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 3,
+      "riskImpact": 3,
+      "riskLikelihood": 2,
+      "creationDate": "2020-01-05",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/multistream-extension/njglhbamlnkijhmcpnphfjeboaddnend",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/u7rgJmobscrJ8RxCGvE1F7GQMFv9FRWP2_YJB8z2poNDmsOFvb9FyB4AUESWKzUHDMue5pp-qRGLQyn8DHV6I2QePQ",
+      "name": "MultiStream Extension",
+      "id": "njglhbamlnkijhmcpnphfjeboaddnend",
+      "version": "1.4",
+      "description": "Extension to quickly create and open a MultiStre.am URL when browsing TwitchTV.",
+      "fullSummary": "Chrome Extension for working with Twitch TV and https://multistre.am.\n\nThis tool is intended to provide a few shortcuts for those who still use the main Twitch TV website, but would like to quickly and easily switch to MultiStream with up to 6 channels via the Extension button popup.\n\nWhen entering channel names in the extension's popup, your entries will be saved to local storage. This will enable you to browse to multiple Twitch pages and click the '+' button to add that stream, while persisting your previous additions despite the popup disappearing.",
+      "userCount": 267,
+      "lastUpdate": "2024-02-03",
+      "size": 270336,
+      "email": "jeffdalley@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/EoGUugWn0DWXcnL3OAQGFySmoVLlJBbnybRoKQIKRY7rgRFgpHKOYvHfsGOWm10bvp0I3psYWuvscP6hz1AKVNmx0Vk"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/UWYJcwzAltO-GM1RW7JRW3BDPUH6jYpZC2rT3qigTj-CBmicPNSNpVgIW4Q4vnfkuwmr7IEHD5Iwi5Spqdy0ERAf"
+        }
+      ],
+      "numScreenshots": 2,
+      "ratingValue": 5,
+      "ratingCount": 3,
+      "permissions": [
+        "tabs",
+        "storage"
+      ],
+      "author": "jeffdalley",
+      "related": [
+        "hfgbofkndeplfbblcickldfgbfelakgj",
+        "nlnfdlcbnpafokhpjfffmoobbejpedgj",
+        "jbbmdehmiclndmeedcocofcjlpgjnmea",
+        "iponheakchfbncppicaaopbgobcpbiab",
+        "jpgnbiffpoelgpegopldffmpbmfdojga",
+        "flndfbcgdggjifijidpmepkgilcmhlng",
+        "omejdljcfhmldgkndfhoeogdjghlghek",
+        "bhplkbgoehhhddaoolmakpocnenplmhf",
+        "aggkaaocjganbkpebcifmphkiphajdel",
+        "mjaafpfnaeofaacnmkfdafldodlaomln",
+        "dbdlafkfklbnnfgigijdbbijdldkapcb",
+        "imcjibojeokeogfofjgaajlobobagbeg"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 2,
+      "riskLikelihood": 0,
+      "creationDate": "2017-10-10",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/twitch-bigger-font/heegoibfojikpcppkaodefonfpghflig",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/4gDaTdW7JEWZFY2VflEywila8WGTP8sJJggEOvkHaYMwYXiy1Ik1YVasRwW-xO3GMRhz56R9XLlvcBMAcnXqjj5r",
+      "name": "Twitch Bigger Font",
+      "id": "heegoibfojikpcppkaodefonfpghflig",
+      "version": "0.3",
+      "description": "Changes the twitch font to 16px (~115% bigger than default)",
+      "fullSummary": "Makes the font bigger, will help if you feel the font is too small, check the pictures for how it looks with the addon! :D\n\n----------------------------------------------------------------\n\n0.3 Update Note - Now info section of channels are also in bigger fonts!\n\n0.2 Update Note - Fixed extension to work with the new Twitch HTTPS update.\n\n----------------------------------------------------------------\n\n\nREPORT BUGS IN THE ADDON @sCop3SCouT ON twitter.com/sCop3SCouT",
+      "userCount": 98,
+      "lastUpdate": "2016-04-28",
+      "helpUrl": "http://twitter.com/sCop3SCouT",
+      "size": 7311,
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "lifestyle/social",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Awj1KSsWq8MDah5Hj9Wd0yBUmBeFw-eAU5J1jg-uWodRiZ2oCs0m6GwkmdU-wrXCm36FR2QBnoFPnBJO83kSto0g5g"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/OKobQXHkOzmbd3hyP2ZdSgl8kDKK5e32J6nTG1BhhBr7I_RQS9oCYinJLvKjO2cUZKHgN23qPQ5SMjrYsTqpE82w"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/CGHDLaH4_5WTg8SrQZ0Mr4weWvpYLlf_g5XxL_3KjmyQ5D64Hmx6cp-4BPbJwrpNKhU3o9DygHsiLJdw6L8M-1gv"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/D-a_vN-l2cG-OtHyXHfMeDWZJrvXIo9-U6oaQpe3hcZAe6VHbyr6nZN_Xln7WygcFnIvd8EwOC0Apk8es3OlFtkezg"
+        }
+      ],
+      "numScreenshots": 4,
+      "ratingValue": 3.75,
+      "ratingCount": 4,
+      "author": "https://www.scop3scout.webege.com",
+      "website": "https://www.scop3scout.webege.com",
+      "related": [
+        "jamhfhbppcmkgghlkeieococonlbppjg",
+        "flndfbcgdggjifijidpmepkgilcmhlng",
+        "mpajngnpcmjjeoflljdjpnehcfaldcia",
+        "galdhdhefbbcamfgciajdglbpenmnhel",
+        "hljghmclpohmbfjphfcjbhbacbdfglpl",
+        "ckihgechpahhpompcinglebkgcdgpkil",
+        "apnmaeokijedbbdbnbanjeooijcmldlf",
+        "jbbmdehmiclndmeedcocofcjlpgjnmea",
+        "ibgbiogjjahboaeffhcicimhgjmhnlcb",
+        "ombpcpigmndepfckcifdblemkabaoihk",
+        "bnnnfipeiohdakehimabifbahcgbinhd",
+        "bdabfmaodlcecidafckneiiaodjakoho"
+      ],
+      "privacyCollections": [],
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 2,
+      "creationDate": "2016-04-28",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/brick-game-race/eliicobplhgkhnlldnoicpbbndegjlaj",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/56M9sjvdE-QP_LkAn8ZUYtROWeWw1FTWtGHa6wEd4zBDg0vVlZoBzEmagrQwuvgqk3XFvkFrLD11kYiq60ad32r9XJM",
+      "name": "Brick game: race",
+      "id": "eliicobplhgkhnlldnoicpbbndegjlaj",
+      "version": "1.1",
+      "description": "Retro-version of game 'race' now in you browser!",
+      "fullSummary": "Waiting for downloading, processing something, e.t.c? Down with boring waiting, let's play at this time! \"Brick game: race\" now in your browser! Set high scores, choose visual styles and difficulty levels, and enjoy.",
+      "userCount": 81,
+      "lastUpdate": "2014-08-15",
+      "size": 107520,
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/WDb7yxWeVyVf27l3zyuT12089EbfulVPiSESRa8DjT1jIZZHAg19TKvE_7-vOZkmMhln1Ilz-wKXxeBgGYCyipxlHA"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Raw_fgOSgQD5C1OnqGMVxQJ-R_uQ7FWRyo8lVqrUDYQZ58PjF9W5Zd7UPVDziLsfcMYUiVvR_tjuv9WosM8KdueixQY"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/X7v8Yk9rfOgYTKf9ieGOtxwDIJBuSmrUidjIlYWUSMqK3aMJzojRBto7GqizhZM5bIgL7MA59JH7_B6id9XK-rA9"
+        }
+      ],
+      "numScreenshots": 3,
+      "ratingValue": 3.75,
+      "ratingCount": 4,
+      "author": "Unknown",
+      "related": [
+        "ichilidbeihmmcagpfngfijcfiphfiae",
+        "ogbjfaoljhhadaijpjaojepohlnipmlp",
+        "fabffkickmpmbkgikblicljlpnghknjd",
+        "licgjijkcdabjnhdhadlpepdigkjjigp",
+        "aihjpkojknmkmmpeceojgaeccoeeaddo",
+        "lhiejphphmighnkgobadgblanpajjpfe",
+        "phfhalhmobjblhoajagaeodhofnopcbm",
+        "fchfgdipjkemplanmpibkoefaoklahcc",
+        "cbdobfnjgnmlcajcamdfjeofmnecepdl",
+        "depjbcindpehnakoaonigpebgphbpang",
+        "ofnkhbghpfepphpopdkcgbloclnocfpb",
+        "lencaglpgihlglecbdkfhelldkbdholc"
+      ],
+      "privacyCollections": [],
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 1,
+      "creationDate": "2014-08-15",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/twitch-chat-strawpoll-hel/apnmaeokijedbbdbnbanjeooijcmldlf",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/ALxx7D_e5gWxqW2ah8HYqmmqUvdB8QpM-akuIlILXYygb5jZi_1F81fD-GhE6lWtOKIztFyUlrEbkDtfwwC4XcfBWQ",
+      "name": "Twitch Chat Strawpoll Helper",
+      "id": "apnmaeokijedbbdbnbanjeooijcmldlf",
+      "version": "1.12",
+      "description": "Reformats Twitch chat messages that include links to strawpoll.me.",
+      "fullSummary": "This extension has 2 primary functions: \n\nFirst, it replaces the links to Strawpoll in the chat from, for example, \"http://strawpoll.me/1234567\" to a customizable, easily-readable link, such as \"Strawpoll 1234567: Do you like the New Group Qualifying?\"\n\nSecond, it replaces all links from the screamer website \"Strawpoii\" to their respective Strawpoll.me URLs.\n\nEmail me at popcorncolonel@gmail.com for bug reports, suggestions, complaints, etc.\n\nVersion 1.1: Initial release!\nVersion 1.11: Fixed a bug where it would treat \"http://strawpoll.me/10http://strawpoll.me/10\" as a valid Strawpoll link.\n\nP.S. An option I am considering adding is to vote for a Strawpoll via chat with a command like \"/vote <strawpoll_id> <option>\". Would that be useful?\n\nhttps://github.com/popcorncolonel/Chrome-Extensions/tree/master/Twitch%20Chat%20Strawpoll%20Helper",
+      "userCount": 119,
+      "lastUpdate": "2015-10-16",
+      "size": 14572,
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Xy2Yg8WSroVOUi_-uuL6d-FiuCSeCE-ce-wwe-vr8wt0-WXDPeHbSXgC74E8XyMRCyvgMffSU9PIc3En6fvevsXnrA"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/MrOUwc_JEyFNiUwfgGNTTNTwK89uQS4bMfAbLz0W5ZC5Log8h5GgPA-LqJnJVDi3DyQstnjfv1nXKJDRv0BNda67zCs"
+        }
+      ],
+      "numScreenshots": 2,
+      "ratingValue": 4.75,
+      "ratingCount": 4,
+      "permissions": [
+        "storage",
+        "https://*.twitch.tv/*",
+        "http://*.twitch.tv/*"
+      ],
+      "author": "EBCM",
+      "related": [
+        "heegoibfojikpcppkaodefonfpghflig",
+        "iiljidcefnbhbpamageahhblhbbhhopm",
+        "gfjfndigkjbiabgckjpngijjdkmebeje",
+        "flndfbcgdggjifijidpmepkgilcmhlng",
+        "bdabfmaodlcecidafckneiiaodjakoho",
+        "ibgbiogjjahboaeffhcicimhgjmhnlcb",
+        "ddmlenakhhdmkkefdemfpakafhmkiidp",
+        "ioegnnjonphieiamlnmfaacafcdfbccm",
+        "eiehpdffmelfdfjpmicbacjancjlojho",
+        "keojkpedpfobepecfbdimdcaibpacdfi",
+        "oldjkdacdpbnpcmciodogcmmadekenhi",
+        "mjaafpfnaeofaacnmkfdafldodlaomln"
+      ],
+      "privacyCollections": [],
+      "riskScore": 2,
+      "riskImpact": 2,
+      "riskLikelihood": 1,
+      "creationDate": "2015-10-16",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/srl-race-viewer/eledncnfcolfphehklgdabnideaihdal",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/GcgWzXL4R-axvDyzgGbzyugk09QIrJHcXp07HFGp0RN89m2eXDDqgFt11pRC3vE4CX2R7KtYTRndOByRkDeNWZZR",
+      "name": "SRL Race Viewer",
+      "id": "eledncnfcolfphehklgdabnideaihdal",
+      "version": "0.8",
+      "description": "See which SRL races are ongoing",
+      "fullSummary": "Allows you to see what SpeedRunsLive races are happening right now.  Also allows you to change which games you want to see races for.",
+      "userCount": 12,
+      "lastUpdate": "2016-02-06",
+      "size": 119808,
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/10aIQcgh1UaV5ZIo2oK_oQvgQi3TRWzZ4WHvFNCvyJLrfS-JN2Wx_hRxITZIXQY3E1ERx7mmwPv079Qpw72hiL5M"
+        }
+      ],
+      "numScreenshots": 1,
+      "permissions": [
+        "activeTab",
+        "alarms",
+        "storage",
+        "notifications"
+      ],
+      "author": "prettybigjoe",
+      "related": [
+        "okpdlocciaboobfpnegpnccopnhcggle",
+        "fmmimibhknnhanbaajdamcaopijhgolj",
+        "eliicobplhgkhnlldnoicpbbndegjlaj",
+        "dbpaabddcninimgpkifpingoidmbfoeh",
+        "hcdhoafhkcckclknfekmpbnpgcgfeplj",
+        "mjkmlbbjdcjfkhpblgpieeijogkolpbp",
+        "ocnjohieaglmmhgkebkblnjagmmkafgj",
+        "pghinhafmfkegplogdjljibiflnhlafg",
+        "cjifhklkkkjmnijmkkpbnpnfolpamflo",
+        "ijgbachgpjabdghaghpngjhkmimojodg",
+        "fihalkgodjebfdjjhbhiijfjjilpahbl",
+        "ichilidbeihmmcagpfngfijcfiphfiae"
+      ],
+      "privacyCollections": [],
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2016-02-06",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/the-ffz-add-on-pack/aiimboljphncldaakcnapfolgnjonlea",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/eBAxt81K5KPY4rxk8ZUUguTWiuUFYYqSpgKDejYq47d3Bzi4so4KlU3tQDoZpq97oXFohjOj-6A695bo3HX3308eplY",
+      "name": "The FFZ Add-On Pack",
+      "id": "aiimboljphncldaakcnapfolgnjonlea",
+      "version": "3.1.2",
+      "description": "A combination of add-ons for the Twitch extension \"FrankerFaceZ\"",
+      "fullSummary": "We hereby present our newest invention in browser extension technology:\nThe FrankerFaceZ Add-On Pack!\n\nFormerly known as \"BetterTTV Emotes for FrankerFaceZ\", this extension is aiming to be more modular and thus support not just BTTV but also other services easily.\n\nAs of version 2.0.0 it supports BetterTTV emotes in a better way than BTTV4FFZ could have ever done.\nIf you only use BetterTTV for the emotes, there is no need to anymore if you have The FFZ Add-On Pack installed.\n\nStay tuned for more addons in the future!\n\n(FrankerFaceZ is required for this extension to function)",
+      "userCount": 100000,
+      "lastUpdate": "2021-05-26",
+      "helpUrl": "https://ffzap.com/",
+      "size": 34007,
+      "email": "chrome@lordmau5.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/NdZ75kUmVPM-jnh9cBZ0JiyKXl-ui9OHvaf2AveVY8h81_4X0JKnpG4qy6s-PDVQghpCPHFVAAC5i_I_dr0arfevRw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/pyGNbWXoAm8uIPnLMor6iruN3v71Ua_umWGANmB_YZvgZL7u_8cPqXUQgDsYjv5ecARggjKfm8cvd8e_bvlrCyslgA"
+        }
+      ],
+      "numScreenshots": 2,
+      "ratingValue": 4.566037735849057,
+      "ratingCount": 159,
+      "author": "Lordmau5",
+      "related": [
+        "dpjloclnedokpfjlolaebpbaclbdigon",
+        "ammjkodgmmoknidbanneddgankgfejfh",
+        "cmfeooimdhjkcoiohoodihbccehncajo",
+        "fadndhdgpmmaapbmfcknlfgcflmmmieb",
+        "bmobkojilggkdhfginkfilecnbnkngha",
+        "ajopnjidmegmdimjlfnijceegpefgped",
+        "pgniedifoejifjkndekolimjeclnokkb",
+        "omkhcojfbdmammghnnhhnbfcedllekbf",
+        "nonbdfmekapigdafeajhmhbkbnfibfhg",
+        "gghfcijjckogopngfdlmbfonadjkkoil",
+        "jdkdfpbdfepbjjkcgpbicgffajbbmjin",
+        "ilhmkkocekbajiikponcokjdabiipecj"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 0,
+      "creationDate": "2018-02-08",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/twitch-live/iiljidcefnbhbpamageahhblhbbhhopm",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/-rjU2t6-P87agH3sj8Wvt6FeWnkpPKX768A5kNxTLaVNj9lSFENYh8PjHAcUyR8gW-FT41H_DqKRVu8HrxUyHoiktA",
+      "name": "Twitch Live",
+      "id": "iiljidcefnbhbpamageahhblhbbhhopm",
+      "version": "2.0.2",
+      "description": "Twitch TV extension for displaying a user's favorite channels which are currently live.",
+      "fullSummary": "Twitch Live\n\nTwitch TV extension for displaying a user's favorite channels which are currently live.\n\nNOTE: Version 2.0.1 is a beta. Please report any issues.\n\nTwitch Live is a browser extension for Google Chrome that makes it easy to check which of your favorite Twitch.tv channels are currently live. You can also configure the extension to send you a notification when one of your favorite streams goes online.\n\nExtension was developed by Mike Chambers. Design by Ben Griffith.\n\nOnce the extension has been installed it will place a small monitor / TV icon on the top right of your browser window. NOTE YOU MUST NOW PIN THE EXTENSION IN CHROME IN ORDER TO SEE THE ICON. Open the options tab by right clicking the icon, and selecting options. Once the options tab is open, enter your Twitch.tv user name, and click save.\n\nYou can then view which of your favorite Twitch.tv streams are online by clicking the Twitch Live icon in the browser window.\n\nThis extension was originally part of the JTV Live extension for Justin.tv but has been split off into its own extension.\n\nRelease History\n\n2.0.2 BETA (3.7.22)\n    * Fixed issue with login not working\n\n2.0.1 BETA (3.6.22)\n    * Updated to work with new Twitch APIs\n    * Extension now requires login\n    * Major refactor. Please report any issues\n    * Removed VOD filtering (no longer supported by Twitch API)\n    * No longer show notifications on new streams (simplifying extension to make easier to maintain)\n\n1.90 (10.21.2020)\n    * Format viewer counts to be easier to read.\n\n1.89 (10.2.2020)\n    * Fixed an issue that caused duplicate stream entries (due to Twitch API bug).\n\n1.88 (9.20.2020)\n    * Fixed an issue that prevented user name from being stored on new installs (dues to Twitch API change).\n\n1.87 (7.28.2019)\n    * Fixed a bug where data would not be loaded automatically when entering account name.\n    * Added an about page, which can be accessed by right clicking on the extension icon.\n\n1.86 (7.28.2019)\n    * Fixed bug where data wouldnt load unless you resaved settings.\n\n1.85 (7.28.2019)\n    * Pretty big code updated and refactoring\n    * Updated Twitch API to v5\n    * Mousing over a stream will show a tool tip with current stream title\n    * Can now click Twitch Live text at top of window to go to main twitch page\n\n0.98 (7.23.2018)\n    * Fixed issue when clicking game titles that contained a single quote in their name. (thanks JS for reporting)\n\n0.97 (4.12.2018)\n    * Fixed issue where extension would not work for some users (due to bug in Twitch API). Thanks LurkinLurker for the help in tracking down.\n\n0.96 (4.02.2018)\n    * Fixed issue where vodcasts were not recognized\n\n0.95 (8.28.2017)\n    * Added option to not display vodcasts\n    * Vodcasts are displayed in a lighter grey\n    * Removed request for \"tabs\" permissions (no longer needed)\n\n0.94 (5.31.2017)\n    * Fixed issue with Twitch API change that prevented all live streams from displaying.\n\n0.93 (1.6.2017)\n    * Fixed issue with Twitch API change that limited results to 25 streams.\n\n0.92 (9.15.2016)\n    * Added client_id to API requests to twitch to fix bug that broke extension.\n\n0.91 (2.15.2014)\n    * Added option to open stream in a popout window.\n\n0.90 (10.02.2013)\n    * Rewrote Notification support.\n    * Notifications now require Google Chrome 28 or higher.\n    * Notifications now automatically close after 7 seconds.\n\n0.89 (08.21.2013)\n    * Section / game titles are now clickable. Clicking will open a new tab pointing to the Twitch.tv page for the game.\n\n0.88 (07.08.2013)\n    * General stability improvements when working with Twitch TV API.\n\n0.87 (06.17.2013)\n    * Fixed an issue where clicking on a channel would not work if previous api call had failed.\n    * Some minor user interface tweaks.\n    * Some minor code optimizations.\n\n0.86 (06.06.2013)\n    * Fixed issue where wrong results are returned if user is not following any channels.\n\n0.85 (06.06.2013)\n    * Initial Release.",
+      "userCount": 20000,
+      "lastUpdate": "2022-03-09",
+      "helpUrl": "http://www.mikechambers.com/blog/2011/07/06/jtv-live-a-google-chrome-extension-for-justin-tv/",
+      "size": 58778,
+      "email": "mikechambers@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/social",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/GWhTQAPgiFmcrHUnoyuzXKgD9MR9P_FLitDDX5ntx5_tDzpQggaTGEHBvnqDIWyL9UMkgzVvA9FwDzL_chJyyOYMFi8"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 4.340782122905028,
+      "ratingCount": 537,
+      "permissions": [
+        "*://*.twitch.tv/*",
+        "contextMenus",
+        "identity"
+      ],
+      "author": "mikechambers",
+      "related": [
+        "nlnfdlcbnpafokhpjfffmoobbejpedgj",
+        "imcjibojeokeogfofjgaajlobobagbeg",
+        "cfdokgjlnihoblidldhdomakblbaegim",
+        "aalmjfpohaedoddkobnibokclgeefamn",
+        "alnogebjhegkdafjdmnildbdocoobbnh",
+        "dbdlafkfklbnnfgigijdbbijdldkapcb",
+        "lpkgicfflpkdinhalebfjlonfhehnpem",
+        "bhplkbgoehhhddaoolmakpocnenplmhf",
+        "pgniedifoejifjkndekolimjeclnokkb",
+        "mjaafpfnaeofaacnmkfdafldodlaomln",
+        "aggkaaocjganbkpebcifmphkiphajdel",
+        "bgkogmcpidbbckddheecaheippeabpnf"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 0,
+      "creationDate": "2019-07-28",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/multi-twitch-extension/jpgnbiffpoelgpegopldffmpbmfdojga",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/Lst-KIos3rHoat9bTSuKvS40zT87m7EiiktYGR88Dzjkx0tczodI7eW55fseVlZiTUwx3ygpmvMOVygfAgVwH4nq9pI",
+      "name": "Multi Twitch Extension",
+      "id": "jpgnbiffpoelgpegopldffmpbmfdojga",
+      "version": "3.2.0",
+      "description": "Chrome Extension who allow you to easely follow when your streamers goes live.",
+      "fullSummary": "A Chrome extension that allows you to easely know when your favorite streamers are live.\nWith this chrome extension you can also manage your favorite streamers on Twitch.tv.\nYou will be notified when a streamer is live. \nYou can easely add streamers through the option page or directly using the 'Add the current channel' button.\nThe 'Launch the multi twitch' button allow you to create a multitwitch page with the online streamers you have selected on the extension.",
+      "userCount": 929,
+      "lastUpdate": "2021-02-03",
+      "helpUrl": "https://twitter.com/Lupusanghrenn",
+      "size": 705536,
+      "email": "brisingr34130@gmail.com",
+      "supportedLanguages": [
+        "en",
+        "fr"
+      ],
+      "category": "make_chrome_yours/accessibility",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/xd9nWRurVstk9dT25wVFNBVv8eF5yrJkrXM6xV2oCFhG0bqXqHFom8LFjehb1EAFfzuxn232NSY9xMngpKsfIFsnxQ"
+        }
+      ],
+      "numScreenshots": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/9IemqgKLZiIHzN7_AYP4aSSH3hMSR6xGEmXOfSaGww0h76SbqP5OPQDpuzEwe3-gHABG0PcdsA",
+      "ratingValue": 5,
+      "ratingCount": 2,
+      "permissions": [
+        "https://api.twitch.tv/helix/streams/",
+        "https://static-cdn.jtvnw.net/jtv_user_pictures/",
+        "notifications",
+        "tabs"
+      ],
+      "author": "Lupusanghren",
+      "related": [
+        "elfdpkmfllnhhgnicaaeacbilcallpbd",
+        "nlnfdlcbnpafokhpjfffmoobbejpedgj",
+        "ablhocackcgobgcndbibfkjnmpdnmbpa",
+        "mgmagaekfiflfamjkogchapgmhfbkmnh",
+        "fnbobniaggkdclhfekhoajnpnbdaldbf",
+        "jaebeaoffbboingfjbdkgbnnfdkjilld",
+        "oifmahnepecgegpdiomjikkmfmnlbdjo",
+        "dlnjcbkmomenmieechnmgglgcljhoepd"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "localizedDataPointer": {
+        "fr": "20231004"
+      },
+      "riskScore": 2,
+      "riskImpact": 2,
+      "riskLikelihood": 1,
+      "creationDate": "2020-05-20",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/twitch-plays-pokemon-chat/dgjogmjpmldlanhjlggeibkoajnlmeen",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/siuARfGXqfjmlWDd46ywGPkd3uoM44S28IiucKLOnqswETDS40fSJzq5_PF09H9CJAyykP6Tkz-yPwCVre_vMTEp",
+      "name": "Twitch Plays Pokemon Chat Fix",
+      "id": "dgjogmjpmldlanhjlggeibkoajnlmeen",
+      "version": "1.1.16",
+      "description": "Removes seeing other user's commands in chat, so that you can actually see what matters",
+      "fullSummary": "This extension hides messages that are commands, so that you may read actual messages in the chat at: http://www.twitch.tv/twitchplayspokemon",
+      "userCount": 321,
+      "lastUpdate": "2014-02-18",
+      "size": 57958,
+      "email": "staff@reditr.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/LuHCOnhSi9HG_5hi3HYgEKz5paeQ96ZX11Ay6SdSg9V8YnD1XM32iJxjcrfTO23UpIPiGSNJkycfQNnIGLvrT6gu2YU"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 3.696969696969697,
+      "ratingCount": 33,
+      "permissions": [],
+      "author": "Reditr Software",
+      "related": [
+        "ihceabbceaenalnjjnclodbheifiocai",
+        "ffklcjpfiebfalmeoinanhleefmgmfnc",
+        "badgmddlemdcnjffifhmamanjibggghe",
+        "anibillhfplobgbcngoamkfmpjgcghff",
+        "dhbmiekfpeonammafmjlikbljmlobggb",
+        "hedpcboianohjgdhoblpcpgapknkoojm",
+        "ddgcohekjighkfgkhcpdinbifogpaglg",
+        "gonmdfngfjcldfoejpnmkeaggpnbpmlp",
+        "apmlngnhgbnjpajelfkmabhkfapgnoai",
+        "ichilidbeihmmcagpfngfijcfiphfiae",
+        "iiljidcefnbhbpamageahhblhbbhhopm",
+        "adcbggkgllkljeliabhgmmkmpebhdbno"
+      ],
+      "privacyCollections": [],
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2014-02-18",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/quickstreamer/ioegnnjonphieiamlnmfaacafcdfbccm",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/okE3kSnc6Uf_Y3i6Rx2iVXO3i-v9VjxLVTQeFgK8dfwmzZqMby6CdU70R5kAjRQqMQjFbckBBJ0S6b5iHC_MRap5TjY",
+      "name": "QuickStreamer",
+      "id": "ioegnnjonphieiamlnmfaacafcdfbccm",
+      "version": "0.4.2",
+      "description": "livestreamer GUI. Quickly view Twitch streams, Youtube videos... with livestreamer from your browser.",
+      "fullSummary": "---- IMPORTANT NOTE ----\nThis extension uses Chrome's native messaging API, so you need to install this extension and a native messaging host, or it won't work.\n\nPlease follow the installation instruction at http://quickstreamer.codekiem.com before using\n------------------------\n\nQuickStreamer is an extension that allows you to run livestreamer from your browser, without having to use the terminal.\n\nTested on Windows 7 & Mac OS X, Chrome 37.0\n\nSUPPORTED SITES\n- youtube.com & gaming.youtube.com\n- twitch.tv\n- hitbox.tv\n- azubu.tv\n- mlg.tv\n- crunchyroll.com\n- ...\nMore sites will be supported in future versions\n\nCHANGELOGS\n\n0.4.2: 2015/12/24\n- Add support for Crunchyroll.com\n- Allow other extensions to open livestreamer using QuickStreamer. Soon you\u2019ll be able to do this in Twitch Now.\n\n0.4.1: 2015/11/02\n- Add support for Azubu.tv and MLG.tv\n- Reverse the quality list. Now it sorts from best to worst.\n\n0.4: 2015/07/25\n- New host app version. Mac users don't have to open Chrome in Terminal anymore. Yay!\n- Rewrite many lines of code. Now it's easier to add more sites.\n- Add support for Youtube.\n- Add \"Open chat popup\" for Twitch.\n- Remove unnecessary permissions.\n\n0.3: 2014/12/13\n- Update for Twitch API change\n\n0.2: 2014/08/31\n- Update the host app\n- Optimize memory usage\n- Add QuickStreamer into context menu\n\n0.1: 2014/08/29\n- First version",
+      "userCount": 1000,
+      "lastUpdate": "2015-12-24",
+      "size": 63662,
+      "email": "redphoenix89@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Srv-PmJToGbxO39yeC8SBqtq21kHyVZB7vbPN-1cCBwIg28qEZ0lDgDt3012NJATSH9LoIG65jlyuXVZjCDo2pnWNw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/uKN0C8s_XDKOC80UJ4E8yyqTBgOqXL4sg-VpYjOziylGv2RXCTWVggX58koCP0tuKzYDHQGgiKiYzzb4PRWeRiVJxBo"
+        }
+      ],
+      "numScreenshots": 2,
+      "ratingValue": 4.291666666666667,
+      "ratingCount": 48,
+      "permissions": [
+        "nativeMessaging",
+        "contextMenus"
+      ],
+      "author": "https://codekiem.com",
+      "website": "https://codekiem.com",
+      "related": [
+        "ioimlbgefgadofblnajllknopjboejda",
+        "hkhihfjmjgledkdhmlohldmpnolcoabm",
+        "elfdpkmfllnhhgnicaaeacbilcallpbd",
+        "ebfclgdnkobkhicjjocfhokjejfcgiph",
+        "ojnikmlgjpfiogeijjkpeakbedjhjcch",
+        "leidjgpcaiceoeebkdjfcaeboidcjiea",
+        "mikcekmbahpbehdpakenaknkkedeonhf",
+        "jaebeaoffbboingfjbdkgbnnfdkjilld",
+        "ablhocackcgobgcndbibfkjnmpdnmbpa",
+        "bgfalbljifeicggidnbkdicbkhboggmg",
+        "djgpofjaioiokpfmedpbhdiinplkmkbb",
+        "gkkmiofalnjagdcjheckamobghglpdpm"
+      ],
+      "privacyCollections": [],
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 2,
+      "creationDate": "2015-12-24",
+      "fetchId": "20240527"
+    }
+  ],
+  "crossPlatformData": {},
+  "score": {
+    "userCount": 10,
+    "ratingValue": 90,
+    "ratingCount": 10,
+    "size": 60,
+    "lastUpdate": 0,
+    "permission": 85
+  },
+  "allRanks": [
+    {
+      "label": "Overall",
+      "key": "overall-rank",
+      "value": 58024,
+      "path": "/top?page=2321&date=2024-05-27"
+    },
+    {
+      "label": "Accessibility",
+      "type": "cat",
+      "key": "cat-make_chrome_yours/accessibility-rank",
+      "value": 5288,
+      "path": "/c/make_chrome_yours%2Faccessibility?page=212&date=2024-05-27"
+    },
+    {
+      "label": "goal",
+      "type": "keyword",
+      "key": "keyword-goal-rank",
+      "value": 67,
+      "path": "/keyword/goal?page=3&date=2024-05-27",
+      "difficulty": 8.668948888888888
+    }
+  ],
+  "oneWeekAgoRanks": [
+    {
+      "label": "Overall",
+      "key": "overall-rank",
+      "value": 56660,
+      "path": "/top?page=2267&date=2024-05-27"
+    },
+    {
+      "label": "Accessibility",
+      "type": "cat",
+      "key": "cat-make_chrome_yours/accessibility-rank",
+      "value": 5254,
+      "path": "/c/make_chrome_yours%2Faccessibility?page=211&date=2024-05-27"
+    },
+    {
+      "label": "goal",
+      "type": "keyword",
+      "key": "keyword-goal-rank",
+      "value": 68,
+      "path": "/keyword/goal?page=3&date=2024-05-27",
+      "difficulty": 8.668948888888888
+    }
+  ],
+  "alternateNames": [],
+  "asOfDate": "2024-05-27",
+  "risk": {
+    "permissions": [
+      "permission-content-scripts"
+    ],
+    "specificHosts": [
+      "*.twitch.tv"
+    ],
+    "authorUrlIsInvalid": false,
+    "abnormalRatingTrend": null,
+    "abnormalUserTrend": null,
+    "knownMalware": null,
+    "knownBadReview": null,
+    "riskScore": 2,
+    "permissionScore": 75,
+    "allPermissions": [
+      {
+        "key": "permission-content-scripts",
+        "risk": 15
+      }
+    ],
+    "riskImpact": 2,
+    "riskLikelihood": 1,
+    "daysSinceLastUpdate": 3406,
+    "daysSinceCreation": 3406
+  },
+  "manifestJson": "{\r\n   \"author\": \"twitch.tv/zas_\",\r\n   \"content_scripts\": [ {\r\n      \"exclude_globs\": [  ],\r\n      \"exclude_matches\": [  ],\r\n      \"include_globs\": [ \"*twitch.tv/*\" ],\r\n      \"js\": [ \"212900.user.js\" ],\r\n      \"matches\": [ \"http://*.twitch.tv/*\" ],\r\n      \"run_at\": \"document_idle\"\r\n   } ],\r\n   \"converted_from_user_script\": true,\r\n   \"description\": \"SRL Race functions for twitch pages\",\r\n   \"icons\": {\r\n      \"128\": \"icon.png\",\r\n      \"16\": \"icon16.png\",\r\n      \"48\": \"icon48.png\"\r\n   },\r\n   \"key\": \"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAii8AoqzSlUBZh1xJXdaleJKmutd/B8NHG74PJVm4272R31UKvbYu6gMRn/s39XPC9QKO5cAZt+VKaj912IQSugPPRasisQNfKfAZypdxy0TFWFaelv7qMNQiDdWohXQdpmV57sfYIAn2rIDkuEO9EzwxKY0MnygCess3Y6Pk7gN8G/NyrhTgx0GcxQk0z6txut07HOnhjWDUUmNxPzbyGyz/mwzUjr2SqMA2o+FR9M+QWzxcYI+qAikPppGOjoSLta1yrhVBBH4L2rCZcxdvgklQAaXEkeIisfyXZXNxvhVGbktyfVdcK/p+8dQtvPD7h8kX1pxDvkE1itf8jBZMXQIDAQAB\",\r\n   \"manifest_version\": 2,\r\n   \"name\": \"SRL Races on Twitch\",\r\n   \"permissions\": [ \"http://*.twitch.tv/*\" ],\r\n   \"short_name\": \"Twitch SRL\",\r\n   \"update_url\": \"https://clients2.google.com/service/update2/crx\",\r\n   \"version\": \"3.1.1\"\r\n}",
+  "manifestSummary": {
+    "meta_version": 2,
+    "manifest_version": 2,
+    "has_content_scripts": true,
+    "permissions": [
+      "http://*.twitch.tv/*"
+    ]
+  },
+  "isDownloadBlocked": false,
+  "minAsOfDate": "2024-05-19",
+  "maxAsOfDate": "2024-05-27"
+}

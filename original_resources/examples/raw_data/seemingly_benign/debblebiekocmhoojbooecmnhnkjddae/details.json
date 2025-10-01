@@ -1,0 +1,894 @@
+{
+  "url": "https://chromewebstore.google.com/detail/neuralsearchx/debblebiekocmhoojbooecmnhnkjddae",
+  "paymentType": "free",
+  "logo": "https://lh3.googleusercontent.com/WwAg5UrUPk_BSq5rZKrxBwPXcDRGHd98w6yMYHnQkYjMtqP-Pct4JcUWtwkLqyL3M3DauKd5-kaikGo-ypmCzMCDrw",
+  "name": "NeuralSearchX",
+  "id": "debblebiekocmhoojbooecmnhnkjddae",
+  "version": "1.0",
+  "description": "NeuralSearchX is a search engine that allows you to search for information on the web using state-of-the-art artificial intelligence",
+  "fullSummary": "NeuralSearchX is a search engine that allows you to search for information on the web using state-of-the-art artificial intelligence. It also provides a summary of the results and evidence supporting the answer.",
+  "userCount": 14,
+  "lastUpdate": "2022-11-14",
+  "helpUrl": "https://neuralmind.ai/contato",
+  "size": 78981,
+  "email": "neuralmind.app@gmail.com",
+  "supportedLanguages": [
+    "en"
+  ],
+  "category": "productivity/tools",
+  "itemCategory": "extension",
+  "media": [
+    {
+      "screenshot": "https://lh3.googleusercontent.com/gdXtXklZxZJbArXDEImz1fTSswKsOHaDftHnmifyZe2XoGj2Yy_hj8d2xrixvfdXEU2DEXUtr9Gg_HJr4EKMe4x-Hg"
+    }
+  ],
+  "numScreenshots": 1,
+  "smallBanner": "https://lh3.googleusercontent.com/9FffOBDgUxNe8pwT6Er1W78e3GCNB_Bbm6mX4wJAmGECVll2MEFFK9baETSQihZx5TqROYANHU75qegXTgzvcBdmng",
+  "ratingValue": 5,
+  "ratingCount": 1,
+  "author": "neuralmind.app",
+  "related": [
+    "enofjgiadilpmldfknojklfjbeaooiap",
+    "joebmmcibmhbakimolgmcfbjlmjfbkag",
+    "hmbgmokpddhjjncclckdfnolbhfjnoam",
+    "fbkojfmgglelmhepbajcpkonjabpobbc",
+    "lnihadedihilhjcbnimcobnppdlldocm",
+    "kplfenefaakjhjkklghidleljeocgdap",
+    "hnphnkkifmncgdfijaeboaonofafdopf",
+    "bnaffjbjpgiagpondjlnneblepbdchol",
+    "kejpbbehabekboaiagdmljaclbiafdpi",
+    "plfnpfcnlnijmckecpkljbjafdieceml",
+    "mokpcamkabgckoegmpcdfflmkphbmpkc",
+    "gopekdefbcehhdiejdiaijhojgbepgec"
+  ],
+  "privacyCollections": [],
+  "disclosePrivacyCollection": true,
+  "riskScore": 0,
+  "riskImpact": 0,
+  "riskLikelihood": 1,
+  "creationDate": "2022-11-14",
+  "fetchId": "20240527",
+  "oneWeekDelta": {
+    "userCount": 1,
+    "ratingValue": 0,
+    "ratingCount": 0
+  },
+  "oneDayDelta": {
+    "userCount": 0,
+    "ratingValue": 0,
+    "ratingCount": 0
+  },
+  "ranking": [
+    {
+      "ts": "20240527",
+      "value": {
+        "overall-rank": 102583,
+        "extension-rank": 79513,
+        "cat-productivity/tools-rank": 5694
+      }
+    }
+  ],
+  "reviews": [],
+  "metaTitle": "NeuralSearchX: AI-powered Web Search",
+  "metaDescription": "NeuralSearchX is a powerful Chrome extension that uses state-of-the-art artificial intelligence to provide accurate web search results and evidence supporting the answers.",
+  "metaSummary": "NeuralSearchX is a Chrome extension that leverages advanced artificial intelligence to deliver precise web search results. It offers a summary of the findings and supporting evidence, enhancing user experience and efficiency.",
+  "downloads": {
+    "enabled": true,
+    "zipUrl": "/api/download?id=debblebiekocmhoojbooecmnhnkjddae&type=ZIP&version=1.0",
+    "crxUrl": "/api/download?id=debblebiekocmhoojbooecmnhnkjddae&type=CRX&version=1.0"
+  },
+  "alternatives": [
+    {
+      "url": "https://chromewebstore.google.com/detail/all-in-one-web-searcher/enofjgiadilpmldfknojklfjbeaooiap",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/5bAoBDMOfd6XpqrpyqT_XkYBXoMC4nijcYz6LCw1XZ8mE7pLx8ruSmCiBdV-s26phV3mFGhMobcIXmmoDs9w3pVuNQ",
+      "name": "All in one web searcher",
+      "id": "enofjgiadilpmldfknojklfjbeaooiap",
+      "version": "5.0",
+      "description": "Search anything on the internet easily by typing into ONE unified search box",
+      "fullSummary": "All in one web searcher allows to search any website easily by typing in one search box.\nAll in one web searcher is a simple yet powerful extension to search multiple sites with ZERO click. Add sites to search, customize the order and search anywhere quickly.\n\nUSING THE EXTENSION\n----------------------------------\n - Click the extension icon, simply hover over the search tabs and type the search term.\n - Press enter to search the keyword in the selected search engine.\n - Press \"tab\" or \"alt\" keys to cycle through tabs if needed.\n - Add custom search engine sites as you need.\n - Simple and quick way to search any page without a click !\n\nFEATURES\n---------------\n  - Simple and fast UI for quick searches\n  - Add multiple search sites easily and customize the order.\n  - Add sub search sites like \"Images\" search, \"Map\" search etc. for easy search.\n  - Keyboard shortcuts to cycle through the tabs.\n  - Custom/Automatic icons for the tabs can be used.\n  - No unwanted background process and memory. Light and fast extension.\n  - Available in two themes\n  - Text free extension and hence multilingual\n\nDEFAULT SEARCH ENGINES\n---------------------------------------\nAll popular search engines like Google, Bing, Wikipedia, DuckDuckGo are available out of the box. You can customize and add any search engine you want to this list with \"sub search\" engines like searching images, books, news etc. as needed.\n\nPRIVACY\n--------------\nAll in one web searcher extension does NOT collect any kind of information. The last used search keyword is saved locally. For any concerns, please contact me at aakashweb.com\n\nNOTE\n--------\nAfter installing, please go to options page and change the \"Tab selection method\" to hover or click according as per your preference.\n\nSet a keyboard shortcut for opening the popup under \"Manage extensions\" page for even quicker search.\n\nCHANGE LOG\n-------------------\n5.0:\n- New: Move to manifest version 3.0\n- New: Modernized search form styles.\n- Included new search engines as default.\n- Fix: Remove unused and old search engines from the default list.\n- Fix: Minor code refactoring\n- Fix: Last search term was not saved when button was clicked\n\n4.1:\n - New option to open the results in new/same tab.\n - Minor enhancements to design and options page.\n - Updated jQuery and jQuery UI to the latest versions.\n - Fix issue where 'alt' key not cycling through tabs.\n - Replace deprecated events.\n\n4.0:\n - Removed tabs permission.\n - Reorganized the assets used by the extension.\n - Updated default search URLs to HTTPS\n - Minor changes to the options page.\n\n3.1:\n - Added feature to export and import search engine customization settings\n \n3.0:\n - New simple Icon.\n - Reorder tabs easily.\n - Libraries updated to newest version.\n - Small interface changes.\n\n2.0:\n  - Core code re-written from bottom.\n  - New Icon.\n  - Instant popup load\n  - Customize the default order of the list.\n\n1.0:\n  - Initial Version",
+      "userCount": 4000,
+      "lastUpdate": "2023-11-07",
+      "helpUrl": "https://www.aakashweb.com/browsers/all-in-one-web-searcher/",
+      "size": 65157,
+      "email": "aakash.19493@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/tools",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://www.aakashweb.com/privacy-policy",
+      "media": [
+        {
+          "video": "https://www.youtube.com/embed/ARTTxZ8Hmzk?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/ou9Sp7alcZeaSU7m-0U_7nxu-3sbrkmCY50I1BILV8xvOZDwOs-Kk-e5GSbAjQRbVFTqVz9a1FwLMR8hO59KjSQmKQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/uzjGxGOOV0-2J9NwjOP1JLjCNi_-KgEEsahahn5b2qcZpjxrIUP_CZ3xiZPOm6AYBlqZW6_9-YTSt3191WeZ1NVE"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/kbY4E4KHTAck80_IEk5Izvq-uhjfSObeESAUVVvfZZtH3ry7CnDRF4OkmeK8ebcq3Z865f9ta2C09FbR75btFpWz"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/OqT6FCELIlQ0Y738Dw2i3Bb2nPDu8JvCB48bhyWv4bTfX7SnKmk9kiDwUZHLUF89bOVIWaH_ZtJgcYp9E1zc0sjsJw"
+        }
+      ],
+      "numScreenshots": 4,
+      "numVideos": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/594GFnonKvdwdqbmaUE1OwqIs31RAUScW908IsoZ4_Rx_fOj5h2U1M2JIhESUXTG01fz_v4v8qfq1TG51tErd86AvQ",
+      "ratingValue": 4.506172839506172,
+      "ratingCount": 81,
+      "author": "https://www.aakashweb.com",
+      "website": "https://www.aakashweb.com",
+      "related": [
+        "kpdkbemdpepjjppbfgeapjienologapa",
+        "aamgapdgopfdmokckpkfciiddpahbbcg",
+        "fipildgbmeolhbpoplhamkgbkpgdiojo",
+        "kdahbikgbohnkbdjmfnfaioalpkhhfgp",
+        "acacjoabappgkabopnlnmdiodjilaggi",
+        "dhnojfogghcjfmlomjdaohbfldkblfap",
+        "oldjnhaegfgpfjlpmedeehapghiodglc",
+        "hkbdimhkhlphaekppobhboienpeppiop",
+        "ngfibjjjgckccbpbppikkgipcpknbglf",
+        "ddippghibegbgpjcaaijbacfhjjeafjh",
+        "hjleocmfcmdknclahmmfclopknmdkhkp",
+        "gipnlpdeieaidmmeaichnddnmjmcakoe"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 0,
+      "creationDate": "2020-05-31",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/perplexity-ai-search/joebmmcibmhbakimolgmcfbjlmjfbkag",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/f9lJ5XggMjFAc97MI5CkTJGsGq0FiEQLmZaSeCSaGN3LMs1VSfIwINKgKzbTR60u4tnCRZr-7eqhkXmU2Ga4mkIB",
+      "name": "Perplexity AI Search",
+      "id": "joebmmcibmhbakimolgmcfbjlmjfbkag",
+      "version": "1.0",
+      "description": "Just type 'perplexity.ai' in the URL bar, press Tab, and start your search. No more navigating to Perplexity manually to search.",
+      "fullSummary": "Just type 'perplexity.ai' in the Chrome URL bar, press Tab, and start your search.\n\nThis extension lets you start your Perplexity AI searches right from the Chrome omnibox, instead of manually having to navigate to Perplexity to start your search.",
+      "userCount": 58,
+      "lastUpdate": "2024-04-08",
+      "size": 22262,
+      "email": "yun.kevin.s@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://docs.google.com/document/d/e/2PACX-1vSVQDTCOhc1y8OAlCXdJUSdUnk-CTvRTv2dlA7J0ZKoskz2FVCZMlliDSGsMd3wNgAGiFKLZlxBgSer/pub",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/yNmyg3pdhXU3io5-OSAwus3BnJrepKbS0Eb0l63AExrUAetZGoTLNrDXtUGWx-czLEGvBtbmJfe-wTk1GhkIgzknaqk"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/3YZFha4g39yW_cyqITlswi_pTzKZJ4m2vrbKMBqCIHp3JYy6-e0gzan7HMKxFKDLx0iUF9pR9xexHHblM8Bd6W74UA"
+        }
+      ],
+      "numScreenshots": 2,
+      "author": "Kevin Yun (@kevinyun)",
+      "related": [
+        "lifgeihcfpkmmlfjbailfpfhbahhibba",
+        "bnaffjbjpgiagpondjlnneblepbdchol",
+        "flkebkiofojicogddingbdmcmkpbplcd",
+        "jblbdklppkompnbobkpncbmbjkaeaeah",
+        "meekeganelaaeijimakghhbiphjbfgdn",
+        "kckhadoijmchkeomaphocmobgpgmbnek",
+        "oemehpipfokijnpilnnmbnjonngpimhb",
+        "njggknpmkjapgklcfhaiigafiiebpchm",
+        "hengddlmmobpckpmaalbmdlofpiljnon",
+        "efabpnahpkdbpejgekahfnecclbepmee",
+        "aabfjmnamlihmlicgeoogldnfaaklfon",
+        "hlgbcneanomplepojfcnclggenpcoldo"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 3,
+      "creationDate": "2024-04-08",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/searx-search-provider/hmbgmokpddhjjncclckdfnolbhfjnoam",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/sfq8MOpDgJpNAxT6smJhOuWR-_14G5Qx6ideMxj8S3g51619TjN8b8TPP_8q0a76VBX2FIpKJjwp4-p0y_4MibUGoA",
+      "name": "SearX Search Provider",
+      "id": "hmbgmokpddhjjncclckdfnolbhfjnoam",
+      "version": "1.0.1",
+      "description": "A configurable browser extension that sets SearX as your default search engine.",
+      "fullSummary": "This extension is designed for those who value their online privacy and are looking for a quick, unobtrusive way to revamp their browsing habits.\n\nKey features include:\n\n\u25cf Privacy by Default: SearX doesn't track your searches.\n\u25cf Install and Forget: Simply install the extension and SearX becomes your default search engine.\n\u25cf Options: Effortless switch between SearX instances, setting you free from the need to fork or create a new extension each time.\n\u25cf Synchronization: Use your browser's sync to match your options across different devices.\n\u25cf SearXNG compatible: Works seamlessly with SearXNG instances\n\nSearX is an open-source metasearch engine that respects your privacy.\nBy installing our extension, SearX becomes your default search engine, giving you unbiased results with no user tracking.\n\nLearn more about SearX at https://searxng.org.\n\nThe options page included in the extension allows you to seamlessly switch between SearX instances, so you can always\nhave the best possible search experience.\n\nMade by Alejandro Akbal, https://akbal.dev.\n\nThis extension is proudly open source.\nhttps://github.com/AlejandroAkbal/SearX-Search-Provider-Extension",
+      "userCount": 220,
+      "lastUpdate": "2023-12-13",
+      "helpUrl": "https://github.com/AlejandroAkbal/SearX-Search-Provider-Extension/issues",
+      "size": 137216,
+      "email": "contact@akbal.dev",
+      "publisherAddress": "C. Suerte Geneto\nSanta Cruz de Tenerife, Santa Cruz de Tenerife 38107\nES",
+      "publisherCountry": "ES",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "make_chrome_yours/privacy",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/kCmddvs9kspRr5Np6ISWJQz33iptN0N4UIt3eqszELXgP4qwRAuEKAWDssZnu_WwPJh4hSOuRFOp3ueje0pvsZv1jLc"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/cFpIp-q2Q19bTqJoNYfBv1NqL-IigXq8xvrKa-3BpOk1kJdegf15gV4WXB2pWMhJmloz0jFvNRBW4ZGNUUQfeVwgVkE"
+        }
+      ],
+      "numScreenshots": 2,
+      "ratingValue": 3,
+      "ratingCount": 4,
+      "permissions": [
+        "storage",
+        "declarativeNetRequest",
+        "declarativeNetRequestFeedback"
+      ],
+      "author": "Alejandro Akbal",
+      "related": [
+        "pmcmeagblkinmogikoikkdjiligflglb",
+        "jojedekgcncccnjhilimdojbfnfamkda",
+        "nomidcdbhopffbhbpfnnlgnfimhgdman",
+        "fipildgbmeolhbpoplhamkgbkpgdiojo",
+        "nomnklagbgmgghhjidfhnoelnjfndfpd",
+        "odjhldcomjlmfbdfeopdkeinpkmjibok",
+        "fgmjlmbojbkmdpofahffgcpkhkngfpef",
+        "oenahigafdpmlmaenjgiedobgooekkmp",
+        "meojnmfhjkahlfcecpdcdgjclcilmaij",
+        "ibimaeimnogcdnjmmlpodbhhbejnpaij",
+        "indpljpndioefdhmhafebdcddigbogbn",
+        "kplfenefaakjhjkklghidleljeocgdap"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2023-12-10",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/searcheira-search-engine/fbkojfmgglelmhepbajcpkonjabpobbc",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/idj2EwDtH_TxTV_gNGsw4oBViZzvbqT_JP4ifxU3Dh8iX9TNbDvrn8ovZ5hXMeJ_CghvEj4a8URLw_r1Kdy73cROWw",
+      "name": "Searcheira - Search Engine",
+      "id": "fbkojfmgglelmhepbajcpkonjabpobbc",
+      "version": "1.0.5",
+      "description": "Smart and private search engine that optimize your searching experience",
+      "fullSummary": "Searcheira is a simple safe-search which allows you to surf world-wide with getting tracked by any third party",
+      "userCount": 30000,
+      "lastUpdate": "2022-09-27",
+      "size": 14889,
+      "email": "liamlevi1195@gmail.com",
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "productivity/tools",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/JyyCI4DcLjaoCumKDnyP7AV7zP4AhG3pZI17rGfu5FJlRWk2_AMSSKsuBuSrpUxFgVomex07Mn-df3Uof5Y0cSoNOA"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Rqo7Q-XI4lxsGpWRRONW54f3-LUdIwcl5_tPRasrQOAL2qi7Zw7Pj_L7cmp1kWoMrv3S6CBLmUFFWZ3qTFxW_A8IGg"
+        }
+      ],
+      "numScreenshots": 2,
+      "ratingValue": 5,
+      "ratingCount": 3,
+      "permissions": [],
+      "author": "https://searcheira.com",
+      "website": "https://searcheira.com",
+      "related": [
+        "kcolfknbiiflcnighkobmmleifimapee",
+        "cboibdgjofkgfkomeojjjkhnljbhbcbg",
+        "ddfmingbghgdadipkmlocgkdlenbjpni",
+        "codnabjahlcbleacelaabcphcobjkmlf",
+        "fjoehoflplcjphclciipafioeapgkajk",
+        "bdkfjhkiflngknimidpofjmdlopbadma",
+        "hpbdhanjafnpeeobgejmdaajkiamfdpi",
+        "oohpklfcenaffjconedjebkaclkachmi",
+        "aiokmbjldfkeabmobdimmdgakpaklhbc",
+        "mocjldcbnkegopdodplogkdpbfmoeclk",
+        "apjappedjeldbandppbcigamkkhoooka",
+        "ociiedbaoiljmjfpnefiaplmcphobool"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2022-09-27",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/dork-it/lnihadedihilhjcbnimcobnppdlldocm",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/zXoMHagGYwdQCi-mXoNiAgiZILss3O2Gm3iX7nFDhfJpKpkWps0lBVk0uNCqN76b1_zRi6EeCY8mlPETtckpRIY8oA",
+      "name": "Dork It",
+      "id": "lnihadedihilhjcbnimcobnppdlldocm",
+      "version": "1.4.3",
+      "description": "Dork It is a Chrome Extension that allows users to utilize Google Dorks to get the most out of their Google searches.",
+      "fullSummary": "Dork It is an intuitive and convenient Chrome Extension designed to enhance your online search experience. With its sleek and user-friendly Panel, Dork It allows you to easily construct Google search queries by specifying Dorks - meta information that can be included in your search body to refine and tailor your search results to your specific needs.\n\nWhether you're a researcher, a student, or just looking to find the most relevant information on a particular topic, Dork It is the ideal tool for you. With its comprehensive list of Dorks, you can effortlessly manipulate and shape your search results, saving you time and effort in the process.\n\nDork It is a highly versatile extension that offers endless possibilities. From finding hidden web pages to uncovering valuable information, Dork It is the perfect companion for anyone looking to take their Google searches to the next level. So why wait? Install Dork It today and start exploring the internet like never before.",
+      "userCount": 555,
+      "lastUpdate": "2023-06-19",
+      "size": 27310,
+      "email": "dev1912.sbtopzzz@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/tools",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/mo_XWB7zErBjAOVcTmkHYgwFhBBINrdFuMQbuEd7SLKfbRgqKWIEX3exhXUB_pM4edcbaHsFkCWasuTHtRnEODZI"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/OTBa5-9aJIwoEl3jRugwCAZL0ytK65UK9QYX0043JAy8bZks5tkv1SvufmGtXGhUKJQQPHUCqsqbj_GjrVXmIXfcKw"
+        }
+      ],
+      "numScreenshots": 2,
+      "ratingValue": 4,
+      "ratingCount": 2,
+      "permissions": [
+        "storage"
+      ],
+      "author": "Saumitra Topinkatti",
+      "related": [
+        "fegecagefcfpmpiklbalddddgflaelne",
+        "popfhajlkgkiecedhefhifccngogomgh",
+        "kmnlfjgamfnhcmpfnmgpiapacncdipad",
+        "mnakbpdnkedaegeiaoakkjafhoidklnf",
+        "jjdjccppehnjdennppcnlnaadcdlffdf",
+        "gonhdjmkgfkokhkflfhkbiagbmoolhcd",
+        "aigmhlpfpklbnlhafhhpdlohbjalkjke",
+        "manapjdamopgbpimgojkccikaabhmocd",
+        "chkcpeigckjajkfbjhdochlkffjdgeee",
+        "hpkajgafjlpfhpphfdcadmkkkbeebgpp",
+        "koaeinhjcalbpdedhgdngbbooepgokce",
+        "cmbndhnoonmghfofefkcccljbkdpamhi"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 0,
+      "creationDate": "2023-04-19",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/qwant-the-search-engine-t/kplfenefaakjhjkklghidleljeocgdap",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/qZks2nkxsBusFEgm7cD5mBR6eee4BulP_knN2qe3Dsb6z7ixQPigX22JGuxS9_hFeuRz3yR-GJZkKmRqjs6tsYiSgg",
+      "name": "Qwant - The search engine that values you as a user, not as a product",
+      "id": "kplfenefaakjhjkklghidleljeocgdap",
+      "version": "7.1.0",
+      "description": "Qwant becomes your default search engine ! Start your new search experience now using Qwant's artificial intelligence.",
+      "fullSummary": "Qwant becomes your default search engine ! Start your new search experience now using Qwant's artificial intelligence. Made in Europe.",
+      "userCount": 6000,
+      "lastUpdate": "2024-05-16",
+      "helpUrl": "https://help.qwant.com",
+      "size": 11356,
+      "email": "contact@qwant.com",
+      "publisherAddress": "10 Boulevard Haussmann\nParis 75009\nFR",
+      "publisherCountry": "FR",
+      "supportedLanguages": [
+        "en",
+        "fr"
+      ],
+      "category": "productivity/tools",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://about.qwant.com/legal/privacy",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/cV5O-KX8hWmfwDHplT2XP7ckJSBu5P5EZtmTGn0KP0rQsVfT7eI1T9HtpfehbyaIxDVeH4KgrGD5sWGeWBdqhP1-GQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/mVJWd-7mLpE5MLcGoTZefYyuNUDvrRL3nguvk9w8gIB-51g_9jfr2l3_TzZ2AHYcd-ehmSj7weC9SM02NbJq9eY_CA"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/7Lx7ere83vpsg7eEaLquKQzNTLVpWnuO2l9EuJMjmQUxiJ7DOlIm8yQUOZFMzm9iLpAwCPxpKPrjb9fViCDI_LcKZA"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/vDN-_cVDeLbuyDy_Fxy60zRFWjKLIC5FGPs94NOAdlbaaairnoNnREJrwseZZVgnMmk7BWCcfD94AljJvaQ93fwXnNE"
+        }
+      ],
+      "numScreenshots": 4,
+      "ratingValue": 5,
+      "ratingCount": 6,
+      "author": "https://qwant.com",
+      "website": "https://qwant.com",
+      "related": [
+        "fcehiiknopcbcdnpakbeipijiiceobnl",
+        "jojedekgcncccnjhilimdojbfnfamkda",
+        "hmbgmokpddhjjncclckdfnolbhfjnoam",
+        "mfikohbeadpajcijohnobibodimmjhfk",
+        "fipildgbmeolhbpoplhamkgbkpgdiojo",
+        "fgmjlmbojbkmdpofahffgcpkhkngfpef",
+        "gohjiamaiemngnoblipneldkbnhlljpl",
+        "aifabaooljbmglcjiedhcnmbpdbmliia",
+        "inmoepflfddilkjbeapbbleehfncadpg",
+        "mmdlbipinnjkghhjnhgjblbccnchgfbm",
+        "nomidcdbhopffbhbpfnnlgnfimhgdman",
+        "hnlkiofnhhoahaiimdicppgemmmomijo"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "localizedDataPointer": {
+        "fr": "20240516"
+      },
+      "riskScore": 0,
+      "riskImpact": 2,
+      "riskLikelihood": 0,
+      "creationDate": "2022-08-26",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/ask-ai/hnphnkkifmncgdfijaeboaonofafdopf",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/zsH2gkZ6EKZASX9z4fqtPzeivMtqwp3Png7osQp8SqdX8arSAZtG5wMS6iUbnTBVL9MMDnFCp4Sz8IYFwvqsi79YcQ",
+      "name": "Ask AI",
+      "id": "hnphnkkifmncgdfijaeboaonofafdopf",
+      "version": "1.0.2",
+      "description": "Ask AI is an AI-powered Search Assistant, with Bing, ChatGPT, Bard, & more! \u26a1",
+      "fullSummary": "Introducing Ask AI, the future of online search. This AI-powered Search Assistant Chrome extension is designed to revolutionize your browsing experience. With the integration of advanced AI technologies like Bing, ChatGPT, Bard, and more, Ask AI is your ultimate tool for efficient and intelligent web navigation. \n\nAsk AI is not just a search assistant; it's your personal AI companion that understands your search queries and provides accurate, relevant results in a flash. It's built to save you time, increase productivity, and make your online search experience more enjoyable. \n\nWhether you're conducting research, seeking answers to complex questions, or simply browsing the web, Ask AI is your go-to solution. It's like having a personal AI researcher right at your fingertips, ready to assist you with any search query you might have. \n\nWhat sets Ask AI apart is its ability to learn and adapt to your search habits, providing personalized results that are tailored to your needs. It's more than just a search engine; it's a learning machine that grows with you. \n\nSo, why wait? Enhance your browsing experience with Ask AI. Install the Ask AI Chrome extension today and step into the future of online search. With Ask AI, finding the information you need has never been easier or faster. \n\nRemember, when you need answers, just Ask AI!",
+      "userCount": 379,
+      "lastUpdate": "2023-12-19",
+      "helpUrl": "https://chrome.google.com/webstore/detail/hnphnkkifmncgdfijaeboaonofafdopf/support",
+      "size": 515072,
+      "email": "Hi@eurekaa.app",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/tools",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/NCBRTVbMqmFN6yqKVkJUw5j8zA1SXfh48FiDJdXRMlBZ7T0VAmxIcWCnSH-KKdPEjS-4kHt0phwKHi9cAERSS6Sg-w"
+        }
+      ],
+      "numScreenshots": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/Az7mW11ZyAYlOYCOQvGliFjavMomoXpQf7wrQKWjCbZXp3a_OvU6YMald_xgasHinEDZ4TNqBxWqPMu7H5UsanE26w",
+      "ratingValue": 4,
+      "ratingCount": 4,
+      "permissions": [
+        "sidePanel",
+        "unlimitedStorage",
+        "storage",
+        "background",
+        "contextMenus",
+        "declarativeNetRequest",
+        "tabs"
+      ],
+      "author": "https://eurekaa.app",
+      "website": "https://eurekaa.app",
+      "related": [
+        "agpmfmfpldoabkmhjanenelnnplfcidm",
+        "odhdjioheneboknfjdhldaoljedipcig",
+        "hajphibbdloomfdkeoejchiikjggnaif",
+        "jnmbmhjdadpmokmhminndcfennnadblm",
+        "jkgcpdfjkoehalhckmmadcomoknlmbch",
+        "mdnnepmlhbdmgdkjahbeemoadnfmjgnh",
+        "kbhaffhbhcfmogkkbfanilniagcefnhi",
+        "nefjafglkcnlmlbmppaeafonbbgchnpm",
+        "bhlfhgddfogcfclekccmfkbmpfpdjlhi",
+        "micfamhmliebmgankfakonbicodppmng",
+        "jbpdjbfnpbjkihdfgbohiglkjndgeano",
+        "bchkdkhfodkkpohjhabdgfhpgjkkgfhg"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 2,
+      "riskImpact": 3,
+      "riskLikelihood": 1,
+      "creationDate": "2023-11-21",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/perplexity-ai-search/bnaffjbjpgiagpondjlnneblepbdchol",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/wTYpqS4ESzfLGYTHtSZDZqJp0UHlalZvqQLvGT0-vlt8xTwTrei9M6WtfNmnbvsnKU5N90TH3bpt7PgZK7cgiL1H",
+      "name": "Perplexity - AI Search",
+      "id": "bnaffjbjpgiagpondjlnneblepbdchol",
+      "version": "1.0.6",
+      "description": "Upgrade your default search engine",
+      "fullSummary": "Enhance your search experience with this extension. Instantly connect to Perplexity AI for all your queries. Experience lightning-fast searches, precise answers, and transparent sourcing. Ideal for those keen on efficient, clutter-free web exploration.\n\nFeatures:\n\nCopilot: Your AI partner for collaborative search.\nPerplexity Pro: Powered by GPT-4 & Claude 2.",
+      "userCount": 30000,
+      "lastUpdate": "2023-10-11",
+      "size": 6574,
+      "email": "support@perplexity.ai",
+      "publisherAddress": "341 Moultrie St\nSan Francisco, CA 94110-5618\nUS",
+      "publisherCountry": "US",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/XR_8LEz-x4i5JbDNNcf4Mhb2LY8Q0EvHXhzY2rTIASa4OcfMyQw1DpWTv_ssPB1MVFNqv18J8uemoc_J0ne_qyFq"
+        }
+      ],
+      "numScreenshots": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/VHNQ9XzgvAIatuoLu3HlDEhmNUVUmPFavfPQ18OGKRE79RMY_ypN_1iROPan66EY42xwN7w-TQkumlHWRsB8h3xPlQ",
+      "ratingValue": 3.4864864864864864,
+      "ratingCount": 37,
+      "permissions": [],
+      "author": "Perplexity AI",
+      "related": [
+        "eanggfilgoajaocelnaflolkadkeghjp",
+        "iaakpnchhognanibcahlpcplchdfmgma",
+        "jjdnakkfjnnbbckhifcfchagnpofjffo",
+        "knjbgabkeojmfdhindppcmhhfiembkeb",
+        "blkggjdmcfjdbmmmlfcpplkchpeaiiab",
+        "jjhefcfhmnkfeepcpnilbbkaadhngkbi",
+        "chamcglaoafmjphcfppikphgianmmbjf",
+        "amhmeenmapldpjdedekalnfifgnpfnkc",
+        "paodpkkacimmkacaecjmhdncjgjepcai",
+        "fgacdjnoljjfikkadhogeofgjoglooma",
+        "flkebkiofojicogddingbdmcmkpbplcd",
+        "cbkjbnfjbjlcpfaengknbfbffabiloab"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 2,
+      "riskImpact": 2,
+      "riskLikelihood": 2,
+      "creationDate": "2023-06-21",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/quraai/kejpbbehabekboaiagdmljaclbiafdpi",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/1i7UNFsQAVv4Zyvo4ei1dFTHLmzyKnBvduGbFt2RHqbiyFGGf6Gf9cmCtt0_syz1yfTGcAMXSgG9ajCAw6KsMFXfBHc",
+      "name": "QuraAi",
+      "id": "kejpbbehabekboaiagdmljaclbiafdpi",
+      "version": "5.2.0",
+      "description": "Qura.ai is designed to enhance your X experience by leveraging AI.",
+      "fullSummary": "Qura.ai is a Chrome extension designed to enhance your X experience by leveraging AI and automation for crafting responses to tweets.",
+      "userCount": 62,
+      "lastUpdate": "2024-05-18",
+      "size": 227328,
+      "email": "qura.ai.dev@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/tools",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://www.qura.ai/privacy-policy",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Wd-snWJ8Kra9rrax0l6vaguaD8tYVTuMisfp7JuexSo3UIR3IG03f2JQueTGFVb4Np8NjTOQ4yO5ka_duaJfRcJH6Q"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/2kSSYD22FXtyAEQ3WS6RdJG5rvLylDswxeNDLnXejFC-VBYGkydd4p2FBDcnu8oB1ZJGOT6XpH-gGdvQVmCir5UOuw"
+        }
+      ],
+      "numScreenshots": 2,
+      "smallBanner": "https://lh3.googleusercontent.com/N6FSIQExd2mYidusygWvE9764_M_GTewCSvEDsmfARBTJxFLM9bQ-y7sxyx-j7ZuqhgxObAMqboqwAjHbcXeW7pE8Q",
+      "ratingValue": 5,
+      "ratingCount": 7,
+      "permissions": [
+        "tabs",
+        "activeTab",
+        "storage",
+        "scripting"
+      ],
+      "author": "Unknown",
+      "related": [
+        "cghbjnfnjinhakajpefnfkcbmddgilge",
+        "pamhbelaneapiainlgkpamangfckdnac",
+        "amoldiondpmjdnllknhklocndiibkcoe",
+        "pobhoodpcipjmedfenaigbeloiidbflp",
+        "efnjehgfpbogpclnkikafpbgbahaflfd",
+        "gioninhnkghmdcnjbomehheggepodhfk",
+        "oclgmkadgjmadlmmdbolhbdbnamhjalo",
+        "ajppdncnjeahglmaandcijaioigigabm",
+        "ofdpiejbkcpagdcllkfmchfddhpambkm",
+        "nafdjcnfmdcdnebjhehhohfaaffdlkon",
+        "ajfofadocnbnjddnmnaipodlmmbmcmcg",
+        "lkjblpoingopdeaofcaapmeoojjjnhnc"
+      ],
+      "privacyCollections": [
+        9
+      ],
+      "disclosePrivacyCollection": true,
+      "riskScore": 3,
+      "riskImpact": 3,
+      "riskLikelihood": 3,
+      "creationDate": "2024-04-04",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/intelligent-search/plfnpfcnlnijmckecpkljbjafdieceml",
+      "paymentType": "in_app",
+      "logo": "https://lh3.googleusercontent.com/JH34D2QVJdnQmMH3C7fuaMnrUuxoaFctoav-WF5242lXjMxO2AonJSbchQuN6I-xO_TdW0NnfJ8cqEd595vJ2dlB6Q",
+      "name": "Intelligent Search",
+      "id": "plfnpfcnlnijmckecpkljbjafdieceml",
+      "version": "1.6.0",
+      "description": "Optimize your google searches - faster searches, better results",
+      "fullSummary": "Coming up with the perfect google search can be a tedious task. Using the right keywords, the right syntax, the optimal length can be tricky. How many google searches do you do in a day? Wouldn't it be nice to not have to think about how you are writing your google search and still receive optimal search results? \n\nThis is where Intelligent Search comes in! Intelligent Search is an extension that leverages AI models to produce the optimal search queries. From a long text, we are able to determine the meaning of the sentence as well as any keywords that are useful to narrow down the search. \nForget having to spend time coming up with the best google search to find what you are looking for : with Intelligent Search you can write out exactly what you want to search in your own words and we will optimize it for you! This saves you time and increases your search result accuracy.\n\nUsing our \"Search' button, you can open directly a new tab with the optimized search that has just been generated. \n\n\nUpcoming features: \n   - Handle different languages\n   - Provide more analytics\n   - Detect when a search query is being made within your browser, and propose an optimal version of the query directly to the user. \n\n\nAt Intelligent Search we are very concerned with user privacy, in no way do we store, use  or sell any data that is being inputed through our application. If you have any thoughts or concerns please don't hesitate to reach out.\n\nTry out our free version by installing this Google Search Optimizer, and enjoy the benefits of stress free browsing for your work or your day to day searches. \n\n(This is not an SEO application, we only deal with query optimization and not in search result optimization from the receiving end)\n\nPlease leave a comment or review with any feedback you might have!",
+      "userCount": 472,
+      "lastUpdate": "2023-08-22",
+      "size": 1887437,
+      "email": "mybrowsinghabits@gmail.com",
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://mybrowsinghabits.wixsite.com/my-browsing-habits/privacy-policy",
+      "media": [
+        {
+          "video": "https://www.youtube.com/embed/vbOH_uuIqrc?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/cSObdtw107WZw7bDg2uXv-fEpzOoTnwjbVXZRnEB0Os2tBtNm7MtUkn9cmCY9kkurTZ-LcqPapkh35EmWCyeqf7zmA"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/XOIrKd2x6orI58-OhZb9rDbwOb4ltCSMZt1CD2URfYvNVWF7z7jLCmjN8yRPCd1b5nA5f1j1PthmTXd2hELoYemy"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/y0N79uGxZDnMf8xDByn-BgFh4xifAEiajLW0jl1M7JhCVSPAEkoueAQ3dP_G0aBzW6FiQzzyDDLtIkXZhddx39Yhug"
+        }
+      ],
+      "numScreenshots": 3,
+      "numVideos": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/MNDl2SXELA0vx4qVaY7wZeyMW49VHC9QKDwWXkXinbmO3epQal05thtPuT0NHUezU4ET-fM3yMt8mi47quUQTf2x",
+      "ratingValue": 5,
+      "ratingCount": 3,
+      "permissions": [
+        "storage"
+      ],
+      "author": "mybrowsinghabits",
+      "related": [
+        "ffejmkidhadgbnkanjaikhaofedjnobd",
+        "nonlplbhnineefeopejpfmfhppnnejdi",
+        "ccpcojggodkhjbjahddhcaobkhlaaanl",
+        "mbbhffbdlapeegichaomhameclefjlie",
+        "mokpcamkabgckoegmpcdfflmkphbmpkc",
+        "ogadbjnbphlcnchimpklmdlbnmghlcbe",
+        "edmhnddghecolncglginechhpkijpbed",
+        "hdemhelpejfpiibkmebfopkcghnlpdpk",
+        "cmpegjdbmjinegeoloignbnnchhaeafj",
+        "flekfdobikapenebblekbdjbgbhlhbni",
+        "dcmdmchlomobkggnjkamcfgbmjpldjpk",
+        "cfpmoigmhcehoegokjllchipdiindpkc"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 0,
+      "creationDate": "2023-02-11",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/advanced-search/mokpcamkabgckoegmpcdfflmkphbmpkc",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/91J7kv3fTNtedPjlCEEYXqaYRLQQt0_35gY6Qib8uE-mdAqzCxYhLQtvosy4jy0f8hY7MbqCN6tzY88VjbqvCdPocw",
+      "name": "Advanced Search",
+      "id": "mokpcamkabgckoegmpcdfflmkphbmpkc",
+      "version": "1.1",
+      "description": "Allows users to easily insert search operators for advanced searching on Google.",
+      "fullSummary": "The \"Advanced Search\" extension is a powerful and user-friendly tool that enhances your Google search experience. With this extension, you can effortlessly perform advanced searches using predefined queries and specialized operators. The extension provides a streamlined interface, allowing you to insert specific search parameters such as \"user:\", \"post:\", \"location:\", and \"date:\" directly into the search bar with the click of a button. Whether you're looking to refine your search results or perform complex queries, the \"Advanced Search\" extension simplifies the process, saving you time and providing you with more accurate and targeted search results. Take control of your search queries like never before with this convenient and intuitive extension.",
+      "userCount": 896,
+      "lastUpdate": "2023-10-04",
+      "helpUrl": "https://sites.google.com/view/mojaveextensions/info-regarding-advanced-searching",
+      "size": 358400,
+      "email": "mojavecompany06@gmail.com",
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "productivity/tools",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://sites.google.com/view/mojaveextensions/privacy-policy",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/0dFWMot1CL6DQE5mAGlMKIWdb61CD5gFazmqxR2nuOk_0P7DdsDFME4w1GS9BLLzRYi5jFp5Xa6feQuo8T6aujw3fA"
+        }
+      ],
+      "numScreenshots": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/Lvxl_Hwlwswv_quiwga1cQQbT20kQ3Mboh4QfjFbMZPl78mEZA4OZ11GOlLB4LqDbAMc8utABApOxN5H8EdHEu3CEZ4",
+      "ratingValue": 5,
+      "ratingCount": 1,
+      "permissions": [
+        "activeTab"
+      ],
+      "author": "Mojave",
+      "related": [
+        "mpppjflhdibabjghagcoephplcdflcbm",
+        "ajhakfnnioohdjghjdmconkmkbkebjbn",
+        "fjjkihnjlinkjpfeooipegebcakeocef",
+        "iocjmdhbachfomccdpolikkapbbeidbl"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "riskScore": 0,
+      "riskImpact": 0,
+      "riskLikelihood": 2,
+      "creationDate": "2023-08-13",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%B8-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%E2%80%94-%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA/gopekdefbcehhdiejdiaijhojgbepgec?hl=en",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/G6I9RBciqGTs2qCzoFUedkHmRwgA4FW4VAZLcj6DP_hRz0OXnJRogMhbSCVNl2fbiEzmGx9McAHrexy8XfZgPbYFPw",
+      "name": "Search and Start page \u2014 Yandex",
+      "id": "gopekdefbcehhdiejdiaijhojgbepgec",
+      "version": "9.0.3",
+      "description": "Type your search queries into the address bar and get answers from Yandex",
+      "fullSummary": "\u042f\u043d\u0434\u0435\u043a\u0441 \u0441\u0442\u0430\u043d\u0435\u0442 \u0432\u0430\u0448\u0435\u0439 \u0441\u0442\u0430\u0440\u0442\u043e\u0432\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435\u0439 \u0438 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u043c \u043f\u043e\u0438\u0441\u043a\u043e\u043c. \u0417\u0430\u043f\u0443\u0441\u0442\u0438\u0432 \u0431\u0440\u0430\u0443\u0437\u0435\u0440, \u0432\u044b \u0441\u043c\u043e\u0436\u0435\u0442\u0435 \u0441\u0440\u0430\u0437\u0443 \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043f\u043e\u0433\u043e\u0434\u0443, \u043f\u0440\u043e\u0431\u043a\u0438, \u0447\u0438\u0442\u0430\u0442\u044c \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u0438\u043b\u0438 \u0432\u043a\u043b\u044e\u0447\u0430\u0442\u044c \u043b\u044e\u0431\u0438\u043c\u044b\u0435 \u0442\u0435\u043b\u0435\u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438. \u0410 \u0435\u0441\u043b\u0438 \u043f\u043e\u043d\u0430\u0434\u043e\u0431\u0438\u0442\u0441\u044f \u0447\u0442\u043e-\u0442\u043e \u043d\u0430\u0439\u0442\u0438 \u2014 \u0431\u044b\u0441\u0442\u0440\u043e \u0437\u0430\u0434\u0430\u0442\u044c \u0432\u043e\u043f\u0440\u043e\u0441 \u042f\u043d\u0434\u0435\u043a\u0441\u0443 \u043f\u0440\u044f\u043c\u043e \u0432 \u0430\u0434\u0440\u0435\u0441\u043d\u043e\u0439 \u0441\u0442\u0440\u043e\u043a\u0435. \u041e\u043d \u0431\u0443\u0434\u0435\u0442 \u0443\u0433\u0430\u0434\u044b\u0432\u0430\u0442\u044c \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u0441\u0430\u0439\u0442\u044b \u043f\u043e \u043f\u0435\u0440\u0432\u044b\u043c \u0431\u0443\u043a\u0432\u0430\u043c \u0438 \u043d\u0430 \u043c\u043d\u043e\u0433\u0438\u0435 \u0432\u043e\u043f\u0440\u043e\u0441\u044b \u043e\u0442\u0432\u0435\u0447\u0430\u0442\u044c \u0441\u0440\u0430\u0437\u0443.\n\n\u0423\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0443, \u0432\u044b \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u044f \u041b\u0438\u0446\u0435\u043d\u0437\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u0441\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u044f http://legal.yandex.ru/desktop_software_agreement/.",
+      "userCount": 200000,
+      "lastUpdate": "2023-12-30",
+      "size": 16916,
+      "email": "mainpage@support.yandex.ru",
+      "publisherAddress": "Werftestrasse 4\nLuzern 6005\nCH",
+      "publisherCountry": "CH",
+      "supportedLanguages": [
+        "en",
+        "tr",
+        "ru",
+        "uk"
+      ],
+      "category": "productivity/tools",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://yandex.ru/legal/confidential/index.html",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/d9uI-7gWBSt5_X7OCJiKRjW-x5izZznWC605OfJlAtGuGqBKpku3sEuzDhVGGtDauPwAqS3XE0-Hv20mdoTw2f9KmIs"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/w-TExIP3y5DUbHunuOAPDIZ0S84thuIX1Hcj4G4OpoauR2gkx5xV4Lbp1K0jx_BC9u1e1dEOrCzDK0AdH5oBSu0dng"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/8ReYp8ylvHgwhZ5EmBTSvdTjnSbrPDRacJhjlSuo3e2N-o54aDXq2dMIhaZCQ3zR1TsKSAI18KVksoyAaCmMm7p9Y1c"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/LV7AIuiPwZLVnyYo0drFTcw6aCsuO7p0NDBb3OPEALgrJkdEc07Cxwox1d-VDuWLmncYblgmzmbDj7AT8YXOQD9xQGw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/JPH6jJV8_j0sCaHfN2zzn0p-1mwoi7uxjDnu9yInrm0iRpe722gcogDMvDzEyNIIPgpBSKHCJq_jx8ZRuWTCQa_q"
+        }
+      ],
+      "numScreenshots": 5,
+      "smallBanner": "https://lh3.googleusercontent.com/9QF4rai8uXaGe2M8RhXKp8dI9c-quYrrNpEi8dWApgPpTctoXFCzHAc7O9guw2AOTyiufiP7jo_e-432CPRJsfEBKg",
+      "ratingValue": 2.6315789473684212,
+      "ratingCount": 19,
+      "permissions": [
+        "contextMenus",
+        "alarms",
+        "cookies",
+        "storage",
+        "tabs"
+      ],
+      "author": "https://ya.ru",
+      "website": "https://ya.ru",
+      "related": [
+        "iobjoojnnfjhlfmihckakpcgljgpmnih",
+        "npgcnondjocldhldegnakemclmfkngch",
+        "gkhbblmlnjfcdpopgkbjpdpmomlijcna",
+        "hnhppcgejeffnbnioloohhmndpmclaga",
+        "inlmamahcfioibldbpbaechbpeeaelin",
+        "acbchkahfmndkenefkcklofjmipghjjp",
+        "fddjpichkajmnkjhcmpbbjdmmcodnkej",
+        "pomekhchngaooffdadfjnghfkaeipoba",
+        "pbcgcpeifkdjijdjambaakmhhpkfgoec",
+        "pchfckkccldkbclgdepkaonamkignanh",
+        "pbhelknnhilelbnhfpcjlcabhmfangik",
+        "momffihklfhkoakghidmkdocdkbfmoac"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "localizedDataPointer": {
+        "tr": "20231127",
+        "ru": "20231127",
+        "uk": "20231127"
+      },
+      "riskScore": 3,
+      "riskImpact": 4,
+      "riskLikelihood": 3,
+      "creationDate": "2023-11-26",
+      "fetchId": "20240527"
+    }
+  ],
+  "permissions": [
+    {
+      "key": "permission-none",
+      "risk": 0
+    }
+  ],
+  "crossPlatformData": {},
+  "score": {
+    "userCount": 0,
+    "ratingValue": 100,
+    "ratingCount": 0,
+    "size": 90,
+    "lastUpdate": 20,
+    "permission": 100
+  },
+  "allRanks": [
+    {
+      "label": "Overall",
+      "key": "overall-rank",
+      "value": 102583,
+      "path": "/top?page=4104&date=2024-05-27"
+    },
+    {
+      "label": "Tools",
+      "type": "cat",
+      "key": "cat-productivity/tools-rank",
+      "value": 5694,
+      "path": "/c/productivity%2Ftools?page=228&date=2024-05-27"
+    }
+  ],
+  "oneWeekAgoRanks": [
+    {
+      "label": "Overall",
+      "key": "overall-rank",
+      "value": 103777,
+      "path": "/top?page=4152&date=2024-05-27"
+    },
+    {
+      "label": "Tools",
+      "type": "cat",
+      "key": "cat-productivity/tools-rank",
+      "value": 5694,
+      "path": "/c/productivity%2Ftools?page=228&date=2024-05-27"
+    }
+  ],
+  "alternateNames": [],
+  "asOfDate": "2024-05-27",
+  "risk": {
+    "permissions": [
+      "permission-none"
+    ],
+    "specificHosts": [],
+    "emailIsInvalid": false,
+    "authorUrlIsInvalid": false,
+    "abnormalRatingTrend": null,
+    "abnormalUserTrend": null,
+    "knownMalware": null,
+    "knownBadReview": null,
+    "riskScore": 0,
+    "permissionScore": 100,
+    "allPermissions": [
+      {
+        "key": "permission-none",
+        "risk": 0
+      }
+    ],
+    "riskImpact": 0,
+    "riskLikelihood": 1,
+    "daysSinceLastUpdate": 560,
+    "daysSinceCreation": 560
+  },
+  "manifestJson": "{\n\"update_url\": \"https://clients2.google.com/service/update2/crx\",\n\n  \"manifest_version\": 3,\n  \"name\": \"NeuralSearchX\",\n  \"version\": \"1.0\",\n  \"description\": \"NeuralSearchX is a search engine that allows you to search for information on the web using state-of-the-art artificial intelligence\",\n  \"icons\": {\n    \"128\": \"Logotipo - Extens\u00e3o NSX - (128 x 128 px).png\",\n    \"32\": \"Logotipo - Extens\u00e3o NSX - (32 x 32 px).png\",\n    \"48\": \"Logotipo - Extens\u00e3o NSX - (48 x 48 px).png\",\n    \"16\": \"Logotipo - Extens\u00e3o NSX - (16 x 16 px).png\"\n  },\n  \"action\": {\n    \"default_icon\": \"Logotipo - Extens\u00e3o NSX - (128 x 128 px).png\",\n    \"default_popup\": \"popup.html\",\n    \"default_title\": \"NeuralSearchX\"\n  }\n}",
+  "manifestSummary": {
+    "meta_version": 2,
+    "manifest_version": 3
+  },
+  "isDownloadBlocked": false,
+  "minAsOfDate": "2024-05-19",
+  "maxAsOfDate": "2024-05-27"
+}

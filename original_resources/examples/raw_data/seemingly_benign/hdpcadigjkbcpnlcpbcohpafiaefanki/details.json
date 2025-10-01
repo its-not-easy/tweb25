@@ -1,0 +1,1392 @@
+{
+  "url": "https://chromewebstore.google.com/detail/nighttab/hdpcadigjkbcpnlcpbcohpafiaefanki",
+  "paymentType": "free",
+  "logo": "https://lh3.googleusercontent.com/_u16GLhOcoYz8My46s0Bs5sA8Rz612fFrnbzvLL6JBIVuSbnUWwbrBdtRxnN9ckC0u9P5A7Jc0t2aOVgmD2sobyqdEE",
+  "name": "nightTab",
+  "id": "hdpcadigjkbcpnlcpbcohpafiaefanki",
+  "version": "7.3.0",
+  "description": "A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks in nightTab.",
+  "fullSummary": "Features:\n- Display the time, date and a search bar in the header.\n- Present any number of bookmark tiles organised in groups.\n- Customise the layout, background image or video, theme, font and accent colour.\n- Backup your setup to a local file.\n\nnightTab does NOT collect or use your personal or browser data in any way.",
+  "userCount": 200000,
+  "lastUpdate": "2021-10-03",
+  "helpUrl": "https://github.com/zombieFox/nightTab/issues",
+  "size": 977920,
+  "email": "kombiezombiefox@gmail.com",
+  "supportedLanguages": [
+    "en-GB"
+  ],
+  "category": "productivity/workflow",
+  "itemCategory": "extension",
+  "media": [
+    {
+      "video": "https://www.youtube.com/embed/tS4y4JehH04?rel=0&wmode=opaque&enablejsapi=1"
+    },
+    {
+      "screenshot": "https://lh3.googleusercontent.com/lW2hEBf-kSWEfY-6GhA3q9mkMh-yvPYBDSSkgv_NGCREyl1autVyVXqqXk8mRt0xF7k7TVr8JJnMg3J0UnVudtXc7g"
+    },
+    {
+      "screenshot": "https://lh3.googleusercontent.com/KgAM4fI9PMxVKD5pMR0XFQpaaf0kBqRkmmibOEiVR0Mc-YSMnk46OlGQ1XBy2G-1xUJUYCc_wQeOnrtdzqTpl8z9WA"
+    },
+    {
+      "screenshot": "https://lh3.googleusercontent.com/h1UnYlfL7dbNLSFKBpb9fI61WHlsl2m7mXLpYu6kHwCefW9Z7eZkvghq1pfgj9vuaBW2L5LaVMqTdsqTw7ng54BuQg"
+    },
+    {
+      "screenshot": "https://lh3.googleusercontent.com/QpFiIjiDeo3F4YdplWrRM3Qexp0aeR-5i8i1nOQYPr5CISsImQhj0Y8-3ZP9U7qjY9MPikWG3gTDE-LO-s1mtdqC"
+    },
+    {
+      "screenshot": "https://lh3.googleusercontent.com/jTjJE7VJHAzBc-kFmh-As6kE6Uue3Vg01QR_P9d9p_GtAaeMFgbHSMUS39zh9AY5RzvEpja6972dQB15Z3_4oRjy"
+    },
+    {
+      "screenshot": "https://lh3.googleusercontent.com/nrGZr6VO27oHC-S2paHAsWJ4Awvlum8CmxheH2Tbi2oTzTt7x0SqCorY6cc0-eCNnKHNHfFSsuSGs2sSrKTcbKiHQg"
+    }
+  ],
+  "numScreenshots": 6,
+  "numVideos": 1,
+  "smallBanner": "https://lh3.googleusercontent.com/AzTEx5Lsx54X1byAuh8OYFCyUtxvGJgOUILQtOJ_UmnKI7PhcXcACv_vX8pbsgWqwfMYd56VtsK_3C_TSFgqx3zgZg",
+  "ratingValue": 4.721649484536083,
+  "ratingCount": 388,
+  "author": "zombieFox",
+  "related": [
+    "ocginjipilabheemhfbedijlhajbcabh",
+    "ngigalmiikbffkcabedaikboeodibhga",
+    "afehkdebfodlbdmohfkiocgjehoendfd",
+    "dighjoofcdkhjloaeakagmfnbiehebbb",
+    "obanalcjjhlhikmhfkeifieifjbpnchg",
+    "hjapnkiokjkamfjenbdagacmpkobjlgi",
+    "nmgpnfccjfjhdenioncabecepjcmdnjg",
+    "hipekcciheckooncpjeljhnekcoolahp",
+    "pjbgfifennfhnbkhoidkdchbflppjncb",
+    "dlnejlppicbjfcfcedcflplfjajinajd",
+    "ogkoifddpkoabehfemkolflcjhklmkge",
+    "lllnjdmfnfjifcfpppjmcnanpokikcpl"
+  ],
+  "privacyCollections": [],
+  "disclosePrivacyCollection": true,
+  "isTrustedPublisher": true,
+  "isFeatured": true,
+  "riskScore": 0,
+  "riskImpact": 1,
+  "riskLikelihood": 0,
+  "creationDate": "2020-06-16",
+  "fetchId": "20240527",
+  "oneWeekDelta": {
+    "userCount": 0,
+    "ratingValue": 0.001442230650072318,
+    "ratingCount": 2
+  },
+  "oneDayDelta": {
+    "userCount": 0,
+    "ratingValue": 0.0007192519779426476,
+    "ratingCount": 1
+  },
+  "ranking": [
+    {
+      "ts": "20240527",
+      "value": {
+        "overall-rank": 1340,
+        "extension-rank": 1214,
+        "cat-productivity/workflow-rank": 117,
+        "col-dark_mode-rank": 7,
+        "keyword-search_bar-rank": 198,
+        "featured": 697
+      }
+    }
+  ],
+  "reviewSummary": {
+    "pros": [
+      "Highly customizable",
+      "Useful features",
+      "Great for personalizing new tab page"
+    ],
+    "cons": [
+      "Complicated to set up",
+      "Issues with importing bookmarks",
+      "Limited options for greetings header"
+    ],
+    "mostMentioned": [
+      "Customizable",
+      "Doesn't work",
+      "Good for personalizing"
+    ]
+  },
+  "reviews": [
+    {
+      "reviewId": "812804db-a413-42c1-87a2-b793370b15a8",
+      "authorId": "LAREDOTEAM",
+      "authorName": "LAREDOTEAM",
+      "authorPicture": "https://lh3.googleusercontent.com/a-/ALV-UjXQG7YVWGpz-KN9WKkmE90uAXBI4ACnxlFJRG6ru5c86_tVHKY=s32",
+      "rating": 5,
+      "creationTime": 1716751365000,
+      "updatedTime": 1716751365000,
+      "timestamp": "2024-05-26",
+      "ingestionTime": 1716808140483,
+      "numHelpful": 0,
+      "numVoted": 0,
+      "version": "7.3.0",
+      "body": "Lo utilizo desde hace muchos a\u00f1os y es absolutamente el mejor complemento para personalizar la pagina de inicio o nuevas pesta\u00f1as de los principales navegadores, 100% recomendable.",
+      "lang": "es",
+      "fetchId": "20240527"
+    },
+    {
+      "reviewId": "8e22d216-9ff3-4d73-9ddd-5828906b02b8",
+      "authorId": "Pedrinho",
+      "authorName": "Pedrinho",
+      "authorPicture": "https://lh3.googleusercontent.com/a-/ALV-UjU2vWhoVsWrd98gZCAav5t-qT_yYu1tt9in45Z9HFcOowgYdFbZ=s32",
+      "rating": 5,
+      "creationTime": 1716585707000,
+      "updatedTime": 1716585707000,
+      "timestamp": "2024-05-24",
+      "ingestionTime": 1716635345462,
+      "numHelpful": 0,
+      "numVoted": 0,
+      "version": "7.3.0",
+      "body": "muito bommmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
+      "lang": "pt",
+      "fetchId": "20240525"
+    },
+    {
+      "reviewId": "4d70f9a8-bda6-4821-993d-66ffb0fb58ef",
+      "authorId": "Artem Martynenko",
+      "authorName": "Artem Martynenko",
+      "authorPicture": "https://lh3.googleusercontent.com/a-/ALV-UjWGX9mWUkRjneTDNRg3deCAEwpVIFu3Sv4ZdHWEpFOIf42Js6k=s32",
+      "rating": 5,
+      "creationTime": 1716472651000,
+      "updatedTime": 1716472651000,
+      "timestamp": "2024-05-23",
+      "ingestionTime": 1716548872402,
+      "numHelpful": 0,
+      "numVoted": 0,
+      "version": "7.3.0",
+      "body": "Amazing extension",
+      "lang": "en",
+      "fetchId": "20240524"
+    }
+  ],
+  "metaTitle": "nightTab - Customisable New Tab Extension for Chrome",
+  "metaDescription": "nightTab is a Chrome extension that transforms your new tab page into a personalised interface, with time, date, search function, and bookmarks.",
+  "metaSummary": "nightTab is a versatile Chrome extension designed to enhance your browsing experience. It turns your page into a customised hub featuring the time, date, a search bar, and your chosen bookmarks arranged in groups. nightTab enables you to personalise the layout, theme, font, background image or video, and accent colour, ensuring a unique browsing experience. Users can also backup their setup to a local file. Importantly, nightTab respects your privacy, not collecting or using personal or browser data.",
+  "downloads": {
+    "enabled": true,
+    "zipUrl": "/api/download?id=hdpcadigjkbcpnlcpbcohpafiaefanki&type=ZIP&version=7.3.0",
+    "crxUrl": "/api/download?id=hdpcadigjkbcpnlcpbcohpafiaefanki&type=CRX&version=7.3.0"
+  },
+  "alternatives": [
+    {
+      "url": "https://chromewebstore.google.com/detail/night-shift/ocginjipilabheemhfbedijlhajbcabh",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/YGPfDK7NaYO7W3u2DtrFmQsnE17jX3b_ag10_h61c5h4pSw0qaf5ypd8n9sxSyXuAx83uUobL6nnk5sFGknX5tO5-WE",
+      "name": "Night Shift",
+      "id": "ocginjipilabheemhfbedijlhajbcabh",
+      "version": "1.1.2",
+      "description": "Night Shift automatically shifts the colors of your browser content to the warmer end of the color spectrum after dark.",
+      "fullSummary": "Night Shift automatically shifts the colors of your browser content to the warmer end of the color spectrum after dark.\n\n\u26a1 You need to refresh all the tabs, which were opened BEFORE the Night Shift was installed. You can also restart Chrome to refresh all the tabs at once. Otherwise, Night Shift will work only with the newly opened tabs. \n\n\u26a1In accordance with the Chrome Browser policies, Night Shift is restricted to work on the Chrome Web Store and Home Page. Please open any other website (for example, YouTube) after installing this extension and check the extension in action.\n\nNight Shift provides itself on a scheduled basis, you can choose from 3 options:\n1. Sunset to Sunrise (Chrome colors will be shaded every day automatically on Sunset).\n2. Off (manually enable the Night Shift to shade the screen)\n3. Custom (set up your own schedule to start up and finish display color adjustments)\n\nTake care of your eyes. Change screen brightness to special eye-protective colors from the list or to a color that you prefer.\nNight shift changes the colors of the screen to warm and eye-protective shades. You can set automatically change screen mode by schedule or select a color theme for a certain website.\n\nWorking on a computer a night time may take affect your eyes. Night Shift Mode is a good opportunity to reduce screen brightening to take care of your eyes. Dark Mode isn't suitable for all websites, so applying warm colors to all websites will be the best alternative for screen tinting. \n\nScreen Shader Mode is a pleasure for your eyes!",
+      "userCount": 200000,
+      "lastUpdate": "2024-03-22",
+      "size": 165888,
+      "email": "kaigernipired@gmail.com",
+      "supportedLanguages": [
+        "id",
+        "ms",
+        "de",
+        "en",
+        "en-GB",
+        "en-US",
+        "fr",
+        "sw",
+        "nl",
+        "no",
+        "vi",
+        "tr",
+        "ca",
+        "da",
+        "et",
+        "es",
+        "hr",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "pl",
+        "pt-BR",
+        "pt-PT",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv",
+        "cs",
+        "el",
+        "bg",
+        "iw",
+        "fa",
+        "mr",
+        "hi",
+        "bn",
+        "gu",
+        "ta",
+        "te",
+        "kn-IN",
+        "ml",
+        "th",
+        "am-ET",
+        "ar",
+        "zh-CN",
+        "zh-TW",
+        "ja",
+        "ko"
+      ],
+      "category": "make_chrome_yours/accessibility",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://nightshift.lu/privacy-policy",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/7LuBkHNEfUbcisUh93lii6lybpCpgY2jWSttgZegE4_Vna1JLw1J9-Pw7U3d9YDaROj_RFrUb8u82Y1Gg6C6I9ob"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/t2gSwz24SpB_n5Vyol9VHYYQwZ3Xtiu47CNKVseQzuOI5lfqMeTptVjT-yA-1jouqmHoO04zB9Sg-wez4Lo58R113A"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/orLZNzhOHZz8rWnyK8quInu52ZnvTjb-9us7JotY0XJuMLJhJc2LwsX7xnUR2F8vzH7JWVzO8NtkFM2YrkW7BPUePw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/mF-43rUL9WJMjfQ97m30t6AvbsAyA7wL4Dd7hBvAff5UbLqEAG9ZW5Gy4vV1BJbrhMfNw7313iolxGQOwKqiDcKW"
+        }
+      ],
+      "numScreenshots": 4,
+      "smallBanner": "https://lh3.googleusercontent.com/JeTTbQ4DWZniW55ow_ofdLo6Gcb9zxG_xDUWccttG1EfFP8J3VG4fBfGgjOyzQeO4T3tXkp_PbSMJeYppBVdHhd_",
+      "ratingValue": 4.487101669195751,
+      "ratingCount": 659,
+      "permissions": [
+        "storage",
+        "scripting"
+      ],
+      "author": "https://nightshift.lu",
+      "website": "https://nightshift.lu",
+      "related": [
+        "dmghijelimhndkbmpgbldicpogfkceaj",
+        "dlpimjmonhbmamocpboifndnnakgknbf",
+        "pifalnbglchfojkfmechjalgbjoodlpg",
+        "pjbgfifennfhnbkhoidkdchbflppjncb",
+        "meakmfmcecciafnbacdcfdfhfdifcgfg",
+        "alncdjedloppbablonallfbkeiknmkdi",
+        "mhocdmcpgbfbodcdmgfppdicjaechnna",
+        "declgfomkjdohhjbcfemjklfebflhefl",
+        "kbbmooglpoifkklpckgabiahlicnhnmo",
+        "okcnoljhblabaagenlfpgknndajmmilm",
+        "bhbekkddpbpbibiknkcjamlkhoghieie",
+        "nlgphodeccebbcnkgmokeegopgpnjfkc"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "localizedDataPointer": {
+        "ms": "20231004",
+        "id": "20231004",
+        "ja": "20231004",
+        "ko": "20231004",
+        "zh-TW": "20231004",
+        "zh-CN": "20231004",
+        "th": "20231004",
+        "ml": "20231004",
+        "ta": "20231004",
+        "te": "20231004",
+        "gu": "20231004",
+        "bn": "20231004",
+        "hi": "20231004",
+        "mr": "20231004",
+        "bg": "20231004",
+        "el": "20231004",
+        "cs": "20231004",
+        "fi": "20231004",
+        "sl": "20231004",
+        "sk": "20231004",
+        "ro": "20231004",
+        "pt-PT": "20231004",
+        "pt-BR": "20231004",
+        "pl": "20231004",
+        "hu": "20231004",
+        "sv": "20231004",
+        "lt": "20231004",
+        "lv": "20240319",
+        "it": "20231004",
+        "hr": "20231004",
+        "es": "20231004",
+        "et": "20231004",
+        "da": "20231004",
+        "ca": "20231004",
+        "tr": "20231004",
+        "vi": "20231004",
+        "nl": "20231004",
+        "no": "20231004",
+        "fr": "20231004",
+        "en-US": "20231004",
+        "en-GB": "20231004",
+        "de": "20231004",
+        "am-ET": "20240319",
+        "ar": "20231006",
+        "kn-IN": "20240319",
+        "fa": "20231006",
+        "iw": "20231006",
+        "sw": "20240319"
+      },
+      "riskScore": 0,
+      "riskImpact": 2,
+      "riskLikelihood": 0,
+      "creationDate": "2020-07-08",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/subtle-tab/ngigalmiikbffkcabedaikboeodibhga",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/BIw-wX6u0XVa7j1on8-JbVdE0qfxFQTZOoLRKAggQ-fBWxYl_lBAy5aOxrRKo1Aa15qbS8vraxdA5Tkpv_9jLqYwgw",
+      "name": "Subtle Tab",
+      "id": "ngigalmiikbffkcabedaikboeodibhga",
+      "version": "0.0.22",
+      "description": "Personalized experience on new tabs for better productivity",
+      "fullSummary": "Subtle tab gives rejoicing experience to relieve stress and distractions with vibrant and eye soothing wallpapers. It keeps you updated about current weather and time for better management of your daily tasks. Various customizations like wallpaper categories, day and time settings, weather unit, Todoist & Wunderlist integrations in Todo widget etc. are available.\n\n- Latest features\n\n\u2022 Bookmarks Widget\n\u2022 Todo Widget\n\u2022 Google Calendar Widget\n\u2022 Notes Widget\n\u2022 Weather and Pollution Info Widget\n\u2022 Day and Time Widget\n\u2022 Inspirational Wallpapers \n\u2022 Recent Wallpaper Widget\n\u2022 Customizations\n\u2022 Shortcuts to access widgets\n\u2022 Sync across devices\n\n- Permissions\n\n\u2022 Location \u2013 For weather of current location\n\u2022 Google Calendar - To access google calendar events\n\u2022 Todoist - To access todos from Todoist application\n\u2022 Wunderlist - To access todos from Wunderlist application\n\nNote: We assure you, we are not tracking your location and using it only for fetching current weather details in case default location is selected.  Google Calendar requires optional permission to access google domain to fetch calendar events and its handled on user machine only without saving any data on servers. Similarly, Todoist and Wunderlist requires extra permissions to fetch todos from their servers.",
+      "userCount": 3000,
+      "lastUpdate": "2020-06-07",
+      "helpUrl": "https://goo.gl/forms/hMD1i4sXIUVwkKtD2",
+      "size": 4194304,
+      "email": "contact@subtletab.com",
+      "publisherAddress": "The Residency, Sector 52\nGurgaon, Haryana 122022\nIndia",
+      "publisherCountry": "India",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "make_chrome_yours/functionality",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://www.subtletab.com",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/0khWbujPtrMgf7Iz70C3IhR9mt7VGPiM76idoLbUSVetm7HONXZaIrmps4NfH6hSn1CgDaKwTL1BulPjCPTEa-Ux"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/WTUCPwNtLzmZbkJF0n97pEgNu5lfcZcMbho8iSAk_T0XHHCOpe-fh5TeT13oLjXAh3_jYI6kTM1sSfBISnFoc-DNV78"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/2_OO1Oz1tIIXJ-FAcF54OelPeOWvOcroKeLtVq3WJVvwQ0SZrKBII9E9raSrKYpGaJt3lpwPs-hSXJoljqASsnxCEw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/MFKTVTFo9ImKlg8Aae9O4qK0CbsSjYgobz6XMmF9rku6nrXwbit_-TQcxfZ5tmWURKzi_qeCJufxARegDLP5pgGAcQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/OrSjSiLtYQydHDOt7VsDDZGKtNE6Yb_RU7vM2mz1OAFxi48baWEROq8VxkVt7C3vM1sd3WrNPnUkcffe-8DPDINHOoo"
+        }
+      ],
+      "numScreenshots": 5,
+      "smallBanner": "https://lh3.googleusercontent.com/asxY9u42NYCgWq3P77adkzx6ZFBwhCS0mNGO-CCRuaZzyEG_4gHYnBpbnxQ_YNPSE0CfR5QAHh9WpdiM2m8ZkcSogQ",
+      "ratingValue": 4.386363636363637,
+      "ratingCount": 44,
+      "permissions": [
+        "geolocation",
+        "https://*.subtletab.com/",
+        "storage",
+        "unlimitedStorage"
+      ],
+      "author": "https://www.subtletab.com",
+      "website": "https://www.subtletab.com",
+      "related": [
+        "lpdmblngamggmhnifmdnifjjplbbhmle",
+        "likchgbfoehabkijbmdkahdohhdghllo",
+        "ehbacbnlkpdfkmgcmkpkaoeaoijpcihi",
+        "ambkjbmmhhlgjikfoimpdpicohjlfcnm",
+        "jmefobebfekofkbpfmjkmhjgaaaojkml",
+        "nolmjaabcfhpfogmjffginigknjdiilf",
+        "npmjjkphdlmbeidbdbfefgedondknlaf",
+        "legkgkghbgdnjniakjhbecfiohcapejh",
+        "klmkhcojgbaliikoaiekeohkloeaojnj",
+        "fejhjldfecjmihjjaddbpgipeaaegohg",
+        "ijhhakihjccpanbibbcceofpjnebokcb",
+        "lllnjdmfnfjifcfpppjmcnanpokikcpl"
+      ],
+      "privacyCollections": [],
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "creationDate": "2020-06-06",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/cursor-motion-blur/afehkdebfodlbdmohfkiocgjehoendfd",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/OQQ62UeC07DmgzdgjTk1nyBMkwgh02SP_5kqD2TSICXAxvJ-czVxU22e0vsf5-QgS6xvIASR3OO9qH8Ula0gN-WKobg",
+      "name": "Cursor Motion Blur",
+      "id": "afehkdebfodlbdmohfkiocgjehoendfd",
+      "version": "1.0.1",
+      "description": "Add motion blur to your cursor",
+      "fullSummary": "An open-source project that adds cursor motion blur effect to your Google Chrome browser.\n\nAfter you toggle the extension to \"ON\", the effect will be present in any website, as long as they start with \"http://\" or \"https://\"\n\nThe effect is customizable. You can change the cursor image to match your OS cursor, increase the length of the motion blur, etc.\n\nFor more information on the activation or customization process, please visit the GitHub page of this project:\nhttps://github.com/covector/cursor-motion-blur#readme",
+      "userCount": 7000,
+      "lastUpdate": "2021-04-23",
+      "size": 73134,
+      "email": "covector.dev@protonmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/fun",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "video": "https://www.youtube.com/embed/1FVa-4phTjY?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/48AsoL-Lut0Qcjwzpp2hVDSNVIR20Jij_YHePeUkssHu-NH6-htNYYcJtHSYR99_IUofg9pwzSsqRnoh2suKERxwjQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/-FE4CSZq8EekGMVS0jOtORZ8n9QegBZAT9u6pwa2G_L_x20PsgA7SGHjCuGVPRtgDCSRUfc6jZd88Vl9RwTVKq03"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Slk9z3Q1KAiPBFV6fMBcamiEabqqDMOumt1qPbhkQDvVMYYdh435gGCXAvmIJkKza1g5DFP-EOD6VqJWMmt3knxc"
+        }
+      ],
+      "numScreenshots": 3,
+      "numVideos": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/HRWnrRXv-25Q0WZYCo8SKZ1FT9udWshEAGNMb0s_Iqpi4HkbtkhXRmRJJd03HuYQMtfRcBhBgQuBlwuXt7YDX57Wpw",
+      "ratingValue": 3.0454545454545454,
+      "ratingCount": 44,
+      "permissions": [
+        "storage"
+      ],
+      "author": "covector",
+      "related": [
+        "gdngbglapejijhppfmpaofmcgbcpofnj",
+        "bgmbliffojkhembdalfdgldpeihhpdnm",
+        "pjppbcnlnfjabomiiefjmihiefbpfbdn",
+        "dgemgghfpehbgjofnpdeidajmobbkhfg",
+        "jldkfnpihcmhefmocabimamogcmmmeia",
+        "onnkoiclhlimgcgcfnidckkkcgladclh",
+        "jilechdbojlnkjfimmbijgcfmblddejk",
+        "gncmnedemogangodiljmfmlbndnchlnm",
+        "pjafcgbpdclmdeiipolenjgkikeldljl",
+        "hfhimnmjhalnlncfajdlbpjjoediacbf",
+        "dphepiflcbpgcjldbomodjehkcgjebkp",
+        "hdpcadigjkbcpnlcpbcohpafiaefanki"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 0,
+      "creationDate": "2021-04-20",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/discord-bot-client/dighjoofcdkhjloaeakagmfnbiehebbb",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/DMiJpyfBV3w32OxgUnxXonExKaNKHIkPwe7_qL6PvO45nt_vJcNAB2_wIsCgjuUFpY9QjsItwREUZXPToikwI192",
+      "name": "Discord Bot Client",
+      "id": "dighjoofcdkhjloaeakagmfnbiehebbb",
+      "version": "1.0.0",
+      "description": "This extension allows you to use https://discordbotclient.jtmaveryk.repl.co",
+      "fullSummary": "[NOTE]: In order to view the memberlist and more information, make sure all special intents are enabled.\n\nThis extension allows you to use https://discordbotclient.jtmaveryk.repl.co which allows you to login to your discord bot as a user. \n\n\nFeatures:\nView Guilds (Lazy load them)\n\nManage Guilds (Name, Image, Audit log, Emoji, Webhooks, Invites, Bans, Widget, Moderation, Roles)\n\nManage Channels (Add, Delete, Name, Permissions, Invites, Webhooks, Slowmode, NSFW, Topic)\n\nMessages (Send, View History, Embeds, View Reactions, Add/Remove Reactions, Delete, Edit, Pin)\n\nCreate a Guild (if the bot has fewer than 10 Servers)\n\nVoice Support\n\nSee Guild members in the side bar (you can see them in the server dropdown menu under members)\n\nUse Emojis from other servers (Nitro)\n\nGIF Search\n\nSend Files\n\nDM's (DM's will show up, after a user dms the bot)",
+      "userCount": 20000,
+      "lastUpdate": "2021-01-30",
+      "helpUrl": "https://discord.gg/wvmc2GrCht",
+      "size": 134144,
+      "email": "mattj1457@gmail.com",
+      "supportedLanguages": [
+        "en-US"
+      ],
+      "category": "productivity/developer",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/72pgND2CKahYAOXomArgoBVIxAL2SHEpgw5NxqXmS8TO28RObZk224F-N8Pq2qfBYP46qJcWfU40OIAAKy5Pb5nf"
+        }
+      ],
+      "numScreenshots": 1,
+      "ratingValue": 2.8350877192982455,
+      "ratingCount": 285,
+      "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "<all_urls>"
+      ],
+      "author": "matt-jones",
+      "related": [
+        "ealjoeebhfijfimofmecjcjcigmadcai",
+        "efjdggfjianihcbbbbnmlkblallomdbl",
+        "moncfdpjldlalmbimjjpbdenngeonnie",
+        "hdpcadigjkbcpnlcpbcohpafiaefanki",
+        "gdicgodoiikpogmgoihoipfagfcnfcnc",
+        "mpnckpmpddjcgkpjkmmakcamjhceadne",
+        "glpejjlbjjegcemceejaipihnhjkaddf",
+        "dlmmhgaeahcfkojednnfghfpinbinicj",
+        "cbghhgpcnddeihccjmnadmkaejncjndb",
+        "egfjccfngpialgcfdanenhidjhcbbonp",
+        "phhkfpenalhlnhefgcehhdgoabneidjn",
+        "doiagnjlaingkmdjlbfalakpnphfmnoh"
+      ],
+      "privacyCollections": [
+        9
+      ],
+      "disclosePrivacyCollection": true,
+      "riskScore": 3,
+      "riskImpact": 3,
+      "riskLikelihood": 1,
+      "creationDate": "2020-10-27",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/kluk/obanalcjjhlhikmhfkeifieifjbpnchg",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/v9COkWwQrSCvjo6kcEUPWJ7GTprXdmWuZ98VthGTJBe54DRb4o-ayuEwOrzYM30anS945MalEHTrMKVrhgbSuz36",
+      "name": "Kluk",
+      "id": "obanalcjjhlhikmhfkeifieifjbpnchg",
+      "version": "1.0.9",
+      "description": "Kluk is the new tab clock.",
+      "fullSummary": "New tab allows you to see an analog clock when you open it. You can use it with 8 clock theme.\nThe themes were inspired by galaxies and orbits.  \n\nThis extention made with love! \nDesigner : https://twitter.com/guvensozmen\nDeveloper : https://twitter.com/zeyneppozdem \n\nFollow and feedback to us.",
+      "userCount": 4000,
+      "lastUpdate": "2020-08-22",
+      "size": 46111,
+      "email": "graypinker@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/CeFtyFbmVtaaD41nEcVfxi3tOFS8KBi20y7rJpiD0zb4L1wrWDZ4fMMMH2HyN9dBqK6K0AUzesz2txtqNGNTWuMI"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/U_mcPbPPg4UKwqRsdDw7gfZmfyyDpamhD87F146TBDOZfipLzWbs9nVns-t5bM2icK8zll3PQdD6G77zoQN8seq0Pg"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/HqljJ1uWdrPj1sjC1ZaNMWRFJiwT4cwBcSj7QL-xhVlStXvpgOWo8lxFCZVvEl64wrd7O5vran9pYXG-wob70K_Q1A"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/FjHBX1-4J_mxiaxo7W6NeD6trBBsxkVMsWDGOWOhas9gmQOJlBAqPFQfaES5pAD7dY74SWU_Me24Bp1z31PaXUCE464"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Rt6cuxqPFwecvjLo5ZftYKZ0TJC5CCmLOa2roZwLzLxVO4E05gxzUjTpbHm3tvziv76mY76TmXgqgYFMJXVFGSsrFg"
+        }
+      ],
+      "numScreenshots": 5,
+      "smallBanner": "https://lh3.googleusercontent.com/sj9X_Vt75JJjNy2ZZRaldqVxuI4xQj6-s9ti7-v4NiE0u6xq3-7l8hSAJyvKSVcD_R9hDTw5x2fAquOOQ6PL0zAX",
+      "ratingValue": 4.75,
+      "ratingCount": 28,
+      "author": "graypinker",
+      "related": [
+        "ngigalmiikbffkcabedaikboeodibhga",
+        "kpblgdhkligkbbnbpkigppblggflihgn",
+        "ippnbhhbamibfpljlfmgogaondodicgi",
+        "danoojfpckpaacgbaebfakjeepeenaop",
+        "kddekbacamhkmdpjanhfddljeodbabdh",
+        "fdjemjfcplhejdekgjbdjjobbkipoddd",
+        "hdpcadigjkbcpnlcpbcohpafiaefanki",
+        "jbojhemhnilgooplglkfoheddemkodld",
+        "hcbddpppkcnfjifbcfnhmelpemdoepkk",
+        "ofokfnlmkfghjcmppfopibknmlhadhbm",
+        "likjnedfkpkabglldlnelmochinjpbjm",
+        "fkomicpabakagnjoglkljfefdlhkehod"
+      ],
+      "privacyCollections": [],
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 0,
+      "creationDate": "2020-08-21",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/hexagontab/hjapnkiokjkamfjenbdagacmpkobjlgi",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/PP3vHLIFv95LjSehtWGF0GW4_O90ZwS6yV5azC3njtUkAfiHpjidWkB8mxjqD1sxz12FysvKFVFagmnVkU5p43mj",
+      "name": "hexagonTab",
+      "id": "hjapnkiokjkamfjenbdagacmpkobjlgi",
+      "version": "4.1.0",
+      "description": "Hexagon bookmarks accented with a chosen colour. Customise the layout, style and background with hexagonTab.",
+      "fullSummary": "Save bookmarks to your start page on a unique hexagonal grid. hexagonTab keeps the new tab page clean and simple with a focus on presenting links to your most frequented sites.\n\nhexagonTab does NOT collect or use your personal or browser data in any way.",
+      "userCount": 2000,
+      "lastUpdate": "2022-05-17",
+      "helpUrl": "https://github.com/zombieFox/hexagonTab/issues",
+      "size": 854016,
+      "email": "kombiezombiefox@gmail.com",
+      "supportedLanguages": [
+        "en-GB"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "video": "https://www.youtube.com/embed/nKGPjtv5j1c?rel=0&wmode=opaque&enablejsapi=1"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/4ROnOExUT0ICVjKwAxBntUPK1img6pzxs5jryyMAsU_4eQW2gf24PaMqVAYu-QO4ahd2Yqy-k5PXx7gpO1lbO2Nrrw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/7_znMJ5N5cv2YzzZCZBZhZdIbOKIKJOpAcD1u7pMp1V5v7rjygvUvuQqODNNIy71gJtpNnc47fbx0xGmk6uqQoS7Ow"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/4B1YpMwSoRV2Dzf_tIMKQc6gj90JzTFjiF7kAwHgw70fk2LTMBegcGCsERfSToEY6xttryC4ksgK_5f3d_dcKowDkw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/e6FHBvUHy_4bjewGLheo-OAAB_-u5MmPCF_3mDIsPguQDBsllxbmfp3S8TxAgegi8NsJV4UmZsWEAPIsPPuJf-ZOHuY"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/AdOkKiyCvHSg6crChbgL6zMRv-MZNm_aY-piM422BuSiGqLH9L2FqLg4p6JrN_dx9xwNLNETvD_PEpckUbmgWAlG"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/ysUcTn0Y95X22gg3tgyfX5TsWFDRPctNeJVp8GJIh6EVi8fPjymH62xQ5dOGcBwE-reQyLLuxqoH259bS1Pr2xwB4A"
+        }
+      ],
+      "numScreenshots": 6,
+      "numVideos": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/Dg2scwZaOwDF08H-ZlKiXybGBSqV67Zrh5QC3XQZWXhVQ0ULf1lqn7-kwGp6Ak-nyC66GFmg2LsOeyW2VuYAX0vf2w",
+      "ratingValue": 4.6923076923076925,
+      "ratingCount": 13,
+      "author": "zombieFox",
+      "related": [
+        "bgfofngpplpmpijncjegfdgilpgamhdk",
+        "afehkdebfodlbdmohfkiocgjehoendfd",
+        "obanalcjjhlhikmhfkeifieifjbpnchg",
+        "ngigalmiikbffkcabedaikboeodibhga",
+        "dlnejlppicbjfcfcedcflplfjajinajd",
+        "hdekbnedodfockfppllkaaahaibfgcaj",
+        "hdpcadigjkbcpnlcpbcohpafiaefanki",
+        "jfakgfcdgpghbbefmdfjkbdlibjgnbli",
+        "cbghhgpcnddeihccjmnadmkaejncjndb",
+        "djlkbfdlljbachafjmfomhaciglnmkgj",
+        "klcbneehagefpihiifgdapgfiihdokfo",
+        "lllnjdmfnfjifcfpppjmcnanpokikcpl"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 0,
+      "creationDate": "2020-09-02",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/fasterweb/nmgpnfccjfjhdenioncabecepjcmdnjg",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/QFlB7wlPwthWXlHVc36-k1E0ypVSgUsFI6qRoFpZ2HuEq8_aSD3RKFqoB4UYPowF2FunXpB-dgJLOaxTM3AEfuZqiUw",
+      "name": "FasterWeb",
+      "id": "nmgpnfccjfjhdenioncabecepjcmdnjg",
+      "version": "23.12.14",
+      "description": "Browse the web faster.",
+      "fullSummary": "FasterWeb uses just-in-time preloading; it preloads a page right before you click on it.\n\nFaster Web works best on pages that are on the same sites. Pages to external sites are still faster but generally not enough to be noticeable.\n\nHow it works: Before you click on a link, you hover your mouse over it. When you have hovered for 65 milliseconds there is one chance out of two that you will click, so Faster Web starts preloading at this moment, leaving on average over 300 ms for the page to preload.\n\nPages that trigger an action (such as logging out or deleting something) are excluded. (FasterWeb won\u2019t preload pages with a \u201c?\u201d in their URL.)\n\nFasterWeb \u2014 previously called FasterChrome \u2014 is based on instant.page, a library that you can add to your site in just one minute to give it the same speed boost.\n\nMade with \u2764\ufe0f by BrowseCraft gang. Stand with Ukraine \ud83d\udc99\ud83d\udc9b.\n\nADS & PROMOTION\nWhen using FasteWeb, you may encounter advertisements for other extensions and affiliates links. These situational ads allow us to develop the product and make it free for you - our users.\nFor additional information, please, read our Privacy policy: https://browsecraft.com/privacy/fasterweb-privacy-policy",
+      "userCount": 100000,
+      "lastUpdate": "2023-12-15",
+      "helpUrl": "https://browsecraft.com/contacts",
+      "size": 14060,
+      "email": "support@browsecraft.com",
+      "supportedLanguages": [
+        "de",
+        "en",
+        "fr"
+      ],
+      "category": "make_chrome_yours/functionality",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://browsecraft.com/privacy/fasterweb-privacy-policy",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/lP78AGMldn3pUG5AL1rLL9Srm-tftMfmvQadl8n_Jrwh_S-py6zcNKbWGOF9OyviC5EN3pWDegmzZ0nd6YtHLGDOIQ"
+        }
+      ],
+      "numScreenshots": 1,
+      "smallBanner": "https://lh3.googleusercontent.com/NtH9GzH657guEr_xL0qzyRM4V_LuogxiuyUmIxG0u9Z_tfsK4S07rc5IfqcDSOL2nRSBLCCvmYj6lH0btLfiSV3gFA",
+      "ratingValue": 4.110497237569061,
+      "ratingCount": 181,
+      "author": "https://browsecraft.com",
+      "website": "https://browsecraft.com",
+      "related": [
+        "ahbkhnpmoamidjgbneafjipbmdfpefad",
+        "klekeajafkkpokaofllcadenjdckhinm",
+        "ogkoifddpkoabehfemkolflcjhklmkge",
+        "afebilemcaepdkmhmibgmnpfppnjimjf",
+        "bknaplcbimdibpjbabccgddcleoealam",
+        "dedbgebcenangidjnfanjpohlepjpfak",
+        "klmjgkkbknbcllohenhldfgbbkjafmgc",
+        "homgapmnacbmbflidhpenianmeidfcjp",
+        "nhjpidcaofjfenienakefihbddijonoh",
+        "faodanlpdbnpfnbjekababekhpmphfho",
+        "bpiehpmcnipgajgjdmalnpobnkfaanlj",
+        "jbfeongihppeenfnaofmdeikahaefljd"
+      ],
+      "privacyCollections": [
+        9
+      ],
+      "disclosePrivacyCollection": true,
+      "localizedDataPointer": {
+        "de": "20231119",
+        "fr": "20231119"
+      },
+      "riskScore": 2,
+      "riskImpact": 2,
+      "riskLikelihood": 2,
+      "creationDate": "2019-07-15",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/tabliss-a-beautiful-new-t/hipekcciheckooncpjeljhnekcoolahp",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/IqtSd2uhtYXHyXFrLiviJTnIuWDHGxpm4TD74tJrGE-RbzvLM4Mcub2FST0ottzKbbS8zbM9h1Vj3pfDK7-b2TVZ",
+      "name": "Tabliss - A Beautiful New Tab",
+      "id": "hipekcciheckooncpjeljhnekcoolahp",
+      "version": "2.6.0",
+      "description": "A beautiful New Tab page with many customisable backgrounds and widgets that does not require any permissions.",
+      "fullSummary": "Transform your new tab page to something beautiful and yours. Tabliss offers hundreds of customisation options to create a new tab page that unique to you. Choose from many background providers, and be rewarded with stunning, new pictures every time you open a new tab. Add your favourite widgets to stay productive throughout your day. Create your own new tab experience.\n\nWe care about your privacy and your experience. Tabliss is private, fast, and free. Completely free alternative to extensions like Momentum.\n\nFEATURES\n- Hundreds of customisation options\n- Millions of backgrounds\n- Useful widgets that keep you productive\n- Translations for over 40 languages\n- Private, secure, and requires no permissions\n- Settings sync between your devices\n- 100% free and open source\n\nBACKGROUNDS\n- Millions of photos with Unsplash\n- Millions of animated gifs with GIPHY\n- Solid colours and colour gradients\n- Upload images from your own device\n\nWIDGETS\n- Current time in: analogue, digital, or quotes from literature\n- Personal greetings that change over the course of the day\n- Real-time weather conditions\n- Inspiring daily quotes (or not inspiring, there are categories)\n- Todo list to keep track for tasks\n- Quick notes to jot things down\n- Quick links/speed dial for your favourite websites\n- Search box with support for Google, DuckDuckGo, and more\n- Work hours to count down the day\n- Live NBA scores for live games\n- GitHub contributions calendar\n- IP information about your connection\n- Custom CSS for advanced styling\n\nCONTACT\nsupport@tabliss.io",
+      "userCount": 60000,
+      "lastUpdate": "2022-04-25",
+      "helpUrl": "https://tabliss.io/support.html",
+      "size": 208896,
+      "email": "support@tabliss.io",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "lifestyle/art",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://tabliss.io/privacy.html",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Zm2G-0mL_0memJJaJYTh6_jTIWRttgpfjU4YhXlXiPER2f8vmyLDNg4rToNhO07Eaqxvvu4A9ea7El11xso7iGglNw"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/wMGuqrH5Pq9us1VVHby-Omn4rFTdl24JvopFqDp_zcapfjK0GMhYVb3lgXavE93hyVzLgr1IKq1NBr7iODLlY519"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/wc7jDULqI-HpIaYoBD7tH7q5QayJ3mudfGg5J1RaF6kA-uHMxdV_clNzzmdLMXe9SVcoNHl9-TBWhBjTVDVtnzHkvV4"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/VIzKN32UhIRgsVr5-5vHNdkjOh_B7LplqOnPUFS_ibfudb0P3KQYf_njIGUfgxjVvZbnv6DmsGbiFJBvq3zahWbepA"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/sBmLJbv2SqKCJkcYjvCTu4k5Cq7XjZ47sWDMmoZl30um66ERM54tHgBFw4zbgrikBKOTqeVuYwiamiEG2l6bGZy9O9k"
+        }
+      ],
+      "numScreenshots": 5,
+      "smallBanner": "https://lh3.googleusercontent.com/1-RobMgVJBdbEdNpbL_2r2UWJGhEzC0vGqTUZwNYkwKIrnW6LJz34F-eg-m4iYyNb1DF2gGHZOkhAQKG3EEN0-2T",
+      "ratingValue": 4.711805555555555,
+      "ratingCount": 288,
+      "permissions": [
+        "storage"
+      ],
+      "author": "https://tabliss.io",
+      "website": "https://tabliss.io",
+      "related": [
+        "ngigalmiikbffkcabedaikboeodibhga",
+        "hdpcadigjkbcpnlcpbcohpafiaefanki",
+        "fanglmholkgdapjcfohfhnofcacjiodl",
+        "ldgfbffkinooeloadekpmfoklnobpien",
+        "bgfofngpplpmpijncjegfdgilpgamhdk",
+        "ijhhakihjccpanbibbcceofpjnebokcb",
+        "cmfhopmhaagcfnjflfppceclmkenjkpc",
+        "bngmbednanpcfochchhgbkookpiaiaid",
+        "ambkjbmmhhlgjikfoimpdpicohjlfcnm",
+        "kpblgdhkligkbbnbpkigppblggflihgn",
+        "dlnejlppicbjfcfcedcflplfjajinajd",
+        "lllnjdmfnfjifcfpppjmcnanpokikcpl"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 0,
+      "creationDate": "2020-04-15",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/dark-mode-dark-reader-for/pjbgfifennfhnbkhoidkdchbflppjncb",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/IGW7qHAY7G7WGxvkOOijqMsr5HdQzb79qI7sJE_ayNWC2GWPpotN4gtxr-t6yM2F6ibhTqTGvPb2EVD8G3TzNRuMkA",
+      "name": "Dark Mode - Dark Reader for \u0421hrome",
+      "id": "pjbgfifennfhnbkhoidkdchbflppjncb",
+      "version": "1.4.10",
+      "description": "Dark Mode a classic dark theme for every website. Switch website to dark reader and for night and daily browsing.",
+      "fullSummary": "Dark Mode - Dark Reader for Chrome will put dark theme on all websites, suitable for those work at night and dark reader for online news or book reading.\n\nApply all websites in browser into dark mode and exclude any domain from black theme for better experience. It's possible to create your own custom theme with any color you like. \n\nWhat will you get from Dark Mode extension:\n- Turn on/off the dark mode manually - Click on the extension icon to turn on/off.\n- Exclude/Include a site from the dark mode - Choose \"Dark Mode\" > \"Disable/Enable for this site\"\n- Customize colors for websites - Change all colors you want.\n- Automatic schedule - Enable \"Auto ON/OFF\" in the section.\n\nNo more needs to open settings one by one for different websites - just one app brings black theme across the whole net. \n\nOption page is now available! Useful features:\n- Site exclusion. Enter a correct web address to exclude the page from black theme applying.\n- Page exclusion. Optionally add domains that you don't want to apply into black theme.\n- Theme changer. Create your own custom theme! Save it, rename and apply at any time.\n\nNight Shift\nActivate Night Shift mode to invert the usual light from the screen to a warmer tone, thus, preventing your eyes from harm. You can turn the tool on and off in a single click when you need it.\n\nNight Shift and Dark Reader extension automatically shifts the colors of your browser content to warmer end of the color spectrum after dark. \n\nThis eye-care extension enables night mode by creating dark themes for websites on the fly. Dark Reader inverts bright colors, making them high contrast and easy to read at night. Extension will put dark theme on all websites, suitable for those work at night and dark reader for online news or book reading.\n\nFeel free to ask any questions and leave comments for extension. Your feedback is very important for us!",
+      "userCount": 8000000,
+      "lastUpdate": "2024-02-07",
+      "size": 674816,
+      "email": "quanlimetunduc@gmail.com",
+      "publisherAddress": "5813 Geary Blvd\nSan Francisco, CA 94121\nUnited States",
+      "publisherCountry": "United States",
+      "supportedLanguages": [
+        "id",
+        "ms",
+        "de",
+        "en",
+        "en-US",
+        "fil",
+        "fr",
+        "sw",
+        "nl",
+        "no",
+        "vi",
+        "tr",
+        "ca",
+        "da",
+        "et",
+        "es",
+        "hr",
+        "it",
+        "lv",
+        "lt",
+        "pl",
+        "pt-PT",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv",
+        "cs",
+        "el",
+        "sr",
+        "bg",
+        "ru",
+        "uk",
+        "iw",
+        "fa",
+        "mr",
+        "hi",
+        "bn",
+        "gu",
+        "ta",
+        "te",
+        "kn-IN",
+        "ml",
+        "th",
+        "am-ET",
+        "ar",
+        "zh-CN",
+        "ja",
+        "ko"
+      ],
+      "category": "make_chrome_yours/accessibility",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://darktheme.org/privacy-policy.html",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/trz_1ywKUJuYtvBjbXV2GfqpjnGVRVaZ_-ZrWe0HPtIpyEO-dnBBf1wMdNjuPNxK6nZn3ubcFrJliChMndf2bQRSUQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/v38nXegXc2vUw3OSQwx3YQ2216zztBGLkYLncbd6xZV1PO_xzJlexaRMhmSxRdevG_UsGnzVjdd7NVu3cOYkYjnM3A"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/LpdIqX7ij_i3amOA33xHpLf-SLohtqIG9PSgfTY-tW-8YmMglSE7svDGz9R5B4HqlVCpbHzx0mVjuIO7X_MuTwIS"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/GpTsHqJkbslkSVn5PR9XxrCebZmZjytOlwmYsXqxj3ck9mh_D-AHamJCqeOdY_YV_S6HGJ0bJddp-CvG-8PiQENXgiI"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/25DQrKq90ksXWUqg4o6JZz8VeW5luQ9gvwGibW5MNCCAD1rTRJX5Qs51lh-fwGKz3NO8K09Rh6PmJeXo83cG3FOZ"
+        }
+      ],
+      "numScreenshots": 5,
+      "smallBanner": "https://lh3.googleusercontent.com/Ws5j2HFaYatwfFxVXjIO9VcF9NTiGbM6PA7SURs-SKkT7xYgxtxrNwIif3j9jM2exzApsgz5ELF8NvOLSRaE4_qrLA",
+      "ratingValue": 4.491235059760956,
+      "ratingCount": 2510,
+      "permissions": [
+        "storage",
+        "contextMenus",
+        "webNavigation"
+      ],
+      "author": "https://darktheme.org",
+      "website": "https://darktheme.org",
+      "related": [
+        "dmghijelimhndkbmpgbldicpogfkceaj",
+        "epbpdmalnhhoggbcckpffgacohbmpapb",
+        "mkeimkkbcndbdlfkbfhhlfgkilcfniic",
+        "ocginjipilabheemhfbedijlhajbcabh",
+        "ljjmnbjaapnggdiibfleeiaookhcodnl",
+        "kdllaademhdfbdhmphefcionnblmobff",
+        "iefadjgldnnpdadmphmaapklchpjhcnj",
+        "pdpfhanekfkeijhemmfbnnjffiblgefi",
+        "eckokfcjbjbgjifpcbdmengnabecdakp",
+        "ioleaeachefbknoefhkbhijdhakaepcb",
+        "gjjbmfigjpgnehjioicaalopaikcnheo",
+        "nlgphodeccebbcnkgmokeegopgpnjfkc"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "localizedDataPointer": {
+        "id": "20231004",
+        "ms": "20231004",
+        "ko": "20231004",
+        "ja": "20231004",
+        "zh-CN": "20231004",
+        "th": "20231004",
+        "ml": "20231004",
+        "te": "20231004",
+        "ta": "20231004",
+        "gu": "20231004",
+        "bn": "20231004",
+        "hi": "20231004",
+        "mr": "20231004",
+        "uk": "20231004",
+        "ru": "20231004",
+        "bg": "20231004",
+        "sr": "20231004",
+        "el": "20231004",
+        "cs": "20231004",
+        "sv": "20231004",
+        "fi": "20231004",
+        "sl": "20231004",
+        "sk": "20231004",
+        "ro": "20231004",
+        "pt-PT": "20231004",
+        "pl": "20231004",
+        "lt": "20231004",
+        "lv": "20231227",
+        "it": "20231004",
+        "hr": "20231004",
+        "es": "20231004",
+        "et": "20231004",
+        "da": "20231004",
+        "ca": "20231004",
+        "tr": "20231004",
+        "vi": "20231004",
+        "no": "20231004",
+        "nl": "20231004",
+        "fr": "20231227",
+        "fil": "20231004",
+        "en-US": "20231004",
+        "de": "20231004",
+        "ar": "20231006",
+        "am-ET": "20231006",
+        "kn-IN": "20231006",
+        "fa": "20231006",
+        "iw": "20231006",
+        "sw": "20231006"
+      },
+      "riskScore": 0,
+      "riskImpact": 2,
+      "riskLikelihood": 0,
+      "creationDate": "2020-03-06",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/bonjourr-%C2%B7-minimalist-sta/dlnejlppicbjfcfcedcflplfjajinajd",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/zSgpTufDBtpgwK8ToqskbujeGe3C20X1yhfX6p0epiUQEmcPJLrAOw-g3Cy733yWvJaKy0YCLrqg0Ox3ggrikjlD",
+      "name": "Bonjourr \u00b7 Minimalist Startpage",
+      "id": "dlnejlppicbjfcfcedcflplfjajinajd",
+      "version": "19.2.4",
+      "description": "Improve your web browsing experience with Bonjourr, a beautiful, customizable and lightweight homepage.",
+      "fullSummary": "Every time you open a new window or tab, you'll be greeted by this minimalist looking page that will help your serenity and productivity. Thanks to its gorgeous high quality backgrounds that change according to the mood of the day, your new tabs will always feel fresh.\n\nBonjourr was built as a more modern alternative to homepages like Momentum. We took inspiration from iOS and Apple's design language to create this beautiful homepage that will help you focus on what matters.\n\nHere's some key features:\n\ud83c\udf4f iOS design language\n\ud83c\udfde Dynamic 4K backgrounds that change according to the mood of the day\n\u26a1\ufe0f Fast & lightweight!\n\ud83d\udd0e Search bar (compatible with all search engines)\n\ud83d\udd70 Analog clock with multiple clock faces\n\ud83c\udf24 Weather\n\ud83d\udd17 Quick Links\n\ud83d\udc4b Greets you by your name\n\ud83c\udf18 Dark mode\n\ud83e\udd56 Emoji as favicon\n\ud83e\uddd1\u200d\ud83d\udcbb Custom CSS styling\n\ud83d\udcdd Custom fonts\n\ud83d\udd12 Privacy focused\n\ud83c\udf0e Multilanguage\n\nBonjourr aims to look and feel minimal, while still bringing you lots of options to customize it to your liking. Set your own backgrounds (or Unsplash collections!), enable the beautiful analog clock, set your own font and Quick Links... You can even check out our documentation where we compiled some style snippets to do even more.\n\nThe project is entirely open source, developer friendly and actually respects your privacy. We do not collect any data, nor do you need to create an account to use it.\n\n---\n\n\ud83c\udfde Dynamic 4K backgrounds\nWe handpicked some of the most beautiful Unsplash photos so that your new tabs will always feel fresh. Discover high quality photos of incredible landscapes, animals and nature.\n\n\u26a1\ufe0f Fast & lightweight!\nBonjourr is built with vanilla JavaScript and optimized for the best possible performance.\n\n\ud83d\udd0e Search bar\nThe integrated search bar of Bonjourr is compatible with all search engines. Yes, all of them! If you want, you can even add you own custom search engine.\n\n\ud83d\udd70 Analog clock\nBonjourr's default clock is made to reassemble what you have on the iPhone and other iOS devices. But if you'd like something more exotic, you can replace it with a very cool analog clock, and customize it as you'd like.\n\n\ud83c\udf24 Weather\nIn a simple sentence, get a summary of you local current weather and forecast.\n\n\ud83d\udd17 Quick Links\nIt wouldn't be a real homepage without bookmarks! Bonjourr allows you to add your own bookmarks, change their icons and import your current bookmarks from your browser.\n\n\ud83c\udf18 Dark mode\nJust like on iOS, Bonjourr has a beautiful automatic dark mode.\n\n\ud83e\udd56 Emoji as favicon\n\n\ud83d\udd12 Privacy focused\nSome homepages like Momentum encourage you to create an account, give them some personal info, use more permissions and rely on many third party services. Bonjourr doesn\u2019t collect any data, even for analytics purposes, use minimal permissions, rely on fewer third party services and of course doesn\u2019t have any account system. Bonjourr being open source also means that you can easily check out if our claims are true.\n\n\ud83e\uddd1\u200d\ud83d\udcbb Custom CSS styling\nHave a specific idea in mind? Bonjourr has you covered with the custom styles section. You can customize and do anything when you add your own CSS.\n\n\ud83d\udcdd Custom fonts\nWant a specific font on your homepage ? You can easily select it thanks to Bonjourr integration with Google Fonts.\n\n\ud83c\udf0e Multilanguage\nThanks to our awesome contributors, Bonjourr is available in more than 20 different languages.",
+      "userCount": 100000,
+      "lastUpdate": "2024-04-19",
+      "helpUrl": "https://bonjourr.fr/#contact",
+      "size": 418816,
+      "email": "bonjourr.app@pm.me",
+      "supportedLanguages": [
+        "id",
+        "de",
+        "en",
+        "fr",
+        "nl",
+        "vi",
+        "tr",
+        "da",
+        "it",
+        "hu",
+        "pl",
+        "pt-BR",
+        "pt-PT",
+        "ro",
+        "sk",
+        "fi",
+        "sv",
+        "sr",
+        "ru",
+        "uk",
+        "fa",
+        "ar",
+        "zh-CN"
+      ],
+      "category": "make_chrome_yours/functionality",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://bonjourr.fr/privacy",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/oMlrwoWjyPSf6IYlio5GZ7VuwZh5g4Qt8q4B9MtAlY_O0qrp0WSlb2i-dnOuw4APt6vM0fI8Jsn9xojYSt1dZBMRvoA"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/GChlm2kNr4jZ3KMFcd4bELtPBQJCqVJwhrTEXw72kYmYNNPLGAFJvAgHxV7kiIccRCjdak8knh8sgpI_bPNNFyT46go"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/t2B21K6YeqjNCyjPhWHmQ5I_mn3Rgk9RRIgCiK-FAEAv8jfODuUQYpoIkqfvC1vwQlX6CD1cNAhG3OPBhEJAYxug"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/dLJJFEK4BnpEh4uUNAlMpafwvhBAEXuFkIiwk-NdCpDi2h0xi2Y5u74rnsYBF37PA8XE_luenEnm2GXorSeKTsSmLQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/i5xvutae6sXov7V2K4ye442G_THwwGkBEip025834tbTGlANtPjlZx79HT_9yiz__SHaOUm_o5yI98gF2ZxEPnU5"
+        }
+      ],
+      "numScreenshots": 5,
+      "smallBanner": "https://lh3.googleusercontent.com/SjYqVdSmZDuBA55NLO9CHrOglVeRqxQiO_1zUKrUvJOdZvLBaFiChSYGcrVxRsC2vqnW_jewH8m_LqtVqd35YL2CJQ",
+      "ratingValue": 4.899434825513591,
+      "ratingCount": 11147,
+      "permissions": [
+        "storage"
+      ],
+      "author": "https://bonjourr.fr",
+      "website": "https://bonjourr.fr",
+      "related": [
+        "kpblgdhkligkbbnbpkigppblggflihgn",
+        "bpcpcfmnkiibookjkccgafkdejbbpjac",
+        "ngigalmiikbffkcabedaikboeodibhga",
+        "afdfpkhbdpioonfeknablodaejkklbdn",
+        "hdpcadigjkbcpnlcpbcohpafiaefanki",
+        "npmjjkphdlmbeidbdbfefgedondknlaf",
+        "hipekcciheckooncpjeljhnekcoolahp",
+        "ogkoifddpkoabehfemkolflcjhklmkge",
+        "cmfhopmhaagcfnjflfppceclmkenjkpc",
+        "fgjkpniomfjjdnmnahjeglgobdlmglma",
+        "fnfdomooadjpfohbepiaonnbdmkdjiog",
+        "lllnjdmfnfjifcfpppjmcnanpokikcpl"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "localizedDataPointer": {
+        "id": "20240128",
+        "de": "20240128",
+        "zh-CN": "20240128",
+        "uk": "20240128",
+        "sr": "20240128",
+        "ru": "20240128",
+        "sv": "20240128",
+        "fi": "20240128",
+        "sk": "20240128",
+        "ro": "20240128",
+        "pt-BR": "20240128",
+        "hu": "20240128",
+        "pl": "20240128",
+        "it": "20240128",
+        "da": "20240128",
+        "tr": "20240128",
+        "nl": "20240128",
+        "fr": "20240128",
+        "fa": "20240128",
+        "pt-PT": "20240223",
+        "ar": "20240305",
+        "vi": "20240305"
+      },
+      "riskScore": 0,
+      "riskImpact": 1,
+      "riskLikelihood": 0,
+      "creationDate": "2020-03-29",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/tweaks-for-youtube/ogkoifddpkoabehfemkolflcjhklmkge",
+      "paymentType": "free",
+      "logo": "https://lh3.googleusercontent.com/WmYTd_OV6T02spKBkBFb7HzSDshWEBshMFo_ji3zJasoLQCrN0w3PPDi2511Qf7yFcvpU3qBOAow0KfT_Vq47_WW",
+      "name": "Tweaks for YouTube",
+      "id": "ogkoifddpkoabehfemkolflcjhklmkge",
+      "version": "3.67.0",
+      "description": "Seek, control volume, speed, and more with mouse and keyboard. Adjust player controls, progress bar, UI elements, process audio...",
+      "fullSummary": "Browser extension for YouTube (including embedded videos), YouTube Music, and Google Drive videos.\n\n100+ features available! Features are turned off by default - explore the extension's Popup and Options page and enable the ones you need. After installation, reload all YouTube pages!\n\nFast forward, rewind, navigate chapters, control volume, speed, and more (50+ actions) with an unlimited number of custom mouse controls (hover over different areas of the video and use mouse wheels or buttons) and keyboard shortcuts. Use global keyboard shortcuts to control active video from any app.\n\nTurn on the \"Auto Gain\" feature to balance sound levels across different videos by making quieter videos louder. One of the audio channels is quieter or missing? Just turn on the \"Mono Mix\". Use the \"High Pass Filter\" to make muddy audio with too much bass clearer. If the volume is still too low, there is a \"Boost Volume\" feature.\n\nMake player controls always visible, hidden, visible only on mouse hover, or show only a minimalist progress bar. Auto-hide them in less than the default 3 seconds. Customize volume and time display and base time on the current playback rate.\n\nComplete features list: inzk.dev/tweaks-for-youtube/features\n\nSupport me on Patreon: patreon.com/inzkdev\n\n--------------------------------------------------------------------------------\nPrivacy Policy\n--------------------------------------------------------------------------------\n\nThis extension does not collect personal data from users, and it does not send any user data to a remote server. The only data it collects are extension settings, and this is stored locally on your PC.\n\nThis is an independent project and has no relationship to YouTube\u2122 or Google LLC.\n\n--------------------------------------------------------------------------------\nPermissions\n--------------------------------------------------------------------------------\n\nContextMenus - for the \"Search YouTube\" feature\n\nScripting - to inject JavaScript and CSS (\"Custom CSS And JavaScript\" feature)\n\nStorage - for storing extension settings\n\nSite Access (can be turned on/off individually)\n- www.youtube.com\n- music.youtube.com\n- www.youtube-nocookie.com - for embedded videos in privacy-enhanced mode\n- youtube.googleapis.com - for Google Drive videos\n\n--------------------------------------------------------------------------------\nFeatures (check the website for a complete list)\n--------------------------------------------------------------------------------\n\nMouse Control\n- interact with the video player, shorts player, or miniplayer using any mouse button or wheel\n- 50+ actions available, such as:\n- seek (units available: second, frame, chapter, %)\n- adjust or set volume, toggle mute\n- adjust or set playback rate (from 0.1x to 16x)\n- adjust video quality, subtitle's font size, take a video snapshot, save to playlist, show comments in the sidebar, and many more\n\nVideo Chapters Navigation\n- use the middle, right mouse button, or double click anywhere on the chapter container on the progress bar, and the chapter will start playing from the beginning\n\nContent Filters\n- hide watched videos, shorts, upcoming, live, mix, and other video types and sections on various pages\n\nClean Player\n- remove annotations, cards, watermark, end screen, video title, heatmap, ambient mode, buttons, overlays\n\nClean Page\n- remove logo yoodle, reminders, hints, surveys, nudges, thumbnail overlays, some ads, and other page elements\n\nHide Comments, Sidebar, or Related Videos In Sidebar\n\nHide All Action Indicator Animations\n- hide icons and animations that show up when you change volume, speed, etc.\n\nDim Watched Videos\n- make watched videos more distinctive\n\nCustom Rich Grid Layout\n- customize layout on the home and subscriptions pages, and channel's videos and live tabs\n- options: Decrease container width, Decrease font size, Hide avatars, Number of items per row\n\nChat Visibility\n- show chat replay, auto-hide live chat, or disable the chat section\n\nChannel Trailer\n- Disable autoplay\n- Hide trailer section\n\nDisable Inline Playback\n- don't play videos when you hover over them on the home or other pages\n\nInitial Active Channel Page Tab\n- when opening the page, navigate directly to the videos, shorts, live, or other tabs\n\nShorts Player - Overlay\n- hide the top overlay (play/pause and volume controls)\n- hide the bottom overlay (subscribe button and info)\n- make overlays visible only on mouse hover\n\nShorts Player - Convert Title To A Link To Normal Player\n- click on the video title to open short video in the normal video player\n\nShorts In Normal Player\n- shorts will seamlessly open in the normal video player\n\nAutoplay Next Short\n- automatically play the next short video when one ends\n\nLoop Shorts\n- automatically turn on/off loop (auto-repeat) on current and every new short\n\nConvert Channel Name To Link (available in Chromium-based browsers)\n- in the playlist, queue, or related videos, click on the channel name, and the page will open in the new tab after a second or two (this feature might not work in all browsers)\n\nShow Full-Size Thumbnails And Avatars\n- Ctrl+Click on any thumbnail or avatar image to show the full-size version\n\nShow Playlist Duration\n\nVideo Filter\n- adjust the video brightness and contrast (0 - 200%)\n\nZen Mode\n- dim, blur, and grayscale all sections except the video player on watch page\n- a section becomes visible on mouse hover, and all sections become visible when you start scrolling down\n\nReplace Mute Button With Volume Level\n- show volume level (e.g., 50%) instead of the mute/unmute button in the player\n- you can still click on it to mute/unmute\n\nEnable Custom Time Display In Player\n- replace the default time display (current time / duration) with a custom one based on a template\n\nAlways Visible Volume Bar\n\nSticky Player\n- keep the smaller version of the player always visible while scrolling\n- options to not activate the sticky player when the video has ended or while it's paused\n- compact and wide variations\n- options to set position and offset\n\nExpanded Cinema (Theater) Mode\n- expand the player to the full window in cinema mode\n- options to hide header and scrollbar\n\nTransparent Video Description And Buttons\n- remove the background from buttons below the player (Like, Dislike, Share, etc.) and from the description section on watch page\n\nVideo Description\n- Expanded - automatically clicks the 'Show More' button\n- Minimalist - show only number of views and date when collapsed\n- Show Exact Date / View Count\n\nAutomatically show Chapters, Transcript, Description, or Comments in Sidebar\n\nFixed Sidebar\n- in the Default (Normal) video view the sidebar has a fixed position and its own scrollbar\n\nThin Scrollbars\n- change the style of various scrollbars (page scrollbar, scrollbars in dialogs)\n\nUp Next Video In 0 Seconds\n\nAutoplay Switch - Turn Off\n- controls the Autoplay switch (the first button in the bottom right corner of the video player)\n- it will check the switch when the new video starts and turn it off\n\nDisable Autoplay Next Video In Playlist\n\nDisable Auto Pause\n- disable the \"Video paused. Continue watching?\" feature\n\nInitial Player State\n- enables you to stop the player when you open a new video\n- separate options for foreground and background tabs\n\nPause Previous Video\n- pause the previous video when another one starts playing\n\nLoop Normal Videos\n- automatically turn on loop (auto-repeat) on current and every new normal video\n\nSkip Video Intro / Outro\n- start playing the new video from a specified time or chapter to avoid watching repetitive intros\n- can be set for individual channels or all videos\n\nSkip Ads\n- skip any ad at any time with a mouse or keyboard shortcut (add \"Seek to\" action, set unit to \"%\" and value to \"100\")\n- automatically skip any kind of ad after specified time delay\n\nAutoclick the \"Skip Ads\" button\n\nVideo View - Start New Video In\n- always start the new video in the Default view or Cinema mode\n\nPreferred Video Resolution\n- automatically set on every new video\n- set different resolutions when the video is in fullscreen mode, cinema mode, on embedded videos, and on background videos\n\nInitial Fullscreen\n- start playing the new video in fullscreen mode\n\nInitial Volume\n- automatically set on every new video or session\n\nInitial Playback Rate\n- automatically set on every new video\n\nSubtitles\n- turn subtitles automatically on/off on every new video\n- set them to a fixed custom position\n- align text to the center\n\nPicture-In-Picture Mode (available in Chromium-based browsers)\n- enter and exit using local or global shortcuts\n- additional version with progress bar and mouse control available in some browsers\n\nInstant Fullscreen\n- enter this mode without delay, even with many comments and related videos loaded\n\nInstant Play / Pause\n- play or pause the video instantly on the mouse button pressed\n\nToggle Fullscreen with Middle Mouse Button\n\nVideo Snapshot\n- capture the video frame at the current time and resolution, and save it as JPG, PNG, or WebP file\n- copy captured frame to clipboard (available in Chromium-based browsers)\n- optionally, include subtitles\n\nVideo Download Link\n- create a video download URL from a template\n- copy URL to the clipboard - when downloading videos with command-line programs like yt-dlp\n- open URL in a new tab - when downloading videos with browser tools\n\nCopy Video URL / Copy Video URL At Current Time\n- available domain formats - Short (youtu.be/...), Long (www.youtube.com/...)\n- available time formats - Default (t=1000), HMS (t=16m40s)\n- option to remove playlist from URL\n\nComments - Focus Input / Paste Timestamp\n- paste a timestamp of the current video time at the cursor position in comment input field\n- pasting timestamp also works in replies\n- option to automatically reduce timestamp by 1, 2, or 3 seconds\n\nSort comments by \"Newest first\" or \"Top comments\"\n\nBack To Comment\n- use this command after clicking on a timestamp in the comment section to scroll down to that comment\n\nBack To Top Button\n- scroll to the top of the page\n- select button color and position\n\nFocus Search Box\n- use a hotkey to focus the input and automatically paste the selected text into it\n\nOpen Search Results In New Tab (with Ctrl/Shift + Enter combinations)\n- Enter - open in current tab\n- Ctrl+Enter - open in new tab\n- Ctrl+Shift+Enter - open in new active tab\n- Shift+Enter - open in new window\n\nFull Video Titles\n- don't truncate video titles on various pages\n\nShow Video Playback Info\n- show the overlay containing current time / duration, remaining time, volume, and/or playback rate\n- adjustable font size and opacity\n\nEmbed Mode\n- watch the video in Embedded Player (in the current tab or popup window)\n\nContext Menus - Search YouTube\n- when you open the context menu on selected text on any website, there will be a \"Search YouTube for ...\" option\n\nCustom CSS And JavaScript\n- add custom styles and scripts",
+      "userCount": 40000,
+      "lastUpdate": "2024-05-17",
+      "size": 612352,
+      "email": "inzkdev@gmail.com",
+      "supportedLanguages": [
+        "en"
+      ],
+      "category": "productivity/workflow",
+      "itemCategory": "extension",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/G_T4k8Pkf7tlB5KKMNHJvMYd31HYRKsTeKMQWWSM-Idv4G-3MVKB_7dlmVXOBgPunh4fBbypINNWzu3sV-nSWm9pwA"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/cTS6ULCcEIlO9bFQatX8gjPALNk7zPPrDWUywhjNV5YHb-D2F5UCOdbVYoeeBXwfMOxGfvT8fFAjwZ-oTFds2zscww"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/74cIHAhp6inYa13UQKwSREZVXdE0loIRqtLgRvJ31dPsq-ZBwRoHSwFpvVSE7jz0VIop7_3cH7qtHn7QZIwOPbVR-9Y"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/Qltdyy6T9yJIlnEUgzLst-t3q8hStoxSGdqOfbcscpBdQ3kBEJdJnt1AVY7sDDKocXg8RXRLvcHc3As_f4Ev6HLR3A"
+        }
+      ],
+      "numScreenshots": 4,
+      "smallBanner": "https://lh3.googleusercontent.com/Vok1SQ-42Sl2qL2zlhNy0e0eGjKw10yxVQ39qGjyjq1P7MvEfDu4-IAQEz1s-iWtVXZ8O3Qz1r3fLi7Z2AhVnpRm2A",
+      "ratingValue": 4.755844155844156,
+      "ratingCount": 385,
+      "permissions": [
+        "contextMenus",
+        "scripting",
+        "storage"
+      ],
+      "author": "https://inzk.dev",
+      "website": "https://inzk.dev",
+      "related": [
+        "pgpdaocammeipkkgaeelifgakbhjoiel",
+        "doocmbmlcnbbdohogchldhlikjpndpng",
+        "ofbfdabicijcdjoeemcgabeeapciibbf",
+        "jiodfiiphdgcnmpfdhpjnpijndmkidkj",
+        "nkffinnefpnefeeaclgcoehjceiheeam",
+        "dammfdepmngjjoidfdbhkjboecgceamb",
+        "edeocnllmaooibmigmielinnjiihifkn",
+        "gdkadbhiemijfpoochcieonikoaciapi",
+        "eckknmnfoohbeklmjlidmfdlakndcfkm",
+        "fjchmkcdmgeimkholkgodkejnikeklmh",
+        "jahmafmcpgdedfjfknmfkhaiejlfdcfc",
+        "npmegcnbapicebebajligpkjdjjbempo"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "riskScore": 2,
+      "riskImpact": 3,
+      "riskLikelihood": 0,
+      "creationDate": "2020-06-10",
+      "fetchId": "20240527"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/homey-productivity-new-ta/lllnjdmfnfjifcfpppjmcnanpokikcpl",
+      "paymentType": "in_app",
+      "logo": "https://lh3.googleusercontent.com/71weua4fHqAqjJkfwpK1oUJMYAysd6M0FYZo6bqxJo-bN5w6hshxk1a5_pu-i9-tQcTheMQrydsGFoNv_-XNOGAsK6A",
+      "name": "Homey: Productivity New Tab",
+      "id": "lllnjdmfnfjifcfpppjmcnanpokikcpl",
+      "version": "4.21.19",
+      "description": "Turn new tab into a productive workspace, organize bookmarks, motivates with daily live wallpapers and inspirational quotes",
+      "fullSummary": "Hey, I'm Homey, I'll Help You Stay Inspired and Organized with All Your Essentials in One Place.\n\nTransform your browsing with Homey, Chrome extension that turns your new tab into a cozy and inspiring start page. With a focus on productivity and personalization, Homey offers a wide range of features to make your browsing sessions more efficient and enjoyable, and now, incredibly interactive with ChatGPT.\n\n\ud83c\udfe0 A Personalized Home Page with Live Wallpapers:\nEnjoy a new level of personalization with stunning live wallpapers. Choose wallpapers from a variety of themes like Summer, Travel, Abstract, Animals, Space, and more to set the perfect mood when you open a new tab. Feel positive vibes and get inspired by captivating backgrounds that reflect your style and personality. With Homey, your new tab home page becomes a canvas for beautiful live wallpapers that bring your browsing to life.\n\n\ud83d\udcda Organize Your Favorite bookmarks with Ease:\nExperience easy and fast access to all your favorite bookmarks with Homey's powerful bookmark manager. Create folders, tabs, and visually appealing bookmarks to keep everything organized and just a click away. Say goodbye to the hassle of searching for your most-visited sites, as Homey's intuitive bookmarks organizer allows you to effortlessly open bookmarks from your start page. Enjoy the convenience of Homey's user-friendly bookmark manager, streamlining your browsing experience like never before. With Homey, managing and accessing your bookmarks has never been easier.\n\n\ud83e\udd16 Instant ChatGPT Access for Seamless Assistance:\nHomey now integrates ChatGPT, an advanced AI chatbot, right at your fingertips. With Homey, you can access ChatGPT instantly for any query or task. Simply click the ChatGPT icon on your start page, and you'll have a friendly AI assistant ready to help you with information, answer questions, provide recommendations, or just engage in a chat. It's like having a personal assistant right in your browser, enhancing your browsing experience like never before.\n\n\u26a1 Boost Productivity with Widgets:\nStay informed and productive with widgets. Get real-time weather updates to plan your day effectively. Take notes and set reminders on the personal notes widget to stay organized and never miss important tasks. Additionally, find daily motivation with inspirational quotes that uplift your spirits and inspire success.\n\n\ud83d\udd0d Seamless Search Experience:\nHomey makes searching the web a breeze by offering a built-in search bar on your start page. No need to navigate to a search engine separately\u2014find what you need with ease and efficiency. Switch between search engines effortlessly for diverse results.\n\n\ud83d\ude80 Lightning-Fast and Lightweight:\nApp is designed to be quick and lightweight, ensuring a seamless browsing experience without bogging down your computer's resources. Enjoy an intuitive and optimized interface that makes navigation effortless.\n\n\ud83c\udf89 Festive Themes and Emotional Wellbeing:\nHomey understands the importance of emotional wellbeing for productivity. Experience a festive mood with holiday-themed live wallpapers, or choose soothing backgrounds to keep your stress levels in check. Let Homey be your personal mood assistant, making every new tab a refreshing experience with its delightful live wallpapers.\n\n\u2728 Customize Your Tab Themes:\nApp allows you to customize your tab themes to match your preferences. Select the perfect background and widgets to create a start page that resonates with your unique style and enhances your browsing journey. Choose from an array of live wallpapers to set the perfect tone for your online experience.\n\n\ud83c\udf05 Daily Inspirations:\nWallpapers play a significant role in influencing our emotional state and enhancing our daily experiences. With a vast collection of tab wallpapers, Homey provides a range of captivating options to suit every mood and occasion. From lively animated wallpapers to serene landscapes, Homey's dynamic live wallpapers transform your new tab into a visual delight. \nThe daily wallpapers feature, brings each day a fresh burst of inspiration with thematic wallpapers. Mbrace the joy of festivities with our holiday-themed carefully curated wallpapers theme collection that capture the spirit of each special occasion. And as the seasons shift, revel in the breathtaking beauty of spring blossoms, summer sunsets, autumnal hues, and winter wonderlands.\n\n\ud83c\udf9b\ufe0f Convenient Sidebar: \nThe sidebar provides access to other essential browser features. You can quickly view your browsing history, allowing you to revisit previously visited pages with ease. The sidebar also houses your downloads, so you can easily find and manage files that you've saved from the internet.\n\nJoin the ever-growing community of Homey users who have unlocked the full potential of their new tab start page. Upgrade your browsing today and witness the transformation of your browsing into a productive, inspiring, and personalized journey with the added convenience of instant ChatGPT access.\n\nInstall now and take control of your browsing like never before. Let Homey be your productivity partner, and ChatGPT your trusted assistant, and witness the magic unfold every time you open a new tab. Personalize, organize, get inspired, and chat with ChatGPT with Homey: Your Ultimate Start Page Extension.",
+      "userCount": 70000,
+      "lastUpdate": "2024-05-16",
+      "size": 9615442,
+      "email": "info@homey.place",
+      "publisherAddress": "Energetikov 14\nEnergodar, Zaporiz'ka oblast 71500\nUA",
+      "publisherCountry": "UA",
+      "supportedLanguages": [
+        "en",
+        "en-GB",
+        "en-US",
+        "es",
+        "pl",
+        "ru",
+        "uk"
+      ],
+      "category": "make_chrome_yours/functionality",
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://homey.place/privacy.html",
+      "media": [
+        {
+          "screenshot": "https://lh3.googleusercontent.com/HH49V4IUfDTX_F6vT9AO9Gne2UHr6RafpNvHl2vTZdhTQDv6J15y1THtWlOR50_Yufa__Cte8jgfFifRIF_I5AofiQ"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/XpmYI-yTZpLPL21pIOStR5rg10wwlbZH79yJ0RnyYW1Ip2j00-ag8i9grPbYmzTg3H5TkS7IgB9hPW5htxRNUSbh"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/tk0OKLiasXzoYgPGxCWDe3pfEh9bvGNRdkE8uxRqxYfStBVf1XjhMZ0XRgrGYt1z9pHeoPXjLqkbns0mgLjh8Bdndg"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/1IhX8Xgox5qXI92z139vbAP2rUUtZ4d_RcUnE8qoSjY6BDKQomnaiAN1-kqK0XNqtd7VTcGblHLnKukMZUQgPAS_oPg"
+        },
+        {
+          "screenshot": "https://lh3.googleusercontent.com/J42g6ZP5Kq6yR-KNKEF15mwa0jkLjTWAWbOsK0nEn-dpsfwwhdDb0Jb6cPSok7xubhLKnzIe5hCiich3WmrJkrrM3A"
+        }
+      ],
+      "numScreenshots": 5,
+      "smallBanner": "https://lh3.googleusercontent.com/iuIuzLb0pa_q4E7hlSfFP_pSNl17cr0IW5qHZjPX0YFijc_mTVH2Y0L29l2ydoTVLXzL2i215SG8qd16qIv3YTE",
+      "ratingValue": 4.769441723800196,
+      "ratingCount": 5105,
+      "permissions": [
+        "bookmarks",
+        "tabs",
+        "history",
+        "storage",
+        "unlimitedStorage",
+        "declarativeNetRequestWithHostAccess",
+        "browsingData",
+        "scripting"
+      ],
+      "author": "https://homey.place",
+      "website": "https://homey.place",
+      "related": [
+        "meffljleomgifbbcffejnmhjagncfpbd",
+        "ehpgcagmhpndkmglombjndkdmggkgnge",
+        "ngigalmiikbffkcabedaikboeodibhga",
+        "nolmjaabcfhpfogmjffginigknjdiilf",
+        "cmfhopmhaagcfnjflfppceclmkenjkpc",
+        "legkgkghbgdnjniakjhbecfiohcapejh",
+        "fgjkpniomfjjdnmnahjeglgobdlmglma",
+        "npmjjkphdlmbeidbdbfefgedondknlaf",
+        "dlnejlppicbjfcfcedcflplfjajinajd",
+        "ambkjbmmhhlgjikfoimpdpicohjlfcnm",
+        "haeeihnjiolbfapfdfhonbfdjclejcni",
+        "gpcccgljmdlfdfcjgphppgpdhpgeahbk"
+      ],
+      "privacyCollections": [],
+      "disclosePrivacyCollection": true,
+      "isTrustedPublisher": true,
+      "isFeatured": true,
+      "localizedDataPointer": {
+        "en-US": "20231004",
+        "en-GB": "20231004",
+        "ru": "20231123",
+        "uk": "20231123",
+        "es": "20231123",
+        "pl": "20231123"
+      },
+      "riskScore": 2,
+      "riskImpact": 3,
+      "riskLikelihood": 0,
+      "creationDate": "2020-06-14",
+      "fetchId": "20240527"
+    }
+  ],
+  "permissions": [
+    {
+      "key": "permission-override-newtab",
+      "risk": 5
+    }
+  ],
+  "crossPlatformData": {
+    "firefox-stats": {
+      "id": "nighttab",
+      "lang": "en-US",
+      "country": "US",
+      "logo": "https://addons.mozilla.org/user-media/addon_icons/2276/2276008-64.png?modified=e033a7a5",
+      "name": "nightTab",
+      "author": "zombieFox",
+      "url": "https://addons.mozilla.org/firefox/addon/nighttab/",
+      "operatingSystem": "Firefox",
+      "version": "7.3.0",
+      "size": 991860,
+      "description": "A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks in nightTab.",
+      "userCount": 4013,
+      "paymentType": "free",
+      "lastUpdate": "2021-10-02",
+      "website": "https://github.com/zombieFox/nightTab/",
+      "authorId": 15062186,
+      "itemCategory": "extension",
+      "privacyPolicyUrl": "https://addons.mozilla.org/firefox/addon/nighttab/privacy/",
+      "permissions": [],
+      "numScreenshots": 12,
+      "ratingValue": 4.8743,
+      "ratingCount": 167,
+      "ratingWithReviewCount": 57,
+      "firefoxAddOnNumericId": 2276008,
+      "weeklyDownloads": 199,
+      "desktopFirefoxCompatible": true,
+      "creationDate": "2019-06-15",
+      "riskScore": 1,
+      "riskImpact": 1,
+      "riskLikelihood": 1,
+      "fetchId": "20240527"
+    }
+  },
+  "score": {
+    "userCount": 70,
+    "ratingValue": 90,
+    "ratingCount": 40,
+    "size": 70,
+    "lastUpdate": 10,
+    "permission": 95
+  },
+  "allRanks": [
+    {
+      "label": "Overall",
+      "key": "overall-rank",
+      "value": 1340,
+      "path": "/top?page=54&date=2024-05-27"
+    },
+    {
+      "label": "Workflow & Planning",
+      "type": "cat",
+      "key": "cat-productivity/workflow-rank",
+      "value": 117,
+      "path": "/c/productivity%2Fworkflow?page=5&date=2024-05-27"
+    },
+    {
+      "label": "Darken your browser",
+      "type": "col",
+      "key": "col-dark_mode-rank",
+      "value": 7,
+      "path": "/col/dark_mode?page=1&date=2024-05-27"
+    },
+    {
+      "label": "search bar",
+      "type": "keyword",
+      "key": "keyword-search_bar-rank",
+      "value": 198,
+      "path": "/keyword/search_bar?page=8&date=2024-05-27",
+      "difficulty": 14.391089999999998
+    }
+  ],
+  "oneWeekAgoRanks": [
+    {
+      "label": "Overall",
+      "key": "overall-rank",
+      "value": 1342,
+      "path": "/top?page=54&date=2024-05-27"
+    },
+    {
+      "label": "Workflow & Planning",
+      "type": "cat",
+      "key": "cat-productivity/workflow-rank",
+      "value": 117,
+      "path": "/c/productivity%2Fworkflow?page=5&date=2024-05-27"
+    },
+    {
+      "label": "Darken your browser",
+      "type": "col",
+      "key": "col-dark_mode-rank",
+      "value": 7,
+      "path": "/col/dark_mode?page=1&date=2024-05-27"
+    },
+    {
+      "label": "search bar",
+      "type": "keyword",
+      "key": "keyword-search_bar-rank",
+      "value": 188,
+      "path": "/keyword/search_bar?page=8&date=2024-05-27",
+      "difficulty": 14.391089999999998
+    }
+  ],
+  "alternateNames": [],
+  "asOfDate": "2024-05-27",
+  "risk": {
+    "permissions": [
+      "permission-override-newtab"
+    ],
+    "specificHosts": [],
+    "emailIsInvalid": false,
+    "authorUrlIsInvalid": false,
+    "abnormalRatingTrend": null,
+    "abnormalUserTrend": null,
+    "knownMalware": null,
+    "knownBadReview": null,
+    "riskScore": 0,
+    "permissionScore": 145,
+    "allPermissions": [
+      {
+        "key": "permission-override-newtab",
+        "risk": 5
+      }
+    ],
+    "riskImpact": 1,
+    "riskLikelihood": 0,
+    "daysSinceLastUpdate": 967,
+    "daysSinceCreation": 1441
+  },
+  "manifestJson": "{\n\"update_url\": \"https://clients2.google.com/service/update2/crx\",\n\n  \"name\": \"nightTab\",\n  \"short_name\": \"nightTab\",\n  \"description\": \"A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks in nightTab.\",\n  \"version\": \"7.3.0\",\n  \"manifest_version\": 2,\n  \"chrome_url_overrides\": {\n    \"newtab\": \"index.html\"\n  },\n  \"icons\": {\n    \"16\": \"icon/icon-16.png\",\n    \"48\": \"icon/icon-48.png\",\n    \"128\": \"icon/icon-128.png\",\n    \"512\": \"icon/icon-512.png\"\n  }\n}",
+  "manifestSummary": {
+    "meta_version": 2,
+    "manifest_version": 2,
+    "override_newtab": true
+  },
+  "isDownloadBlocked": false,
+  "minAsOfDate": "2024-05-19",
+  "maxAsOfDate": "2024-05-27"
+}
