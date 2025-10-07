@@ -11,7 +11,7 @@ If you use any part of this codebase, you are kindly invited to cite our paper:
 }
 ```
 
-
+The paper is accessible on the ACM Digital Library here: https://doi.org/10.1145/3770852 (and also on arXiv: https://arxiv.org/abs/2509.21590)
 
 ## Description
 
